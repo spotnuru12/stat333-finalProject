@@ -1,0 +1,104 @@
+---
+title: "STAT 333 - Final Project"
+author: "Shivani Potnuru"
+date: "`r Sys.Date()`"
+output: html_document
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## scraping from each billboard top 100 wikipedia page (years 1970 - 2024)
+
+```{r}
+library(rvest)
+library(tidyverse)
+library(purrr)
+```
+
+```{r} 
+scrape_year <- function(year) {
+  url <- paste0("https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_", year)
+  page <- read_html(url)
+  
+  table_node <- page %>% html_node("table.wikitable")
+  
+  # if no table found; return NULL
+  if (is.null(table_node)) {
+    warning(paste("No table found for", year))
+    return(NULL)
+  }
+  df <- table_node %>% html_table(fill = TRUE)
+  
+  if (ncol(df) > 0) {
+    names(df)[1] <- "No."
+  }
+  
+  df$Year <- year
+  return(df)
+}
+
+years <- 1970:2024
+
+all_data <- map_dfr(years, function(y) {
+  message("Scraping ", y, "...")
+  scraped <- tryCatch(scrape_year(y), error = function(e) NULL)
+  scraped
+})
+```
+
+# cleaning & fixing type
+```{r} 
+# Check and rename columns if needed
+if ("№" %in% colnames(all_data)) {
+  all_data <- all_data %>% rename(No. = `№`)
+}
+
+if ("Artist(s)" %in% colnames(all_data)) {
+  all_data <- all_data %>% rename(Artist = `Artist(s)`)
+}
+
+# correct data type
+all_data <- all_data %>% mutate(`No.` = as.integer(`No.`))
+
+rank_by_year <- all_data %>%
+  mutate(
+    Artist = tolower(Artist),
+    Artist = str_trim(Artist),
+    all_artists = Artist 
+  ) %>%
+  group_by(Year, `No.`) %>%
+  ungroup() %>%
+  arrange(`No.`, Year)
+
+# split artist names; needs to split "and" by looking at the preceding context to prevent cutting off mid name
+rank_by_year <- rank_by_year %>%
+  mutate(
+    artist_list = str_split(Artist, "\\s*(?i)(and|featuring|with|,|&|vs\\.)\\s*"),
+    primary_artist = map_chr(artist_list, ~ .x[1]),
+    other_artists = map_chr(artist_list, ~ paste(.x[-1], collapse = ", "))
+  ) %>%
+  mutate(
+    primary_artist = str_squish(primary_artist),
+    other_artists = na_if(str_squish(other_artists), "")
+  )
+
+# count appearances and flag one-hit wonders
+rank_by_year <- rank_by_year %>%
+  group_by(primary_artist) %>%
+  mutate(
+    primary_artist_count = n(),
+    one_hit = ifelse(n() == 1, 1, 0)
+  ) %>%
+  ungroup()
+
+# selected cols
+final_data <- rank_by_year %>%
+  select(`No.`, Title, Year, primary_artist, other_artists, primary_artist_count, one_hit, all_artists)
+```
+
+```{r}
+library(readr)
+write_csv(rank_by_year, "STAT333data.csv")
+```
