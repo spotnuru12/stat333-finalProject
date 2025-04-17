@@ -4,7 +4,7 @@ author: "Shivani Potnuru"
 date: "`r Sys.Date()`"
 output: html_document
 ---
-  
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -31,9 +31,9 @@ scrape_year <- function(year) {
   }
   df <- table_node %>% html_table(fill = TRUE)
   
-  if (ncol(df) > 0) {
+    if (ncol(df) > 0) {
     names(df)[1] <- "No."
-  }
+    }
   
   df$Year <- year
   return(df)
@@ -48,9 +48,10 @@ all_data <- map_dfr(years, function(y) {
 })
 ```
 
-# cleaning & fixing type
+## organizing to arrange by year
+
 ```{r} 
-# Check and rename columns if needed
+## organizing to arrange by year
 if ("№" %in% colnames(all_data)) {
   all_data <- all_data %>% rename(No. = `№`)
 }
@@ -59,52 +60,54 @@ if ("Artist(s)" %in% colnames(all_data)) {
   all_data <- all_data %>% rename(Artist = `Artist(s)`)
 }
 
-# correct data type
+# Ensure correct data type
 all_data <- all_data %>% mutate(`No.` = as.integer(`No.`))
 
+sep_rx2 <- regex(
+  "(?i)\\s*(?:,|&|\\bfeaturing\\b|\\bfeat\\.?\\b|\\bwith\\b|\\bvs?\\.?\\b| and (?!the\\b)| x )\\s*"
+)
+
+# Preserve original artist string
 rank_by_year <- all_data %>%
   mutate(
-    Artist = tolower(Artist),
-    Artist = str_trim(Artist),
-    all_artists = Artist 
-  ) %>%
-  group_by(Year, `No.`) %>%
-  ungroup() %>%
-  arrange(`No.`, Year)
-
-# split artist names; needs to split "and" by looking at the preceding context to prevent cutting off mid name
-rank_by_year <- rank_by_year %>%
-  mutate(
-    artist_list = str_split(Artist, "\\s*(?i)(and|featuring|with|,|&|vs\\.)\\s*"),
-    primary_artist = map_chr(artist_list, ~ .x[1]),
-    other_artists = map_chr(artist_list, ~ paste(.x[-1], collapse = ", "))
+    Artist      = tolower(Artist) %>% str_trim(),
+    all_artists = Artist,
+    artist_list = str_split(Artist, sep_rx2)
   ) %>%
   mutate(
-    primary_artist = str_squish(primary_artist),
-    other_artists = na_if(str_squish(other_artists), "")
-  )
-
-# count appearances and flag one-hit wonders
-rank_by_year <- rank_by_year %>%
+    primary_artist = map_chr(artist_list, 1) %>% str_squish(),
+    other_artists  = map_chr(
+      artist_list,
+      ~ {
+        tmp <- discard(.x[-1], ~ .x == "")
+        if (length(tmp)==0) return(NA_character_)
+        paste(tmp, collapse = ", ")
+      }
+    )
+  ) %>%
   group_by(primary_artist) %>%
   mutate(
     primary_artist_count = n(),
-    one_hit = ifelse(n() == 1, 1, 0)
+    one_hit              = ifelse(n()==1, 1, 0)
   ) %>%
   ungroup()
 
-# selected cols
+# final data w/ selected cols 
 final_data <- rank_by_year %>%
-  select(`No.`, Title, Year, primary_artist, other_artists, primary_artist_count, one_hit, all_artists)
+  select(
+    No., Title, Year,
+    Artist,          
+    artist_list,      
+    primary_artist,
+    primary_artist_count,
+    one_hit
+  )
+final_data
 ```
 
-```{r}
-library(readr)
-write_csv(rank_by_year, "STAT333data.csv")
-```
+## connecting to spotify API 
 
-# spotify API 
-```{r}
+```{r} 
 install.packages("spotifyr", repos = "https://cloud.r-project.org/")
 library(spotifyr)
 library(tidyverse)
@@ -113,7 +116,37 @@ Sys.setenv(SPOTIFY_CLIENT_ID = "edfc5777be46422194dcc97219686335")
 Sys.setenv(SPOTIFY_CLIENT_SECRET = "a80a0128279e4448bc406d3810795a82")
 
 access_token <- get_spotify_access_token()
+
 ```
+
+```{r}
+library(jsonlite)
+final_data_to_csv <- final_data %>%
+  mutate(
+    artist_list   = map_chr(artist_list, ~ toJSON(.x, auto_unbox = TRUE)),
+  )
+readr::write_csv(final_data_to_csv, "STAT333data.csv")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
