@@ -102,3 +102,22 @@ final_data <- rank_by_year %>%
 library(readr)
 write_csv(rank_by_year, "STAT333data.csv")
 ```
+
+# spotify API 
+```{r}
+install.packages("spotifyr", repos = "https://cloud.r-project.org/")
+library(spotifyr)
+library(tidyverse)
+
+Sys.setenv(SPOTIFY_CLIENT_ID = "edfc5777be46422194dcc97219686335")
+Sys.setenv(SPOTIFY_CLIENT_SECRET = "a80a0128279e4448bc406d3810795a82")
+
+access_token <- get_spotify_access_token()
+```
+
+
+
+
+
+
+
