@@ -25,6 +25,7 @@ df <- df %>%
   )
 
 
+
 # THERES AN ISSUE WHERE LABELS LIKE OVO (WARNER) AND DEF JAM (UMG) ARE HOUSED/DISTRIBUTED UNDER MAJOR RECORD LABELS
 # Updated dictionary of major labels (including sub‐labels under the Big Three) by decade
 major_labels_list <- list(
@@ -141,6 +142,12 @@ df %>%
   arrange(decade, desc(n)) %>%
   print(n = Inf)
 
+# Split record label list by x; y; z
+df_flagged %>%
+  mutate(
+    record_label_list = map_chr(record_label_list, ~ str_c(.x, collapse = "; "))
+  ) %>%
+  write_csv("data-with-major-label-binary.csv")
 
-write_csv(df_flagged, "data-with-major-label-binary.csv")
+
 
