@@ -142,6 +142,8 @@ df %>%
   arrange(decade, desc(n)) %>%
   print(n = Inf)
 
+df_flagged %>% slice_head(n=10)
+
 # Split record label list by x; y; z
 # Will need to potentially unpack this list before running lm()
 df_flagged %>%
