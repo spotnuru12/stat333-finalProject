@@ -1,0 +1,2043 @@
+Year,No.,primary_artist,Title,is_major_label,decade,sqrt_reappearance,duration_sec,lastfm_genre,lastfm_top_tag,new_lastfm_genre
+1970,1,simon,"""Bridge Over Troubled Water""",TRUE,1970,1,293.12,Folk,Folk,Folk
+1970,2,the carpenters,"""(They Long to Be) Close to You""",FALSE,1970,3.1622776601683795,276,Pop,70s,Pop
+1970,3,the guess who,"""American Woman""",TRUE,1970,1.4142135623730951,307.96,Rock,Classic Rock,Rock
+1970,4,b.j. thomas,"""Raindrops Keep Fallin' on My Head""",FALSE,1970,1.7320508075688772,180.52,Pop,Oldies,Pop
+1970,5,edwin starr,"""War""",TRUE,1970,0,200.266,Rock,Soul,Rock
+1970,6,diana ross,"""Ain't No Mountain High Enough""",TRUE,1970,3.4641016151377544,215.2,Pop,Soul,NA
+1970,7,the jackson 5,"""I'll Be There""",TRUE,1970,2.449489742783178,237.76,Pop,Motown,Pop
+1970,8,rare earth,"""Get Ready""",TRUE,1970,1.4142135623730951,166.706,Rock,Classic Rock,Rock
+1970,9,the beatles,"""Let It Be""",FALSE,1970,1.4142135623730951,243.026,Rock,Classic Rock,Rock
+1970,10,freda payne,"""Band of Gold""",FALSE,1970,1,178.093,Pop,Soul,NA
+1970,11,three dog night,"""Mama Told Me (Not to Come)""",FALSE,1970,2.449489742783178,198.933,Rock,Classic Rock,Rock
+1970,12,ray stevens,"""Everything Is Beautiful""",FALSE,1970,1.4142135623730951,212.773,Pop,70s,Pop
+1970,13,bread,"""Make It with You""",TRUE,1970,1.7320508075688772,192.2,Pop,Soft Rock,NA
+1970,14,vanity fare,"""Hitchin' a Ride""",FALSE,1970,0,175.095,Rock,Oldies,Rock
+1970,17,neil diamond,"""Cracklin' Rosie""",FALSE,1970,2.8284271247461903,179.933,Pop,70s,Pop
+1970,18,dawn,"""Candida""",FALSE,1970,0,182.973,Pop,70s,Pop
+1970,19,sly,"""Thank You (Falettinme Be Mice Elf Agin)""",TRUE,1970,1.4142135623730951,291.32,Rnb,Funk,NA
+1970,20,eric burdon,"""Spill the Wine""",FALSE,1970,0,294.8,Rock,70s,NA
+1970,21,five stairsteps,"""O-o-h Child""",FALSE,1970,0,197.16,Pop,Soul,Pop
+1970,22,norman greenbaum,"""Spirit in the Sky""",FALSE,1970,0,242.893,Rock,Classic Rock,Rock
+1970,23,melanie,"""Lay Down (Candles in the Rain)""",TRUE,1970,1,459.96,Folk,Female Vocalists,Folk
+1970,24,the temptations,"""Ball of Confusion (That's What the World Is Today)""",TRUE,1970,2,246.2,Rnb,Soul,NA
+1970,25,the moments,"""Love on a Two-Way Street""",FALSE,1970,0,217.066,Pop,Soul,Pop
+1970,26,the poppy family,"""Which Way You Goin' Billy?""",FALSE,1970,0,203.426,Unknown,70s,NA
+1970,27,free,"""All Right Now""",FALSE,1970,0,330.643,Rock,Classic Rock,Rock
+1970,29,bobby sherman,"""Julie, Do Ya Love Me""",FALSE,1970,1,172.837,Pop,Pop,Pop
+1970,30,sugarloaf,"""Green-Eyed Lady""",TRUE,1970,1,219.76,Rock,Classic Rock,Rock
+1970,31,stevie wonder,"""Signed, Sealed, Delivered I'm Yours""",TRUE,1970,4.123105625617661,161,Pop,Soul,Pop
+1970,32,blues image,"""Ride Captain Ride""",TRUE,1970,0,225.56,Rock,Classic Rock,Rock
+1970,33,shocking blue,"""Venus""",FALSE,1970,0,187.533,Rock,Classic Rock,Rock
+1970,34,john lennon,"""Instant Karma!""",FALSE,1970,2,200.653,Rock,Classic Rock,Rock
+1970,35,clarence carter,"""Patches""",TRUE,1970,0,193.826,Blues,Soul,Blues
+1970,36,creedence clearwater revival,"""Lookin' out My Back Door""",FALSE,1970,1.4142135623730951,152.466,Rock,Classic Rock,Rock
+1970,37,brook benton,"""Rainy Night in Georgia""",TRUE,1970,0,233.573,Blues,Soul,NA
+1970,38,kenny rogers,"""Something's Burning""",FALSE,1970,3.4641016151377544,242.093,Rock,Country Rock,Rock
+1970,39,chairmen of the board,"""Give Me Just a Little More Time""",FALSE,1970,0,162.826,Rnb,Soul,NA
+1970,40,edison lighthouse,"""Love Grows (Where My Rosemary Goes)""",FALSE,1970,0,174.76,Pop,70s,Pop
+1970,42,anne murray,"""Snowbird""",FALSE,1970,2.6457513110645907,134.226,Country,Country,Country
+1970,43,marmalade,"""Reflections of My Life""",FALSE,1970,0,251.28,Pop,60s,Pop
+1970,44,eddie holman,"""Hey There Lonely Girl""",FALSE,1970,0,216.76,Rnb,Soul,NA
+1970,45,the jaggerz,"""The Rapper""",FALSE,1970,0,162.693,Rock,70s,Rock
+1970,46,the hollies,"""He Ain't Heavy, He's My Brother""",TRUE,1970,1.4142135623730951,256.532,Rock,60s,Rock
+1970,47,alive n kickin',"""Tighter, Tighter""",TRUE,1970,0,168.853,Pop,Pop,Pop
+1970,48,badfinger,"""Come and Get It""",FALSE,1970,1,143.213,Rock,Classic Rock,Rock
+1970,50,charles wright,"""Love Land""",TRUE,1970,1,186.973,Rnb,Old School Soul,Rnb
+1970,51,tyrone davis,"""Turn Back the Hands of Time""",FALSE,1970,0,178.653,Blues,Soul,NA
+1970,52,the kinks,"""Lola""",FALSE,1970,1,241.991,Rock,Classic Rock,Rock
+1970,53,mungo jerry,"""In the Summertime""",FALSE,1970,0,211.88,Rock,70s,NA
+1970,54,r. dean taylor,"""Indiana Wants Me""",TRUE,1970,0,215.146,Rock,70s,Rock
+1970,58,the four tops,"""Still Water (Love)""",TRUE,1970,1,194.693,Rnb,Motown,NA
+1970,59,chicago,"""Make Me Smile""",TRUE,1970,3.7416573867739418,178.933,Rock,Classic Rock,Rock
+1970,60,frijid pink,"""The House of the Rising Sun""",FALSE,1970,0,284.346,Unknown,Classic Rock,NA
+1970,62,white plains,"""My Baby Loves Lovin'""",FALSE,1970,0,157.493,Pop,70s,Pop
+1970,63,the friends of distinction,"""Love or Let Me Be Lonely""",TRUE,1970,0,203.333,Pop,Soul,NA
+1970,64,the brotherhood of man,"""United We Stand""",FALSE,1970,0,177.615,Pop,70s,Pop
+1970,66,mark lindsay,"""Arizona""",TRUE,1970,0,188.133,Pop,70s,Pop
+1970,67,james taylor,"""Fire and Rain""",TRUE,1970,1.7320508075688772,203.613,Folk,Folk,Folk
+1970,68,gene chandler,"""Groovy Situation""",FALSE,1970,0,193.466,Pop,Soul,NA
+1970,69,santana,"""Evil Ways""",TRUE,1970,2.8284271247461903,238.266,Rock,Rock,Rock
+1970,71,the delfonics,"""Didn't I (Blow Your Mind This Time)""",FALSE,1970,0,201.066,Jazz,Soul,NA
+1970,72,elvis presley,"""The Wonder of You""",FALSE,1970,1.4142135623730951,153.2,Rock,Elvis,Rock
+1970,74,ronnie dyson,"""(If You Let Me Make Love To You Then) Why Can't I Touch You?""",TRUE,1970,0,203.746,Unknown,Vocal Harmonies,NA
+1970,76,the spinners,"""It's a Shame""",TRUE,1970,2.449489742783178,190.058,Rnb,Soul,NA
+1970,77,bobbi martin,"""For the Love of Him""",TRUE,1970,0,87.987,Rock,Easy Listening,Rock
+1970,78,mountain,"""Mississippi Queen""",TRUE,1970,0,151.293,Rock,Classic Rock,Rock
+1970,79,ike,"""I Want to Take You Higher""",FALSE,1970,1,172.026,Rock,Soul,Rock
+1970,80,joe cocker,"""The Letter""",FALSE,1970,1.4142135623730951,250.626,Rock,Classic Rock,Rock
+1970,81,tee-set,"""Ma Belle Amie""",FALSE,1970,0,194.859,Pop,Oldies,Pop
+1970,82,the originals,"""The Bells""",TRUE,1970,0,175.56,Rnb,Motown,NA
+1970,83,christie,"""Yellow River""",FALSE,1970,0,165.96,Pop,70s,Pop
+1970,84,100 proof (aged in soul),"""Somebody's Been Sleeping""",FALSE,1970,0,252.08,Rnb,Soul,Rnb
+1970,85,the ides of march,"""Vehicle""",TRUE,1970,0,178.066,Rock,70s,Rock
+1970,86,the pipkins,"""Gimme Dat Ding""",FALSE,1970,0,134.106,Pop,70s,Pop
+1970,87,robin mcnamara,"""Lay a Little Lovin' on Me""",FALSE,1970,0,196.84,Rock,Oldies,Rock
+1970,88,the supremes,"""Up the Ladder to the Roof""",TRUE,1970,0,191.666,Pop,Motown,Pop
+1970,90,the sandpipers,"""Come Saturday Morning""",FALSE,1970,0,185.8,Pop,70s,Pop
+1970,92,tom jones,"""Without Love (There Is Nothing)""",FALSE,1970,1,212.838,Pop,Pop,Pop
+1970,93,pacific gas,"""Are You Ready?""",TRUE,1970,0,322.266,Rock,Classic Rock,Rock
+1970,94,crosby,"""Woodstock""",TRUE,1970,1.4142135623730951,233.773,Unknown,NA,NA
+1970,95,dionne warwick,"""I'll Never Fall in Love Again""",TRUE,1970,2,174.84,Pop,Easy Listening,NA
+1970,96,the new seekers,"""Look What They've Done to My Song Ma""",TRUE,1970,1,202.906,Pop,Pop,Pop
+1970,97,joe south,"""Walk A Mile In My Shoes""",FALSE,1970,0,248.093,Pop,70s,Pop
+1970,98,b.b. king,"""The Thrill Is Gone""",FALSE,1970,0,324.733,Blues,Blues,Blues
+1970,99,glen campbell,"""It's Only Make Believe""",FALSE,1970,1.7320508075688772,147.48,Country,Country,Country
+1970,100,aretha franklin,"""Call Me""",TRUE,1970,2.8284271247461903,237.066,Rnb,Soul,Rnb
+1971,2,rod stewart,"""Maggie May""/""Reason to Believe""",FALSE,1970,3.605551275463989,350.146,Unknown,NA,NA
+1971,3,carole king,"""It's Too Late""/""I Feel the Earth Move""",TRUE,1970,1,258.16,Unknown,NA,NA
+1971,4,the osmonds,"""One Bad Apple""",FALSE,1970,1.4142135623730951,164.973,Pop,70s,Pop
+1971,5,bee gees,"""How Can You Mend a Broken Heart""",FALSE,1970,3.3166247903554,285.373,Pop,Pop,Pop
+1971,6,raiders,"""Indian Reservation (The Lament of the Cherokee Reservation Indian)""",TRUE,1970,0,171.933,Rock,70s,Rock
+1971,7,donny osmond,"""Go Away Little Girl""",FALSE,1970,2,150.6,Pop,70s,Pop
+1971,8,john denver,"""Take Me Home, Country Roads""",TRUE,1970,2.23606797749979,190.16,Country,Country,Country
+1971,10,tony orlando,"""Knock Three Times""",FALSE,1970,1.7320508075688772,177.173,Pop,70s,Pop
+1971,11,janis joplin,"""Me and Bobby McGee""",TRUE,1970,0,271.333,Blues,Classic Rock,Blues
+1971,12,al green,"""Tired of Being Alone""",FALSE,1970,2.23606797749979,172.32,Rnb,Soul,NA
+1971,13,honey cone,"""Want Ads""",FALSE,1970,1,168.28,Pop,70s,Pop
+1971,14,the undisputed truth,"""Smiling Faces Sometimes""",TRUE,1970,0,198.546,Rnb,Soul,NA
+1971,15,cornelius brothers,"""Treat Her Like a Lady""",FALSE,1970,1,160.36,Pop,70s,NA
+1971,16,the rolling stones,"""Brown Sugar""",FALSE,1970,2.23606797749979,228.666,Rock,Classic Rock,Rock
+1971,18,jean knight,"""Mr. Big Stuff""",FALSE,1970,0,164.56,Pop,Soul,NA
+1971,19,lee michaels,"""Do You Know What I Mean""",FALSE,1970,0,193.8,Rock,Classic Rock,Rock
+1971,20,joan baez,"""The Night They Drove Old Dixie Down""",FALSE,1970,0,206.066,Folk,Folk,Folk
+1971,21,marvin gaye,"""What's Going On""",TRUE,1970,2,233,Rnb,Soul,NA
+1971,22,paul,"""Uncle Albert/Admiral Halsey""",FALSE,1970,0,295.146,Pop,Classic Rock,Pop
+1971,23,bill withers,"""Ain't No Sunshine""",TRUE,1970,1.4142135623730951,125.093,Blues,Soul,Blues
+1971,24,five man electrical band,"""Signs""",FALSE,1970,0,241.693,Rock,Classic Rock,Rock
+1971,26,the free movement,"""I've Found Someone of My Own""",TRUE,1970,0,226.514,Unknown,70s,NA
+1971,27,murray head,"""Superstar""",FALSE,1970,1,255.831,Unknown,NA,NA
+1971,28,jerry reed,"""Amos Moses""",FALSE,1970,1,139.226,Country,Country,Country
+1971,29,the grass roots,"""Temptation Eyes""",FALSE,1970,0,159.173,Pop,60s,Pop
+1971,31,george harrison,"""My Sweet Lord""/""Isn't It A Pity""",FALSE,1970,1.7320508075688772,244.517,Unknown,NA,NA
+1971,33,ocean,"""Put Your Hand in the Hand""",FALSE,1970,0,176.706,Pop,70s,Pop
+1971,34,daddy dewdrop,"""Chick-A-Boom (Don't Ya Jes' Love It)""",FALSE,1970,0,171.533,Pop,70s,Pop
+1971,36,gordon lightfoot,"""If You Could Read My Mind""",TRUE,1970,1,228.84,Folk,70s,Folk
+1971,37,sammi smith,"""Help Me Make It Through the Night""",FALSE,1970,0,155.533,Country,Country,Country
+1971,39,cher,"""Gypsys, Tramps & Thieves""",FALSE,1970,3,158,Pop,Pop,Pop
+1971,41,lynn anderson,"""Rose Garden""",TRUE,1970,0,175.866,Country,Country,Country
+1971,42,hamilton,"""Don't Pull Your Love""",FALSE,1970,1,163.04,Rock,70s,Rock
+1971,43,ringo starr,"""It Don't Come Easy""",FALSE,1970,2,184.333,Rock,Classic Rock,Rock
+1971,44,nitty gritty dirt band,"""Mr. Bojangles""",FALSE,1970,0,215.4,Country,Country,Country
+1971,45,the fuzz,"""I Love You for All Seasons""",TRUE,1970,0,188.373,Unknown,Soul,NA
+1971,46,the dramatics,"""Whatcha See Is Whatcha Get""",FALSE,1970,1,214.973,Rnb,Soul,NA
+1971,47,carly simon,"""That's the Way I've Always Heard It Should Be""",TRUE,1970,2.23606797749979,258.133,Pop,70s,Pop
+1971,50,helen reddy,"""I Don't Know How to Love Him""",TRUE,1970,2.449489742783178,198.866,Pop,70s,Pop
+1971,53,the partridge family,"""Doesn't Somebody Want to Be Wanted""",FALSE,1970,1,167.733,Pop,70s,Pop
+1971,54,tommy james,"""Draggin' the Line""",TRUE,1970,0,164.866,Pop,Classic Rock,Pop
+1971,57,the bells,"""Stay Awhile""",FALSE,1970,0,204.333,Folk,Folk,Folk
+1971,58,the stampeders,"""Sweet City Woman""",FALSE,1970,0,207.426,Pop,70s,Pop
+1971,59,lobo,"""Me and You and a Dog Named Boo""",TRUE,1970,1,177.933,Pop,70s,Pop
+1971,60,paul mccartney,"""Another Day""/""Oh Woman, Oh Why""",FALSE,1970,3.4641016151377544,291.893,Unknown,NA,NA
+1971,63,brewer,"""One Toke Over the Line""",FALSE,1970,0,199.293,Country,Classic Rock,Country
+1971,64,8th day,"""She's Not Just Another Woman""",FALSE,1970,0,186.386,Unknown,60s,NA
+1971,67,delaney,"""Never Ending Song of Love""",TRUE,1970,0,200.466,Rock,Rock,Rock
+1971,68,freddie hart,"""Easy Loving""",FALSE,1970,0,158.324,Country,Country,Country
+1971,71,mac,"""Chirpy Chirpy Cheep Cheep""",FALSE,1970,0,164.011,Pop,70s,Pop
+1971,72,andy williams,"""(Where Do I Begin?) Love Story""",TRUE,1970,0,189.066,Unknown,60s,NA
+1971,73,cat stevens,"""Wild World""",FALSE,1970,1.4142135623730951,200.56,Folk,Folk,Folk
+1971,75,the beginning of the end,"""Funky Nassau""",FALSE,1970,0,186.301,Pop,Funk,Pop
+1971,76,olivia newton-john,"""If Not for You""",FALSE,1970,3.4641016151377544,171.24,Country,Country,Country
+1971,77,king floyd,"""Groove Me""",FALSE,1970,0,183.266,Rnb,Soul,NA
+1971,78,bobby goldsboro,"""Watching Scotty Grow""",TRUE,1970,0,157.506,Unknown,60s,NA
+1971,79,matthews southern comfort,"""Woodstock""",FALSE,1970,0,269.333,Rock,Folk Rock,NA
+1971,80,judy collins,"""Amazing Grace""",FALSE,1970,0,248.693,Folk,Folk,Folk
+1971,81,dave edmunds,"""I Hear You Knocking""",FALSE,1970,0,167.026,Rock,Classic Rock,Rock
+1971,83,the fortunes,"""Here Comes That Rainy Day Feeling Again""",FALSE,1970,0,172.16,Pop,60s,Pop
+1971,84,the who,"""Won't Get Fooled Again""",FALSE,1970,1,511.4,Rock,Classic Rock,Rock
+1971,85,denise lasalle,"""Trapped By a Thing Called Love""",FALSE,1970,0,158.733,Blues,Soul,Blues
+1971,87,the buoys,"""Timothy""",FALSE,1970,0,165.575,Pop,70s,Pop
+1971,89,isaac hayes,"""Theme from Shaft""",FALSE,1970,1,279.2,Rnb,Funk,NA
+1971,90,gladys knight,"""If I Were Your Woman""",TRUE,1970,2.449489742783178,194.533,Rnb,Soul,NA
+1971,92,paul stookey,"""The Wedding Song (There Is Love)""",FALSE,1970,0,226.76,Unknown,NA,NA
+1971,93,wilson pickett,"""Don't Knock My Love""",FALSE,1970,0,136.4,Unknown,Soul,NA
+1971,94,the doors,"""Love Her Madly""",TRUE,1970,1,198.466,Rock,Classic Rock,Rock
+1971,95,richie havens,"""Here Comes the Sun""",FALSE,1970,0,254,Folk,Folk,Folk
+1971,96,wadsworth mansion,"""Sweet Mary""",FALSE,1970,0,162.666,Pop,70s,Pop
+1971,97,brenda,"""Right on the Tip of My Tongue""",FALSE,1970,0,199.8,Unknown,Soul,NA
+1971,98,the 5th dimension,"""One Less Bell to Answer""",TRUE,1970,1,210.76,Pop,Soul,Pop
+1971,100,perry como,"""It's Impossible""",TRUE,1970,0,197.106,Jazz,Easy Listening,NA
+1972,1,roberta flack,"""The First Time Ever I Saw Your Face""",TRUE,1970,2.23606797749979,260.666,Pop,Soul,NA
+1972,2,gilbert o'sullivan,"""Alone Again (Naturally)""",FALSE,1970,1.4142135623730951,221.373,Pop,70s,Pop
+1972,3,don mclean,"""American Pie""",TRUE,1970,1.4142135623730951,516.893,Folk,Classic Rock,Folk
+1972,4,harry nilsson,"""Without You""",FALSE,1970,1,201,Pop,70s,Pop
+1972,5,sammy davis jr.,"""The Candy Man""",FALSE,1970,0,188.226,Jazz,Jazz,Jazz
+1972,6,joe tex,"""I Gotcha""",FALSE,1970,1,148.813,Pop,Funk,NA
+1972,8,mac davis,"""Baby, Don't Get Hooked on Me""",TRUE,1970,1,183.933,Unknown,Soundtrack,NA
+1972,10,wayne newton,"""Daddy Don't You Walk So Fast""",FALSE,1970,0,206.333,Unknown,1970'S,NA
+1972,12,looking glass,"""Brandy (You're a Fine Girl)""",TRUE,1970,0,186.826,Pop,70s,Pop
+1972,13,the chi-lites,"""Oh Girl""",FALSE,1970,0,216.28,Rnb,Soul,NA
+1972,14,gallery,"""Nice to Be with You""",FALSE,1970,0,157.162,Rock,70s,Rock
+1972,15,chuck berry,"""My Ding-a-Ling""",FALSE,1970,0,223.573,Rock,Oldies,Rock
+1972,16,luther ingram,"""(If Loving You Is Wrong) I Don't Want to Be Right""",FALSE,1970,0,216.8,Blues,Soul,Blues
+1972,17,neil young,"""Heart of Gold""",FALSE,1970,0,187.11,Rock,Classic Rock,Rock
+1972,18,the stylistics,"""Betcha by Golly, Wow""",FALSE,1970,1.7320508075688772,253.004,Rnb,Soul,NA
+1972,19,the staple singers,"""I'll Take You There""",FALSE,1970,1,196.826,Rnb,Soul,NA
+1972,20,michael jackson,"""Ben""",TRUE,1970,5,167.386,Pop,Pop,Pop
+1972,21,robert john,"""The Lion Sleeps Tonight""",TRUE,1970,1,153.706,Rock,70s,NA
+1972,22,billy preston,"""Outa-Space""",FALSE,1970,1.7320508075688772,250.866,Rock,Funk,NA
+1972,23,war,"""Slippin' into Darkness""",FALSE,1970,2.449489742783178,227.373,Rock,Funk,Rock
+1972,25,mouth,"""How Do You Do""",FALSE,1970,0,244.133,Pop,70s,Pop
+1972,27,america,"""A Horse with No Name""",TRUE,1970,1.7320508075688772,252.239,Rock,Classic Rock,Rock
+1972,28,hot butter,"""Popcorn""",TRUE,1970,0,151.44,Electronic,Electronic,Electronic
+1972,29,the main ingredient,"""Everybody Plays the Fool""",FALSE,1970,1,202.253,Rnb,Soul,NA
+1972,30,climax,"""Precious and Few""",FALSE,1970,0,164.653,Rock,70s,NA
+1972,32,the moody blues,"""Nights in White Satin""",FALSE,1970,0,269.106,Rock,Classic Rock,Rock
+1972,33,raspberries,"""Go All the Way""",TRUE,1970,0,205.346,Rock,70s,Rock
+1972,35,the o'jays,"""Back Stabbers""",TRUE,1970,2.23606797749979,186.093,Rnb,Soul,NA
+1972,37,jonathan edwards,"""Sunshine""",TRUE,1970,0,138.733,Folk,70s,Folk
+1972,38,mel,"""Starting All Over Again""",FALSE,1970,0,230.92,Blues,Soul,NA
+1972,40,elton john,"""Rocket Man""",FALSE,1970,5.196152422706632,281.613,Pop,Classic Rock,Pop
+1972,42,daniel boone,"""Beautiful Sunday""",FALSE,1970,0,185.346,Pop,70s,Pop
+1972,43,dennis coffey,"""Scorpio""",FALSE,1970,0,263.229,Jazz,Funk,Jazz
+1972,45,arlo guthrie,"""City of New Orleans""",FALSE,1970,0,274.506,Folk,Folk,Folk
+1972,46,ricky nelson,"""Garden Party""",FALSE,1970,0,229.8,Pop,Oldies,Pop
+1972,47,johnny nash,"""I Can See Clearly Now""",FALSE,1970,1,164.733,Reggae,Reggae,Reggae
+1972,49,betty wright,"""Clean Up Woman""",TRUE,1970,0,169.533,Blues,Soul,NA
+1972,50,argent,"""Hold Your Head Up""",FALSE,1970,0,377.56,Rock,Classic Rock,Rock
+1972,51,the chakachas,"""Jungle Fever""",FALSE,1970,0,263.013,Latin,Funk,Latin
+1972,55,donna fargo,"""The Happiest Girl in the Whole U.S.A.""",FALSE,1970,1,151.306,Country,Country,Country
+1972,56,t. rex,"""Bang a Gong (Get it On)""",TRUE,1970,0,267,Rock,Glam Rock,Rock
+1972,57,paul simon,"""Mother and Child Reunion""",FALSE,1970,2,187.4,Reggae,70s,Reggae
+1972,60,derek and the dominos,"""Layla""",FALSE,1970,0,423.84,Rock,Classic Rock,Rock
+1972,64,dr. hook,"""Sylvia's Mother""",TRUE,1970,2.6457513110645907,228.333,Rock,70s,Rock
+1972,68,jim croce,"""You Don't Mess Around with Jim""",FALSE,1970,1.7320508075688772,148.586,Folk,70s,Folk
+1972,69,commander cody,"""Hot Rod Lincoln""",FALSE,1970,0,164.933,Rock,Rockabilly,NA
+1972,70,sonny,"""A Cowboy's Work Is Never Done""",FALSE,1970,0,195.626,Rock,Rock,Rock
+1972,71,apollo 100,"""Joy""",FALSE,1970,0,170.282,Pop,Instrumental,Pop
+1972,74,charley pride,"""Kiss an Angel Good Mornin'""",TRUE,1970,0,123.466,Country,Country,Country
+1972,75,alice cooper,"""School's Out""",TRUE,1970,2.23606797749979,210.106,Rock,Classic Rock,Rock
+1972,77,joe simon,"""Drowning in the Sea of Love""",FALSE,1970,1.4142135623730951,203.106,Blues,Soul,Blues
+1972,80,the jimmy castor bunch,"""Troglodyte (Cave Man)""",FALSE,1970,0,217.933,Pop,Funk,NA
+1972,81,redbone,"""The Witch Queen of New Orleans""",FALSE,1970,1,165.093,Rock,70s,Rock
+1972,82,curtis mayfield,"""Freddie's Dead""",TRUE,1970,1,329.466,Rnb,Soul,NA
+1972,84,jerry butler,"""Ain't Understanding Mellow""",FALSE,1970,0,260.333,Rnb,Rnb,Rnb
+1972,85,harry chapin,"""Taxi""",TRUE,1970,1,402.84,Folk,Singer-Songwriter,Folk
+1972,86,beverly bremers,"""Don't Say You Don't Remember""",FALSE,1970,0,203.05,Rock,70s,Rock
+1972,87,bobby vinton,"""Sealed with a Kiss""",TRUE,1970,0,169.066,Pop,Oldies,Pop
+1972,88,todd rundgren,"""I Saw the Light""",TRUE,1970,1,182.8,Rock,Classic Rock,Rock
+1972,89,sailcat,"""Motorcycle Mama""",FALSE,1970,0,126.573,Rock,Motorcycle Mama,Rock
+1972,90,original cast of godspell,"""Day by Day""",FALSE,1970,0,194.466,Unknown,NA,NA
+1972,91,yes,"""Roundabout""",TRUE,1970,1,516.245,Rock,Progressive Rock,Rock
+1972,92,jackson browne,"""Doctor My Eyes""",TRUE,1970,1.7320508075688772,199.706,Rock,Classic Rock,Rock
+1972,95,the detroit emeralds,"""Baby Let Me Take You (In My Arms)""",FALSE,1970,0,230.368,Pop,1972,Pop
+1972,96,rick springfield,"""Speak to the Sky""",FALSE,1970,2,162.986,Pop,Pop,Pop
+1972,97,the hillside singers,"""I'd Like to Teach the World to Sing (In Perfect Harmony)""",FALSE,1970,0,136.341,Unknown,NA,NA
+1972,98,love unlimited,"""Walkin' in the Rain with the One I Love""",FALSE,1970,0,287.933,Unknown,Soul,NA
+1972,99,james brown,"""Get on the Good Foot""",FALSE,1970,1,209.906,Rock,Funk,NA
+1972,100,the isley brothers,"""Pop That Thang""",TRUE,1970,1.7320508075688772,172.76,Pop,Soul,NA
+1973,6,kris kristofferson,"""Why Me""",FALSE,1970,0,206.96,Country,Country,Country
+1973,11,vicki lawrence,"""The Night the Lights Went Out in Georgia""",FALSE,1970,0,220.52,Pop,70s,Pop
+1973,12,clint holmes,"""Playground in My Mind""",TRUE,1970,0,172.746,Pop,70s,Pop
+1973,13,stories,"""Brother Louie""",FALSE,1970,0,235.8,Rock,70s,Rock
+1973,15,billy paul,"""Me and Mrs. Jones""",TRUE,1970,0,284.906,Pop,Soul,NA
+1973,16,the edgar winter group,"""Frankenstein""",FALSE,1970,1,284.293,Rock,Classic Rock,Rock
+1973,17,dobie gray,"""Drift Away""",FALSE,1970,0,237.466,Pop,Soul,NA
+1973,18,sweet,"""Little Willy""",TRUE,1970,1.7320508075688772,192.293,Rock,70s,Rock
+1973,22,sylvia robinson,"""Pillow Talk""",TRUE,1970,0,116.823,Unknown,Oldies,NA
+1973,23,grand funk railroad,"""We're an American Band""",TRUE,1970,1.4142135623730951,207.093,Rock,Classic Rock,Rock
+1973,24,dr. john,"""Right Place Wrong Time""",TRUE,1970,0,175.24,Blues,Funk,Blues
+1973,25,skylark,"""Wildflower""",FALSE,1970,0,250.4,Pop,70s,Pop
+1973,28,maureen mcgovern,"""The Morning After""",FALSE,1970,0,141.72,Pop,70s,Pop
+1973,30,stealers wheel,"""Stuck in the Middle with You""",FALSE,1970,0,208.946,Rock,Classic Rock,Rock
+1973,33,barry white,"""I'm Gonna Love You Just a Little More Baby""",FALSE,1970,1.4142135623730951,431.506,Rnb,Soul,Rnb
+1973,35,eddie kendricks,"""Keep on Truckin'""",TRUE,1970,1.4142135623730951,479.413,Rnb,Soul,NA
+1973,37,king harvest,"""Dancing in the Moonlight""",FALSE,1970,0,181.133,Pop,70s,Pop
+1973,38,bobby 'boris' pickett,"""Monster Mash""",FALSE,1970,0,192.04,Pop,Halloween,NA
+1973,39,bloodstone,"""Natural High""",FALSE,1970,0,240.466,Rnb,Soul,NA
+1973,40,seals,"""Diamond Girl""",TRUE,1970,1,253.4,Pop,70s,NA
+1973,41,the doobie brothers,"""Long Train Runnin'""",TRUE,1970,1.4142135623730951,207.266,Rock,Classic Rock,Rock
+1973,44,jermaine jackson,"""Daddy's Home""",TRUE,1970,1.4142135623730951,184.6,Rnb,Soul,NA
+1973,46,new york city,"""I'm Doin' Fine Now""",FALSE,1970,0,171.173,Pop,70s,NA
+1973,50,deep purple,"""Smoke on the Water""",TRUE,1970,0,342.173,Rock,Classic Rock,Rock
+1973,52,charlie rich,"""Behind Closed Doors""",TRUE,1970,1.4142135623730951,174.666,Country,Country,Country
+1973,53,loggins,"""Your Mama Don't Dance""",TRUE,1970,0,167.52,Pop,70s,Pop
+1973,57,hurricane smith,"""Oh, Babe, What Would You Say?""",FALSE,1970,0,209.12,Pop,70s,Pop
+1973,58,johnnie taylor,"""I Believe in You (You Believe in Me)""",FALSE,1970,1,307.24,Rnb,Soul,NA
+1973,61,eric weissberg,"""Dueling Banjos""",TRUE,1970,0,194.879,Country,Soundtrack,Country
+1973,64,b.w. stevenson,"""My Maria""",TRUE,1970,0,152,Rock,70s,Rock
+1973,66,edward bear,"""Last Song""",FALSE,1970,0,195.12,Pop,Oldies,NA
+1973,68,steely dan,"""Reelin' in the Years""",FALSE,1970,2.23606797749979,277.467,Rock,Classic Rock,Rock
+1973,69,focus,"""Hocus Pocus""",FALSE,1970,0,402.56,Rock,Progressive Rock,Rock
+1973,71,bette midler,"""Boogie Woogie Bugle Boy""",TRUE,1970,2,137.173,Pop,Swing,Pop
+1973,75,timmy thomas,"""Why Can't We Live Together""",TRUE,1970,0,277.973,Pop,Soul,Pop
+1973,77,tower of power,"""So Very Hard to Go""",TRUE,1970,0,217.24,Pop,Soul,NA
+1973,78,johnny rivers,"""Rockin' Pneumonia and the Boogie Woogie Flu""",FALSE,1970,1,210.133,Rock,Classic Rock,Rock
+1973,79,the allman brothers band,"""Ramblin' Man""",FALSE,1970,0,288.16,Rock,Southern Rock,Rock
+1973,84,ohio players,"""Funky Worm""",FALSE,1970,1.7320508075688772,161.023,Pop,Funk,NA
+1973,86,blue ridge rangers,"""Jambalaya (On the Bayou)""",FALSE,1970,0,197.76,Unknown,NA,NA
+1973,89,jud strunk,"""Daisy a Day""",FALSE,1970,0,169.333,Pop,70s,Pop
+1973,90,deodato,"""Also Sprach Zarathustra (2001)""",FALSE,1970,0,239.906,Jazz,Jazz,Jazz
+1973,92,pink floyd,"""Money""",FALSE,1970,1,382.834,Rock,Classic Rock,Rock
+1973,95,the pointer sisters,"""Yes We Can Can""",FALSE,1970,2.6457513110645907,362.733,Jazz,Soul,NA
+1973,97,david bowie,"""Space Oddity""",FALSE,1970,2,318.026,Rock,Classic Rock,Rock
+1973,98,albert hammond,"""It Never Rains in Southern California""",FALSE,1970,0,233.506,Pop,70s,Pop
+1974,1,barbra streisand,"""The Way We Were""",TRUE,1970,3,211.093,Pop,Barbra Streisand,Pop
+1974,2,terry jacks,"""Seasons in the Sun""",TRUE,1970,0,208.853,Pop,70s,Pop
+1974,3,love unlimited orchestra,"""Love's Theme""",FALSE,1970,0,246.266,Pop,Soul,NA
+1974,7,mfsb,"""TSOP (The Sound of Philadelphia)""",FALSE,1970,0,222.346,Pop,Disco,Pop
+1974,12,kool,"""Jungle Boogie""",FALSE,1970,3.4641016151377544,186.533,Pop,Funk,NA
+1974,13,maria muldaur,"""Midnight at the Oasis""",TRUE,1970,0,229.506,Pop,70s,Pop
+1974,15,al wilson,"""Show and Tell""",FALSE,1970,0,209.98,Pop,Soul,NA
+1974,16,jim stafford,"""Spiders and Snakes""",FALSE,1970,1.4142135623730951,188.64,Pop,70s,Pop
+1974,17,david essex,"""Rock On""",TRUE,1970,0,204.186,Rock,70s,Rock
+1974,19,blue magic,"""Sideshow""",TRUE,1970,0,251.52,Rnb,70s,NA
+1974,20,blue swede,"""Hooked on a Feeling""",FALSE,1970,0,172.866,Rock,70s,Rock
+1974,21,bo donaldson and the heywoods,"""Billy Don't Be a Hero""",FALSE,1970,0,205.866,Unknown,70s,NA
+1974,28,paul anka,"""(You're) Having My Baby""",FALSE,1970,1.7320508075688772,156.293,Pop,70s,Pop
+1974,29,andy kim,"""Rock Me Gently""",TRUE,1970,0,208.333,Pop,70s,Pop
+1974,38,george mccrae,"""Rock Your Baby""",TRUE,1970,0,200.053,Pop,Disco,Pop
+1974,40,steve miller band,"""The Joker""",FALSE,1970,2,264.503,Rock,Classic Rock,Rock
+1974,43,the hues corporation,"""Rock the Boat""",FALSE,1970,0,202.573,Pop,Disco,Pop
+1974,44,brownsville station,"""Smokin' in the Boys Room""",TRUE,1970,0,176.453,Rock,Classic Rock,Rock
+1974,47,paper lace,"""The Night Chicago Died""",FALSE,1970,0,203.333,Pop,70s,Pop
+1974,48,marvin hamlisch,"""The Entertainer""",FALSE,1970,0,183.36,Unknown,Soundtrack,NA
+1974,49,abba,"""Waterloo""",FALSE,1970,2.23606797749979,168.96,Pop,Pop,Pop
+1974,53,joni mitchell,"""Help Me""",TRUE,1970,0,204.186,Folk,Folk,Folk
+1974,56,rufus,"""Tell Me Something Good""",FALSE,1970,1.4142135623730951,277.066,Rnb,Funk,NA
+1974,58,the righteous brothers,"""Rock and Roll Heaven""",FALSE,1970,0,211.866,Pop,70s,Pop
+1974,60,william devaughn,"""Be Thankful for What You Got""",FALSE,1970,0,221.733,Rnb,Soul,NA
+1974,61,johnny bristol,"""Hang on in There Baby""",FALSE,1970,0,233.72,Rnb,Soul,NA
+1974,62,mocedades,"""Eres tú""",FALSE,1970,0,214.573,Pop,Spanish,Pop
+1974,63,bachman-turner overdrive,"""Takin' Care of Business""",FALSE,1970,0,289.893,Rock,Classic Rock,Rock
+1974,64,golden earring,"""Radar Love""",FALSE,1970,1,386.706,Rock,Classic Rock,Rock
+1974,65,dave loggins,"""Please Come to Boston""",FALSE,1970,0,246.08,Folk,70s,Folk
+1974,66,wet willie,"""Keep on Smilin'""",FALSE,1970,0,237.333,Rock,Southern Rock,Rock
+1974,67,bobby womack,"""Lookin' for a Love""",FALSE,1970,0,153.653,Rnb,Soul,NA
+1974,76,eric clapton,"""I Shot the Sheriff""",FALSE,1970,2.6457513110645907,263.746,Rock,Classic Rock,Rock
+1974,79,mike oldfield,"""Tubular Bells""",FALSE,1970,0,1561.133,New Age,Instrumental,New Age
+1974,81,donny,"""I'm Leaving It (All) Up to You""",FALSE,1970,1.4142135623730951,168.88,Unknown,Am Gold,NA
+1974,83,tom t. hall,"""I Love""",FALSE,1970,0,126.666,Country,Classic Country,Country
+1974,86,sister janet mead,"""The Lord's Prayer""",FALSE,1970,0,186,Pop,70s,Pop
+1974,87,lamont dozier,"""Trying to Hold on to My Woman""",FALSE,1970,0,358.214,Pop,Soul,NA
+1974,94,the first class,"""Beach Baby""",FALSE,1970,0,293.453,Pop,70s,Pop
+1974,99,fancy,"""Wild Thing""",FALSE,1970,0,177.44,Rock,Cover,Rock
+1975,1,captain,"""Love Will Keep Us Together""",FALSE,1970,2,205.493,Pop,70s,Pop
+1975,4,freddy fender,"""Before the Next Teardrop Falls""",FALSE,1970,1,149.951,Country,Country,Country
+1975,5,frankie valli,"""My Eyes Adored You""",TRUE,1970,1.4142135623730951,212.013,Pop,70s,Pop
+1975,7,earth,"""Shining Star""",TRUE,1970,3,170.16,Pop,Funk,NA
+1975,9,neil sedaka,"""Laughter in the Rain""",TRUE,1970,1.4142135623730951,170.066,Pop,70s,Pop
+1975,10,eagles,"""One of These Nights""",TRUE,1970,2.6457513110645907,291.685,Rock,Classic Rock,Rock
+1975,14,minnie riperton,"""Lovin' You""",TRUE,1970,0,223.143,Jazz,Soul,NA
+1975,15,carl douglas,"""Kung Fu Fighting""",FALSE,1970,0,197.935,Pop,Disco,Pop
+1975,20,janis ian,"""At Seventeen""",TRUE,1970,0,283.88,Folk,Female Vocalists,Folk
+1975,21,average white band,"""Pick Up the Pieces""",TRUE,1970,1,239.908,Jazz,Funk,Jazz
+1975,22,van mccoy,"""The Hustle""",FALSE,1970,0,248.222,Pop,Disco,NA
+1975,23,labelle,"""Lady Marmalade""",FALSE,1970,0,237.12,Pop,Disco,NA
+1975,25,major harris,"""Love Won't Let Me Wait""",TRUE,1970,0,333.093,Rnb,Soul,Rnb
+1975,30,ozark mountain daredevils,"""Jackie Blue""",FALSE,1970,0,250.12,Pop,70s,Pop
+1975,32,pilot,"""Magic""",FALSE,1970,0,186.333,Pop,70s,Pop
+1975,36,barry manilow,"""Mandy""",TRUE,1970,3.1622776601683795,213.333,Pop,Pop,Pop
+1975,40,michael martin murphey,"""Wildfire""",TRUE,1970,0,307.866,Country,70s,Country
+1975,41,jessi colter,"""I'm Not Lisa""",FALSE,1970,0,203.106,Country,Country,Country
+1975,42,wings,"""Listen to What the Man Said""",FALSE,1970,2,240.986,Pop,Classic Rock,Pop
+1975,43,10cc,"""I'm Not in Love""",FALSE,1970,1,366.64,Pop,70s,Pop
+1975,44,billy swan,"""I Can Help""",TRUE,1970,0,238.333,Pop,70s,Pop
+1975,46,morris albert,"""Feelings""",FALSE,1970,0,245.066,Pop,70s,Pop
+1975,47,linda ronstadt,"""When Will I Be Loved""",FALSE,1970,2.8284271247461903,124.866,Rock,70s,NA
+1975,48,sammy johns,"""Chevy Van""",FALSE,1970,0,179,Pop,70s,NA
+1975,52,bazuka,"""Dynomite""",FALSE,1970,0,309.466,Unknown,Disco,NA
+1975,53,the blackbyrds,"""Walking in Rhythm""",FALSE,1970,0,254.56,Jazz,Soul,Jazz
+1975,55,melissa manchester,"""Midnight Blue""",FALSE,1970,1.4142135623730951,235,Pop,Female Vocalists,Pop
+1975,57,phoebe snow,"""Poetry Man""",FALSE,1970,0,278.8,Pop,70s,NA
+1975,58,ace,"""How Long?""",FALSE,1970,0,204.226,Pop,Pop,Pop
+1975,59,b.t. express,"""Express""",TRUE,1970,1,233.613,Unknown,Funk,NA
+1975,61,styx,"""Lady""",FALSE,1970,2.8284271247461903,177.68,Rock,Classic Rock,Rock
+1975,62,grand funk,"""Bad Time""",TRUE,1970,0,175.36,Rock,Classic Rock,Rock
+1975,64,carol douglas,"""Doctor's Orders""",FALSE,1970,0,270.533,Pop,Disco,Pop
+1975,65,kc and the sunshine band,"""Get Down Tonight""",TRUE,1970,2.449489742783178,317.16,Pop,Disco,Pop
+1975,68,bad company,"""Feel Like Makin' Love""",TRUE,1970,1,313.84,Rock,Classic Rock,Rock
+1975,70,orleans,"""Dance with Me""",FALSE,1970,1,180.479,Pop,70s,NA
+1975,72,gloria gaynor,"""Never Can Say Goodbye""",FALSE,1970,1,179.466,Pop,Disco,Pop
+1975,75,the three degrees,"""When Will I See You Again""",FALSE,1970,0,178.746,Pop,70s,NA
+1975,78,queen,"""Killer Queen""",FALSE,1970,2.6457513110645907,179.6,Rock,Classic Rock,Rock
+1975,81,electric light orchestra,"""Can't Get It Out of My Head""",TRUE,1970,2.8284271247461903,261.466,Rock,Classic Rock,Rock
+1975,85,mike post,"""The Rockford Files Theme""",FALSE,1970,0,186.6,Unknown,Radio Music,NA
+1975,86,tavares,"""It Only Takes a Minute""",FALSE,1970,1,241.386,Pop,Disco,NA
+1975,89,jethro tull,"""Bungle in the Jungle""",FALSE,1970,0,216.213,Rock,Classic Rock,Rock
+1975,90,leo sayer,"""Long Tall Glasses (I Can Dance)""",TRUE,1970,2,190,Pop,70s,Pop
+1975,95,dwight twilley band,"""I'm on Fire""",TRUE,1970,0,199.626,Unknown,Classic Rock,NA
+1975,97,amazing rhythm aces,"""Third Rate Romance""",FALSE,1970,0,201.826,Country,Classic Rock,Country
+1975,98,bachman–turner overdrive,"""You Ain't Seen Nothing Yet""",FALSE,1970,0,234.866,Unknown,NA,NA
+1975,100,disco-tex and the sex-o-lettes,"""Get Dancin'""",TRUE,1970,0,234.601,Unknown,70s,NA
+1976,4,the four seasons,"""December, 1963 (Oh, What a Night)""",TRUE,1970,1,197.146,Pop,70s,Pop
+1976,5,wild cherry,"""Play That Funky Music""",FALSE,1970,0,300,Rock,Funk,NA
+1976,6,the manhattans,"""Kiss and Say Goodbye""",TRUE,1970,1,266.733,Pop,Soul,NA
+1976,7,the miracles,"""Love Machine""",FALSE,1970,0,181.44,Pop,Soul,NA
+1976,9,gary wright,"""Love Is Alive""",TRUE,1970,1.4142135623730951,230.106,Rock,70s,Rock
+1976,10,walter murphy,"""A Fifth of Beethoven""",FALSE,1970,0,182.533,Pop,Disco,NA
+1976,11,hall,"""Sara Smile""",FALSE,1970,1.4142135623730951,185.293,Pop,80s,Pop
+1976,12,starland vocal band,"""Afternoon Delight""",FALSE,1970,0,193.04,Pop,70s,Pop
+1976,14,silver convention,"""Fly, Robin, Fly""",FALSE,1970,1,230.92,Pop,Disco,Pop
+1976,17,andrea true connection,"""More, More, More""",FALSE,1970,0,376.866,Pop,Disco,Pop
+1976,19,dorothy moore,"""Misty Blue""",TRUE,1970,0,222.4,Blues,Soul,NA
+1976,20,the sylvers,"""Boogie Fever""",FALSE,1970,1.4142135623730951,211.413,Unknown,Disco,NA
+1976,21,england dan,"""I'd Really Love to See You Tonight""",TRUE,1970,1,159.106,Pop,70s,Pop
+1976,22,hot chocolate,"""You Sexy Thing""",FALSE,1970,1,244.92,Pop,Disco,Pop
+1976,23,nazareth,"""Love Hurts""",FALSE,1970,0,233.133,Rock,Classic Rock,Rock
+1976,27,commodores,"""Sweet Love""",TRUE,1970,2.6457513110645907,393.561,Pop,Soul,NA
+1976,28,maxine nightingale,"""Right Back Where We Started From""",FALSE,1970,1,192.266,Pop,70s,Pop
+1976,29,rhythm heritage,"""Theme from S.W.A.T.""",FALSE,1970,0,201.493,Jazz,Instrumental,NA
+1976,32,lou rawls,"""You'll Never Find Another Love Like Mine""",FALSE,1970,0,266.2,Blues,Soul,NA
+1976,34,starbuck,"""Moonlight Feels Right""",FALSE,1970,0,221.066,Pop,70s,Pop
+1976,36,the bellamy brothers,"""Let Your Love Flow""",FALSE,1970,0,196.826,Country,Country,Country
+1976,38,vicki sue robinson,"""Turn the Beat Around""",TRUE,1970,0,333.826,Pop,Disco,NA
+1976,40,eric carmen,"""All by Myself""",TRUE,1970,1.4142135623730951,430,Pop,70s,Pop
+1976,41,donna summer,"""Love to Love You Baby""",FALSE,1970,3.1622776601683795,1008.533,Pop,Disco,NA
+1976,47,henry gross,"""Shannon""",FALSE,1970,0,233.676,Pop,70s,Pop
+1976,49,boz scaggs,"""Lowdown""",TRUE,1970,2,317.788,Pop,70s,Pop
+1976,50,peter frampton,"""Show Me the Way""",FALSE,1970,1.4142135623730951,243.266,Rock,Classic Rock,Rock
+1976,51,aerosmith,"""Dream On""",FALSE,1970,3.3166247903554,267.596,Rock,Classic Rock,Rock
+1976,53,fleetwood mac,"""Say You Love Me""",FALSE,1970,3,249.946,Rock,Classic Rock,Rock
+1976,55,cliff richard,"""Devil Woman""",FALSE,1970,1.4142135623730951,214.575,Pop,70s,Pop
+1976,56,elvin bishop,"""Fooled Around and Fell in Love""",TRUE,1970,0,276,Rock,70s,Rock
+1976,57,c. w. mccall,"""Convoy""",FALSE,1970,0,230.6,Country,Country,Country
+1976,58,john sebastian,"""Welcome Back""",FALSE,1970,0,170.893,Pop,70s,Pop
+1976,61,the brothers johnson,"""I'll Be Good to You""",FALSE,1970,1.4142135623730951,288.093,Pop,Funk,NA
+1976,62,the beach boys,"""Rock and Roll Music""",TRUE,1970,1.4142135623730951,149.013,Rock,Rock,Rock
+1976,64,bay city rollers,"""Saturday Night""",FALSE,1970,1.4142135623730951,174.4,Pop,70s,Pop
+1976,68,wing,"""Baby Face""",FALSE,1970,0,116.813,Unknown,Disco,NA
+1976,69,george benson,"""This Masquerade""",TRUE,1970,1.7320508075688772,483.133,Jazz,Jazz,Jazz
+1976,71,silver,"""Wham Bam""",FALSE,1970,0,212.84,Pop,Pop,Pop
+1976,72,keith carradine,"""I'm Easy""",FALSE,1970,0,193.013,Country,Soundtrack,Country
+1976,73,harold melvin,"""Wake Up Everybody""",TRUE,1970,0,452.773,Rnb,Soul,NA
+1976,75,john travolta,"""Let Her In""",FALSE,1970,1.4142135623730951,178.177,Pop,70s,Pop
+1976,84,jefferson starship,"""With Your Love""",TRUE,1970,1,216.24,Rock,Classic Rock,Rock
+1976,85,foghat,"""Slow Ride""",TRUE,1970,0,232.533,Rock,Classic Rock,Rock
+1976,87,thin lizzy,"""The Boys Are Back in Town""",FALSE,1970,0,266.72,Rock,Classic Rock,Rock
+1976,88,david ruffin,"""Walk Away from Love""",TRUE,1970,0,328.92,Rnb,Motown,NA
+1976,90,candi staton,"""Young Hearts Run Free""",TRUE,1970,0,248.36,Pop,Disco,NA
+1976,93,parliament,"""Give Up the Funk (Tear the Roof off the Sucker)""",FALSE,1970,1,348.066,Rnb,Funk,NA
+1976,94,larry groce,"""Junk Food Junkie""",FALSE,1970,0,196.346,Folk,Comedy,Folk
+1976,96,kiss,"""Rock and Roll All Nite (Live)""",FALSE,1970,1.4142135623730951,247.6,Rock,Hard Rock,Rock
+1976,97,rick dees,"""Disco Duck""",FALSE,1970,0,198.42,Unknown,Disco,NA
+1977,2,andy gibb,"""I Just Want to Be Your Everything""",FALSE,1970,2.449489742783178,225.666,Pop,70s,Pop
+1977,3,the emotions,"""Best of My Love""",FALSE,1970,0,220.56,Pop,Disco,NA
+1977,5,hot,"""Angel in Your Arms""",TRUE,1970,0,176.573,Pop,70s,NA
+1977,6,kenny nolan,"""I Like Dreamin'""",FALSE,1970,1,213,Pop,70s,NA
+1977,7,thelma houston,"""Don't Leave Me This Way""",TRUE,1970,0,217.733,Pop,Disco,Pop
+1977,8,rita coolidge,"""(Your Love Has Lifted Me) Higher and Higher""",FALSE,1970,1,241.72,Pop,70s,Pop
+1977,9,alan o'day,"""Undercover Angel""",FALSE,1970,0,211.226,Pop,70s,Pop
+1977,10,mary macgregor,"""Torn Between Two Lovers""",TRUE,1970,0,219.973,Pop,70s,Pop
+1977,14,jimmy buffett,"""Margaritaville""",FALSE,1970,0,250.933,Country,70s,Country
+1977,16,pablo cruise,"""Whatcha Gonna Do?""",FALSE,1970,1.4142135623730951,256.84,Pop,Classic Rock,Pop
+1977,17,peter mccann,"""Do You Wanna Make Love""",FALSE,1970,0,211.772,Pop,Pop,Pop
+1977,21,bill conti,"""Gonna Fly Now""",TRUE,1970,0,167.533,Unknown,Soundtrack,NA
+1977,26,rose royce,"""Car Wash""",FALSE,1970,1,307.573,Pop,Disco,NA
+1977,27,marilyn mccoo,"""You Don't Have to Be a Star (To Be in My Show)""",FALSE,1970,0,279.586,Pop,70s,NA
+1977,29,david soul,"""Don't Give Up on Us""",FALSE,1970,0,218.946,Pop,70s,Pop
+1977,30,stephen bishop,"""On and On""",FALSE,1970,1,181.893,Pop,70s,Pop
+1977,31,foreigner,"""Feels Like the First Time""",TRUE,1970,2.8284271247461903,232.333,Rock,Classic Rock,Rock
+1977,32,climax blues band,"""Couldn't Get It Right""",FALSE,1970,1,198.946,Rock,70s,Rock
+1977,34,jennifer warnes,"""Right Time of the Night""",TRUE,1970,0,173.653,Pop,70s,Pop
+1977,35,natalie cole,"""I've Got Love on My Mind""",TRUE,1970,1.7320508075688772,260,Jazz,Jazz,Jazz
+1977,36,manfred mann's earth band,"""Blinded by the Light""",FALSE,1970,0,428.133,Rock,Classic Rock,Rock
+1977,38,atlanta rhythm section,"""So in to You""",FALSE,1970,1,404.266,Rock,Classic Rock,NA
+1977,40,the jacksons,"""Enjoy Yourself""",FALSE,1970,1.4142135623730951,204.413,Pop,Pop,Pop
+1977,41,brick,"""Dazz""",TRUE,1970,0,202,Pop,Funk,NA
+1977,45,shaun cassidy,"""Da Doo Ron Ron""",FALSE,1970,1.4142135623730951,170,Pop,70s,Pop
+1977,50,andrew gold,"""Lonely Boy""",TRUE,1970,0,264.893,Pop,70s,Pop
+1977,53,heart,"""Barracuda""",FALSE,1970,2.6457513110645907,261.933,Rock,Classic Rock,Rock
+1977,55,bob seger,"""Night Moves""",FALSE,1970,2.23606797749979,324.422,Rock,Rock,Rock
+1977,57,the marshall tucker band,"""Heard It in a Love Song""",FALSE,1970,0,297.973,Rock,Southern Rock,Rock
+1977,58,kansas,"""Carry On Wayward Son""",TRUE,1970,1,323,Rock,Classic Rock,Rock
+1977,61,engelbert humperdinck,"""After the Lovin'""",FALSE,1970,0,233.769,Pop,Easy Listening,Pop
+1977,63,burton cummings,"""Stand Tall""",TRUE,1970,0,272.293,Pop,70s,Pop
+1977,66,ronnie milsap,"""It Was Almost Like a Song""",FALSE,1970,1.7320508075688772,219.52,Country,Country,Country
+1977,67,sanford-townsend band,"""Smoke from a Distant Fire""",TRUE,1970,0,213.973,Rock,Rock,Rock
+1977,69,dean friedman,"""Ariel""",FALSE,1970,0,263.639,Pop,70s,Pop
+1977,71,meco,"""Star Wars Theme/Cantina Band""",FALSE,1970,0,212.306,Unknown,Disco,NA
+1977,72,the floaters,"""Float On""",FALSE,1970,0,255.173,Rnb,Soul,NA
+1977,73,lord david dundas,"""Jeans On""",FALSE,1970,0,193.714,Unknown,NA,NA
+1977,78,supertramp,"""Give a Little Bit""",FALSE,1970,1.4142135623730951,248.173,Rock,Classic Rock,Rock
+1977,91,dr. buzzard's original savannah band,"""Cherchez La Femme""",FALSE,1970,0,347.6,Unknown,Disco,NA
+1977,92,al stewart,"""Year of the Cat""",TRUE,1970,1,400.066,Rock,70s,Rock
+1977,93,heatwave,"""Boogie Nights""",FALSE,1970,1.4142135623730951,303.64,Pop,Disco,NA
+1977,99,london symphony orchestra,"""Star Wars (Main Title)""",FALSE,1970,0,359.119,Unknown,American Film Score Composers,NA
+1977,100,c.j.,"""Devil's Gun""",FALSE,1970,0,215.666,Unknown,NA,NA
+1978,3,debby boone,"""You Light Up My Life""",FALSE,1970,0,216.286,Pop,70s,NA
+1978,5,exile,"""Kiss You All Over""",FALSE,1970,0,214.4,Pop,70s,Pop
+1978,7,player,"""Baby Come Back""",FALSE,1970,1,255.845,Rock,70s,Rock
+1978,9,a taste of honey,"""Boogie Oogie Oogie""",TRUE,1970,1,245.173,Pop,Disco,NA
+1978,12,paul davis,"""I Go Crazy""",FALSE,1970,1.4142135623730951,233.893,Pop,Soft Rock,Pop
+1978,14,samantha sang,"""Emotion""",FALSE,1970,0,237.293,Pop,70s,Pop
+1978,17,billy joel,"""Just the Way You Are""",TRUE,1970,3.3166247903554,290.573,Pop,70s,Pop
+1978,19,yvonne elliman,"""If I Can't Have You""",FALSE,1970,0,177.96,Pop,Disco,Pop
+1978,20,chic,"""Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)""",TRUE,1970,1.7320508075688772,501.466,Rock,Disco,NA
+1978,21,chuck mangione,"""Feels So Good""",FALSE,1970,0,582.733,Jazz,Jazz,Jazz
+1978,22,nick gilder,"""Hot Child in the City""",FALSE,1970,0,215.092,Rock,70s,Rock
+1978,24,bonnie tyler,"""It's a Heartache""",FALSE,1970,1,215.16,Pop,80s,Pop
+1978,26,gerry rafferty,"""Baker Street""",FALSE,1970,0,365.626,Rock,Classic Rock,Rock
+1978,28,johnny mathis,"""Too Much, Too Little, Too Late""",TRUE,1970,0,176.48,Pop,Duets,Pop
+1978,29,peter brown,"""Dance With Me""",TRUE,1970,0,319.226,Rnb,Disco,NA
+1978,30,meat loaf,"""Two Out of Three Ain't Bad""",TRUE,1970,1.7320508075688772,324.44,Rock,Classic Rock,Rock
+1978,31,raydio,"""Jack And Jill""",FALSE,1970,1.4142135623730951,275.666,Pop,70s,Pop
+1978,33,dan hill,"""Sometimes When We Touch""",FALSE,1970,1,252.693,Pop,70s,Pop
+1978,40,walter egan,"""Magnet and Steel""",FALSE,1970,0,204.76,Pop,70s,NA
+1978,41,randy newman,"""Short People""",TRUE,1970,0,176.933,Pop,70s,Pop
+1978,46,john paul young,"""Love Is in the Air""",FALSE,1970,0,208.866,Pop,Disco,Pop
+1978,47,david gates,"""Goodbye Girl""",TRUE,1970,0,168.866,Rock,70s,NA
+1978,50,jay ferguson,"""Thunder Island""",TRUE,1970,0,240.693,Rock,70s,Rock
+1978,53,toby beau,"""My Angel Baby""",FALSE,1970,0,212.401,Rock,70s,Rock
+1978,54,the trammps,"""Disco Inferno""",TRUE,1970,0,218.026,Pop,Disco,Pop
+1978,57,l.t.d.,"""(Every Time I Turn Around) Back in Love Again""",FALSE,1970,0,280.133,Rnb,Soul,NA
+1978,60,dolly parton,"""Here You Come Again""",TRUE,1970,1,179.491,Country,Country,Country
+1978,64,"evelyn ""champagne"" king","""Shame""",TRUE,1970,0,392.8,Rnb,Disco,NA
+1978,65,little river band,"""Reminiscing""",FALSE,1970,2.449489742783178,257.868,Rock,70s,Rock
+1978,67,eddie money,"""Baby Hold On""",TRUE,1970,1.7320508075688772,213.633,Rock,Classic Rock,Rock
+1978,70,lynyrd skynyrd,"""What's Your Name""",FALSE,1970,0,213.266,Rock,Southern Rock,Rock
+1978,71,crystal gayle,"""Don't It Make My Brown Eyes Blue""",FALSE,1970,0,157.653,Country,Country,Country
+1978,72,patti smith group,"""Because the Night""",FALSE,1970,0,204.8,Rock,Rock,Rock
+1978,73,robert palmer,"""Every Kinda People""",TRUE,1970,2,198.146,Pop,80s,Pop
+1978,76,rick james,"""You and I""",TRUE,1970,0,486.026,Rnb,Funk,NA
+1978,78,bob welch,"""Sentimental Lady""",TRUE,1970,1,178.693,Pop,Fleetwood Mac,NA
+1978,79,leblanc,"""Falling""",TRUE,1970,0,192.226,Pop,70s,Pop
+1978,80,santa esmeralda,"""Don't Let Me Be Misunderstood""",FALSE,1970,0,628.546,Latin,Soundtrack,Latin
+1978,81,michael johnson,"""Bluer Than Blue""",FALSE,1970,0,179.666,Pop,70s,NA
+1978,83,kenny loggins,"""Whenever I Call You 'Friend'""",TRUE,1970,2.23606797749979,237.826,Pop,Kenny Loggins,Pop
+1978,84,chris rea,"""Fool (If You Think It's Over)""",FALSE,1970,0,284.533,Rock,Soft Rock,Rock
+1978,85,foxy,"""Get Off""",TRUE,1970,0,244.173,Pop,Disco,NA
+1978,87,joe walsh,"""Life's Been Good""",FALSE,1970,1,536.226,Rock,Classic Rock,Rock
+1978,88,alicia bridges,"""I Love the Nightlife""",FALSE,1970,1,187.973,Pop,Disco,Pop
+1978,89,high inergy,"""You Can't Turn Me Off (In The Middle Of Turning Me On)""",TRUE,1970,0,212.026,Rnb,Old School Slow Jams,NA
+1978,91,odyssey,"""Native New Yorker""",FALSE,1970,0,259.733,Pop,Disco,Pop
+1978,93,boston,"""Don't Look Back""",FALSE,1970,1,360.333,Rock,Classic Rock,Rock
+1978,95,eruption,"""I Can't Stand the Rain""",TRUE,1970,0,185.733,Pop,Disco,Pop
+1979,1,the knack,"""My Sharona""",TRUE,1970,0,295.4,Rock,Rock,Rock
+1979,5,peaches,"""Reunited""",FALSE,1970,1.4142135623730951,345.24,Pop,70s,NA
+1979,8,village people,"""Y.M.C.A.""",FALSE,1970,1,286.666,Pop,Disco,Pop
+1979,9,anita ward,"""Ring My Bell""",FALSE,1970,0,491.933,Pop,Disco,Pop
+1979,14,david naughton,"""Makin' It""",TRUE,1970,0,189.582,Pop,70s,NA
+1979,18,blondie,"""Heart of Glass""",FALSE,1970,1.7320508075688772,229.423,Pop,80s,Pop
+1979,22,amii stewart,"""Knock on Wood""",FALSE,1970,0,248.72,Pop,Disco,NA
+1979,23,suzi quatro,"""Stumblin' In""",FALSE,1970,0,239.611,Pop,70s,Pop
+1979,29,randy vanwarmer,"""Just When I Needed You Most""",TRUE,1970,0,241.746,Pop,70s,Pop
+1979,34,cheap trick,"""I Want You to Want Me""",TRUE,1970,1.4142135623730951,191.226,Rock,Classic Rock,Rock
+1979,37,leif garrett,"""I Was Made for Dancin'""",FALSE,1970,0,196.44,Pop,Disco,Pop
+1979,41,nicolette larson,"""Lotta Love""",TRUE,1970,0,191.773,Pop,70s,Pop
+1979,43,bonnie pointer,"""Heaven Must Have Sent You""",FALSE,1970,0,214.066,Pop,Disco,NA
+1979,44,toto,"""Hold the Line""",TRUE,1970,2,235.546,Rock,Classic Rock,Rock
+1979,45,sister sledge,"""He's the Greatest Dancer""",TRUE,1970,1,375.4,Pop,Disco,NA
+1979,49,frank mills,"""Music Box Dancer""",FALSE,1970,0,192.36,Pop,Instrumental,NA
+1979,50,the charlie daniels band,"""The Devil Went Down to Georgia""",TRUE,1970,0,214.866,Country,Country,Country
+1979,51,john stewart,"""Gold""",FALSE,1970,0,244.133,Rock,Classic Rock,Rock
+1979,59,bobby caldwell,"""What You Won't Do for Love""",FALSE,1970,0,286.493,Jazz,Soul,Jazz
+1979,60,ace frehley,"""New York Groove""",FALSE,1970,0,183.693,Rock,Classic Rock,NA
+1979,61,dire straits,"""Sultans of Swing""",TRUE,1970,1.4142135623730951,348.76,Rock,Classic Rock,Rock
+1979,63,rickie lee jones,"""Chuck E.'s In Love""",TRUE,1970,0,209.28,Rock,Singer-Songwriter,NA
+1979,65,mcfadden,"""Ain't No Stoppin' Us Now""",FALSE,1970,0,420.986,Rnb,Disco,NA
+1979,69,cheryl lynn,"""Got to Be Real""",FALSE,1970,0,307.946,Rnb,Disco,NA
+1979,70,patrick hernandez,"""Born to Be Alive""",FALSE,1970,0,188.133,Pop,Disco,Pop
+1979,73,ian matthews,"""Shake It""",FALSE,1970,0,205.493,Pop,Pop,Pop
+1979,75,gino vannelli,"""I Just Wanna Stop""",FALSE,1970,1,218.306,Rock,70s,Rock
+1979,76,gq,"""Disco Nights (Rock-Freak)""",FALSE,1970,1,354.906,Rnb,Disco,NA
+1979,80,herb alpert,"""Rise""",FALSE,1970,1.4142135623730951,457.4,Jazz,Instrumental,Jazz
+1979,83,roger voudouris,"""Get Used to It""",TRUE,1970,0,182.12,Rock,Adult Contemporary,Rock
+1979,84,ambrosia,"""How Much I Feel""",FALSE,1970,1,283.4,Rock,70s,Rock
+1979,85,eddie rabbitt,"""Suspicions""",TRUE,1970,2,260.866,Country,Country,Country
+1979,86,rex smith,"""You Take My Breath Away""",TRUE,1970,0,197.453,Unknown,70s,NA
+1979,89,the babys,"""Everytime I Think of You""",FALSE,1970,0,243.266,Pop,Classic Rock,Pop
+1979,90,instant funk,"""I Got My Mind Made Up (You Can Get It Girl)""",FALSE,1970,0,317.983,Unknown,Disco,NA
+1979,95,van halen,"""Dance the Night Away""",TRUE,1970,2.23606797749979,188.083,Rock,Classic Rock,Rock
+1979,96,nigel olsson,"""Dancin' Shoes""",TRUE,1970,0,245.106,Pop,70s,Pop
+1979,100,firefall,"""Strange Way""",TRUE,1970,0,285.866,Rock,Classic Rock,NA
+1980,8,lipps inc.,"""Funkytown""",FALSE,1980,0,239.226,Pop,Disco,Pop
+1980,11,rupert holmes,"""Escape (The Piña Colada Song)""",FALSE,1980,1,276.493,Pop,70s,Pop
+1980,12,gary numan,"""Cars""",FALSE,1980,0,238.906,Electronic,80s,Electronic
+1980,13,smokey robinson,"""Cruisin""",TRUE,1980,1.4142135623730951,352.92,Unknown,1979,NA
+1980,15,air supply,"""Lost in Love""",FALSE,1980,2.6457513110645907,233.866,Pop,80s,Pop
+1980,17,christopher cross,"""Ride Like the Wind""",FALSE,1980,2.23606797749979,275.506,Pop,80s,Pop
+1980,24,teri desario,"""Yes, I'm Ready""",FALSE,1980,0,198.6,Unknown,Yes Im Ready,NA
+1980,26,robbie dupree,"""Steal Away""",FALSE,1980,0,213.973,Pop,80s,Pop
+1980,33,dan fogelberg,"""Longer""",FALSE,1980,1.4142135623730951,195.066,Folk,70s,NA
+1980,37,the s.o.s. band,"""Take Your Time (Do It Right)""",FALSE,1980,0,460.8,Rnb,Funk,NA
+1980,39,kim carnes,"""More Love""",FALSE,1980,1,215.986,Pop,80s,Pop
+1980,40,m,"""Pop Muzik""",FALSE,1980,0,200.682,Pop,Pop,Pop
+1980,41,the pretenders,"""Brass in Pocket""",TRUE,1980,1.7320508075688772,185.96,Rock,Rock,Rock
+1980,42,ray,"""Special Lady""",FALSE,1980,0,255.68,Unknown,NA,NA
+1980,44,shalamar,"""The Second Time Around""",FALSE,1980,1.4142135623730951,223.293,Pop,Disco,NA
+1980,48,rocky burnette,"""Tired of Toein' the Line""",FALSE,1980,0,221.243,Rock,80s,Rock
+1980,51,bob seger and the silver bullet band,"""Against the Wind""",FALSE,1980,1,333.72,Rock,Classic Rock,Rock
+1980,57,jd souther,"""You're Only Lonely""",TRUE,1980,0,228,Rock,Classic Rock,Rock
+1980,59,pete townshend,"""Let My Love Open the Door""",FALSE,1980,0,164.653,Rock,Classic Rock,Rock
+1980,60,steve forbert,"""Romeo's Tune""",FALSE,1980,0,212.471,Folk,Singer-Songwriter,Folk
+1980,64,tom petty and the heartbreakers,"""Don't Do Me Like That""",FALSE,1980,1.7320508075688772,161.786,Rock,Classic Rock,Rock
+1980,66,irene cara,"""Fame""",FALSE,1980,1.4142135623730951,316.066,Pop,80s,Pop
+1980,69,benny mardones,"""Into the Night""",FALSE,1980,0,271.8,Rock,80s,NA
+1980,70,pure prairie league,"""Let Me Love You Tonight""",FALSE,1980,0,167.106,Pop,Country Rock,NA
+1980,71,genesis,"""Misunderstanding""",TRUE,1980,3,191.666,Rock,Progressive Rock,Rock
+1980,72,the dirt band,"""An American Dream""",FALSE,1980,0,217.2,Unknown,Collection,NA
+1980,76,neil,"""Should've Never Let You Go""",FALSE,1980,0,258.133,Unknown,NA,NA
+1980,77,charlie dore,"""Pilot of the Airwaves""",FALSE,1980,0,226.946,Pop,70s,Pop
+1980,82,mickey gilley,"""Stand by Me""",FALSE,1980,0,215.106,Country,Country,Country
+1980,83,pat benatar,"""Heartbreaker""",FALSE,1980,2,209.36,Rock,80s,Rock
+1980,88,daryl hall,"""Wait for Me""",FALSE,1980,3.872983346207417,247.8,Pop,Pop,Pop
+1980,95,prince,"""I Wanna Be Your Lover""",TRUE,1980,3.1622776601683795,347.666,Pop,Funk,Pop
+1980,96,charlie daniels band,"""In America""",TRUE,1980,0,198.373,Country,Southern Rock,Country
+1981,10,reo speedwagon,"""Keep on Loving You""",FALSE,1980,1.7320508075688772,200.293,Rock,80s,Rock
+1981,11,joey scarbury,"""Theme from The Greatest American Hero (Believe It or Not)""",TRUE,1980,0,195.293,Unknown,80s,NA
+1981,12,sheena easton,"""Morning Train (Nine to Five)""",FALSE,1980,2.449489742783178,200.826,Pop,80s,Pop
+1981,14,juice newton,"""Queen of Hearts""",FALSE,1980,1.7320508075688772,205.826,Country,Country,Country
+1981,18,grover washington,"""Just the Two of Us""",TRUE,1980,0,438.493,Unknown,NA,NA
+1981,24,stars on 45,"""Stars on 45 Medley""",FALSE,1980,0,233.213,Pop,Pop,Pop
+1981,31,the oak ridge boys,"""Elvira""",FALSE,1980,0,225.626,Country,Country,Country
+1981,36,the manhattan transfer,"""The Boy from New York City""",FALSE,1980,0,222.16,Pop,Pop,Pop
+1981,41,marty balin,"""Hearts""",FALSE,1980,0,258.773,Pop,80s,NA
+1981,45,champaign,"""How 'Bout Us""",FALSE,1980,1,273.226,Pop,Soul,Pop
+1981,47,the greg kihn band,"""The Breakup Song (They Don't Write 'Em)""",FALSE,1980,1,179.084,Rock,80s,Rock
+1981,48,the alan parsons project,"""Time""",FALSE,1980,1.4142135623730951,304.165,Rock,Progressive Rock,Rock
+1981,49,bruce springsteen,"""Hungry Heart""",TRUE,1980,2.8284271247461903,199.453,Rock,Rock,Rock
+1981,50,franke and the knockouts,"""Sweetheart""",FALSE,1980,0,237.506,Rock,80s,Rock
+1981,51,terri gibbs,"""Somebody's Knockin'""",TRUE,1980,0,181.666,Country,Classic Rock,Country
+1981,53,tierra,"""Together""",FALSE,1980,0,255.203,Jazz,Soul,Jazz
+1981,55,dottie west,"""What Are We Doin' in Love""",FALSE,1980,0,184.457,Pop,80s,Pop
+1981,56,journey,"""Who's Crying Now""",TRUE,1980,2.23606797749979,299.653,Rock,Classic Rock,Rock
+1981,57,the police,"""De Do Do Do, De Da Da Da""",FALSE,1980,2,247.293,Rock,80s,Rock
+1981,58,gary u.s. bonds,"""This Little Girl""",FALSE,1980,0,224.28,Rock,80s,Rock
+1981,59,stevie nicks,"""Stop Draggin' My Heart Around""",TRUE,1980,2,244.44,Rock,Classic Rock,Rock
+1981,60,delbert mcclinton,"""Giving It Up for Your Love""",FALSE,1980,0,226.933,Blues,80s,Blues
+1981,63,john cougar,"""Ain't Even Done with the Night""",FALSE,1980,1.4142135623730951,279.066,Rock,Classic Rock,Rock
+1981,68,steve winwood,"""While You See a Chance""",FALSE,1980,2.23606797749979,312.773,Rock,80s,Rock
+1981,76,billy squier,"""The Stroke""",TRUE,1980,1,217.613,Rock,Classic Rock,Rock
+1981,77,alabama,"""Feels So Right""",TRUE,1980,1.4142135623730951,215.786,Country,Country,Country
+1981,78,stanley clarke,"""Sweet Baby""",FALSE,1980,0,227.2,Jazz,Soul,Jazz
+1981,82,john schneider,"""It's Now or Never""",TRUE,1980,0,205.032,Country,80s,Country
+1981,94,devo,"""Whip It""",FALSE,1980,0,161.133,Pop,80s,Pop
+1981,97,rosanne cash,"""Seven Year Ache""",FALSE,1980,0,195.706,Country,Country,Country
+1982,2,survivor,"""Eye of the Tiger""",FALSE,1980,2,243.773,Rock,80s,Rock
+1982,3,joan jett,"""I Love Rock 'n Roll""",FALSE,1980,1,175.173,Rock,Rock,Rock
+1982,5,the j. geils band,"""Centerfold""",FALSE,1980,1,216.533,Rock,80s,Rock
+1982,6,the human league,"""Don't You Want Me""",FALSE,1980,1.4142135623730951,236.92,Pop,80s,Pop
+1982,11,soft cell,"""Tainted Love""",FALSE,1980,0,153.8,Pop,80s,Pop
+1982,12,vangelis,"""Chariots of Fire""",FALSE,1980,0,202.805,New Age,Instrumental,New Age
+1982,13,quarterflash,"""Harden My Heart""",FALSE,1980,1,232.626,Rock,80s,Rock
+1982,16,tommy tutone,"""867-5309/Jenny""",TRUE,1980,0,226.2,Rock,80s,Rock
+1982,17,bertie higgins,"""Key Largo""",FALSE,1980,0,198.946,Pop,80s,NA
+1982,22,willie nelson,"""Always on My Mind""",TRUE,1980,0,212.666,Country,Country,Country
+1982,23,the cars,"""Shake It Up""",TRUE,1980,2,211.96,Rock,80s,Rock
+1982,24,dazz band,"""Let It Whip""",TRUE,1980,0,281.28,Rnb,Funk,NA
+1982,25,the go-go's,"""We Got the Beat""",FALSE,1980,1.7320508075688772,153.133,Pop,80s,Pop
+1982,26,ray parker jr.,"""The Other Woman""",FALSE,1980,1.4142135623730951,247.96,Pop,80s,Pop
+1982,29,the motels,"""Only the Lonely""",FALSE,1980,0,196.2,Pop,80s,NA
+1982,30,men at work,"""Who Can It Be Now?""",TRUE,1980,1.7320508075688772,201.293,Pop,80s,Pop
+1982,38,charlene,"""I've Never Been to Me""",TRUE,1980,0,234.773,Pop,80s,Pop
+1982,40,asia,"""Heat of the Moment""",FALSE,1980,1,227.893,Rock,80s,Rock
+1982,42,buckner,"""Pac-Man Fever""",FALSE,1980,0,229.041,Pop,80s,Pop
+1982,45,lindsey buckingham,"""Trouble""",FALSE,1980,0,236.533,Rock,80s,NA
+1982,51,huey lewis and the news,"""Do You Believe in Love""",FALSE,1980,3,209,Rock,80s,Rock
+1982,53,.38 special,"""Caught Up In You""",FALSE,1980,1,279.333,Rock,Classic Rock,Rock
+1982,56,royal philharmonic orchestra,"""Hooked On Classics""",FALSE,1980,0,306.133,Unknown,Instrumental,NA
+1982,60,karla bonoff,"""Personally""",TRUE,1980,0,216,Pop,Female Vocalists,NA
+1982,61,quincy jones,"""One Hundred Ways""",FALSE,1980,0,259.04,Rnb,Rnb,Rnb
+1982,67,a flock of seagulls,"""I Ran (So Far Away)""",TRUE,1980,0,221.798,Pop,80s,Pop
+1982,71,deniece williams,"""It's Gonna Take a Miracle""",TRUE,1980,1,249.64,Pop,Soul,NA
+1982,75,laura branigan,"""Gloria""",TRUE,1980,2,289.853,Pop,80s,Pop
+1982,81,michael mcdonald,"""I Keep Forgettin' (Every Time You're Near)""",FALSE,1980,1,222.28,Pop,Yacht Rock,Pop
+1982,90,billy idol,"""Hot in the City""",FALSE,1980,2,219.133,Rock,80s,Rock
+1982,91,kim wilde,"""Kids in America""",FALSE,1980,1,206.426,Pop,80s,Pop
+1982,93,michael murphey,"""What's Forever For""",FALSE,1980,0,171.906,Unknown,80s,NA
+1982,96,loverboy,"""Working for the Weekend""",TRUE,1980,1,221,Rock,80s,Rock
+1982,97,greg guidry,"""Goin' Down""",FALSE,1980,0,203.857,Unknown,80s,NA
+1983,8,patti austin,"""Baby, Come to Me""",FALSE,1980,0,215.386,Rnb,Female Vocalists,NA
+1983,9,michael sembello,"""Maniac""",FALSE,1980,0,244.706,Pop,80s,Pop
+1983,10,eurythmics,"""Sweet Dreams (Are Made of This)""",FALSE,1980,1.4142135623730951,216.933,Pop,80s,Pop
+1983,11,culture club,"""Do You Really Want to Hurt Me""",FALSE,1980,2.23606797749979,262.173,Pop,80s,Pop
+1983,13,dexys midnight runners,"""Come On Eileen""",FALSE,1980,0,287.306,Pop,80s,Pop
+1983,16,sérgio mendes,"""Never Gonna Let You Go""",FALSE,1980,0,255.6,Pop,123 Drippy Sappy,Pop
+1983,17,duran duran,"""Hungry Like the Wolf""",FALSE,1980,3.1622776601683795,220.626,Pop,80s,Pop
+1983,20,frida,"""I Know There's Something Going On""",FALSE,1980,0,326.746,Pop,80s,Pop
+1983,22,eddy grant,"""Electric Avenue""",FALSE,1980,0,227.933,Reggae,Reggae,Reggae
+1983,23,thomas dolby,"""She Blinded Me with Science""",FALSE,1980,0,221.266,Electronic,80s,Electronic
+1983,29,lionel richie,"""You Are""",TRUE,1980,3.3166247903554,300.88,Pop,80s,Pop
+1983,30,after the fire,"""Der Kommissar""",TRUE,1980,0,248,Pop,80s,Pop
+1983,31,taco,"""Puttin' on the Ritz""",FALSE,1980,0,281.16,Pop,80s,Pop
+1983,35,men without hats,"""The Safety Dance""",FALSE,1980,0,165.506,Pop,80s,Pop
+1983,36,toni basil,"""Mickey""",FALSE,1980,0,252.885,Pop,80s,Pop
+1983,37,phil collins,"""You Can't Hurry Love""",TRUE,1980,3.605551275463989,175.746,Pop,80s,Pop
+1983,42,stray cats,"""Stray Cat Strut""",FALSE,1980,1,198,Rock,Rockabilly,Rock
+1983,46,naked eyes,"""Always Something There to Remind Me""",FALSE,1980,1,219.373,Pop,80s,Pop
+1983,48,don henley,"""Dirty Laundry""",TRUE,1980,1.7320508075688772,336.8,Rock,Classic Rock,Rock
+1983,50,kajagoogoo,"""Too Shy""",FALSE,1980,0,221.52,Pop,80s,Pop
+1983,51,adam ant,"""Goody Two-Shoes""",TRUE,1980,0,209.213,Pop,80s,Pop
+1983,52,the clash,"""Rock the Casbah""",FALSE,1980,0,222.426,Punk,Punk,Punk
+1983,53,madness,"""Our House""",TRUE,1980,0,201.133,Pop,80s,Pop
+1983,58,the tubes,"""She's a Beauty""",TRUE,1980,0,240.666,Rock,80s,Rock
+1983,71,bryan adams,"""Straight from the Heart""",FALSE,1980,3.3166247903554,211.933,Rock,Rock,Rock
+1983,78,debarge,"""All This Love""",TRUE,1980,1.7320508075688772,352.586,Rnb,80s,Rnb
+1983,79,sammy hagar,"""Your Love Is Driving Me Crazy""",FALSE,1980,0,211.226,Rock,80s,Rock
+1983,82,joe jackson,"""Steppin' Out""",FALSE,1980,1,268.2,Pop,80s,Pop
+1983,88,moving pictures,"""What About Me""",FALSE,1980,0,217.013,Pop,80s,Pop
+1983,90,def leppard,"""Photograph""",FALSE,1980,2.449489742783178,247.962,Rock,Hard Rock,Rock
+1983,91,musical youth,"""Pass the Dutchie""",FALSE,1980,0,205.426,Reggae,Reggae,Reggae
+1983,92,spandau ballet,"""True""",FALSE,1980,0,393.386,Pop,80s,Pop
+1983,93,frank stallone,"""Far from Over""",FALSE,1980,0,195.893,Rock,80s,Rock
+1983,96,peabo bryson,"""Tonight, I Celebrate My Love""",FALSE,1980,1.4142135623730951,211,Pop,Soul,Pop
+1984,2,tina turner,"""What's Love Got to Do with It""",FALSE,1980,2.23606797749979,230.24,Pop,80s,Pop
+1984,11,john waite,"""Missing You""",TRUE,1980,0,269.76,Pop,80s,Pop
+1984,15,cyndi lauper,"""Girls Just Want to Have Fun""",FALSE,1980,2.23606797749979,238.266,Pop,80s,Pop
+1984,19,the romantics,"""Talking in Your Sleep""",FALSE,1980,0,236.625,Pop,80s,Pop
+1984,23,thompson twins,"""Hold Me Now""",FALSE,1980,1.4142135623730951,286.226,Pop,80s,Pop
+1984,26,rockwell,"""Somebody's Watching Me""",TRUE,1980,0,293.933,Pop,80s,Pop
+1984,27,matthew wilder,"""Break My Stride""",FALSE,1980,0,184.48,Pop,80s,Pop
+1984,28,nena,"""99 Luftballons/99 Red Balloons""",FALSE,1980,0,230.666,Unknown,NA,NA
+1984,29,dan hartman,"""I Can Dream About You""",FALSE,1980,0,252.6,Pop,80s,Pop
+1984,30,sheila e.,"""The Glamorous Life""",TRUE,1980,1,543.56,Pop,80s,Pop
+1984,31,steve perry,"""Oh Sherrie""",TRUE,1980,0,229.346,Rock,80s,Rock
+1984,35,madonna,"""Borderline""",FALSE,1980,5.916079783099616,238.36,Pop,80s,Pop
+1984,36,corey hart,"""Sunglasses at Night""",FALSE,1980,1,320,Pop,80s,Pop
+1984,40,night ranger,"""Sister Christian""",FALSE,1980,1.4142135623730951,302.933,Rock,80s,Rock
+1984,46,scandal,"""The Warrior""",FALSE,1980,0,240.826,Rock,80s,Rock
+1984,49,shannon,"""Let the Music Play""",FALSE,1980,0,214.379,Pop,80s,Pop
+1984,50,julio iglesias,"""To All the Girls I've Loved Before""",TRUE,1980,0,212.666,Latin,1984,NA
+1984,51,billy ocean,"""Caribbean Queen (No More Love on the Run)""",FALSE,1980,2.23606797749979,244.426,Pop,80s,Pop
+1984,59,mike reno,"""Almost Paradise""",TRUE,1980,0,228.96,Pop,80s,Pop
+1984,60,zz top,"""Legs""",FALSE,1980,1,273.906,Rock,Rock,Rock
+1984,68,quiet riot,"""Cum on Feel the Noize""",TRUE,1980,0,290.96,Rock,Hard Rock,Rock
+1984,71,tracey ullman,"""They Don't Know""",FALSE,1980,0,179.626,Pop,80s,Pop
+1984,73,bananarama,"""Cruel Summer""",FALSE,1980,1.4142135623730951,215.326,Pop,80s,Pop
+1984,74,wang chung,"""Dance Hall Days""",FALSE,1980,1,240.8,Pop,80s,Pop
+1984,80,ollie,"""Breakin'... There's No Stopping Us""",FALSE,1980,0,276.773,Pop,80s,Pop
+1984,86,john cougar mellencamp,"""Pink Houses""",FALSE,1980,2,283.666,Rock,Classic Rock,Rock
+1984,87,ratt,"""Round and Round""",FALSE,1980,0,265.893,Rock,Hard Rock,Rock
+1984,91,christine mcvie,"""Got a Hold on Me""",FALSE,1980,0,232.906,Pop,Christine Mcvie,NA
+1984,94,john cafferty and the beaver brown band,"""On the Dark Side""",TRUE,1980,0,161.826,Rock,Soundtrack,Rock
+1984,96,peter schilling,"""Major Tom (Coming Home)""",FALSE,1980,0,301.373,Pop,80s,Pop
+1984,100,james ingram,"""Yah Mo B There""",FALSE,1980,1,279.413,Rnb,Soul,Rnb
+1985,1,wham!,"""Careless Whisper""",FALSE,1980,2.449489742783178,299.8,Pop,80s,Pop
+1985,5,chaka khan,"""I Feel for You""",TRUE,1980,0,343.4,Pop,80s,Pop
+1985,7,tears for fears,"""Everybody Wants to Rule the World""",FALSE,1980,2,251.488,Pop,80s,Pop
+1985,10,a-ha,"""Take On Me""",TRUE,1980,0,225.28,Pop,80s,Pop
+1985,11,paul young,"""Everytime You Go Away""",FALSE,1980,1,321.573,Pop,80s,Pop
+1985,12,philip bailey,"""Easy Lover""",TRUE,1980,0,305.866,Pop,80s,Pop
+1985,14,starship,"""We Built This City""",TRUE,1980,1.4142135623730951,296.08,Pop,80s,Pop
+1985,16,simple minds,"""Don't You (Forget About Me)""",FALSE,1980,1,263.04,Pop,80s,Pop
+1985,18,john parr,"""St. Elmo's Fire (Man in Motion)""",TRUE,1980,0,251.8,Pop,80s,Pop
+1985,19,glenn frey,"""The Heat Is On""",FALSE,1980,1,227.8,Rock,80s,Rock
+1985,20,usa for africa,"""We Are the World""",FALSE,1980,0,427.333,Pop,80s,Pop
+1985,23,whitney houston,"""Saving All My Love for You""",FALSE,1980,4.58257569495584,237.136,Pop,80s,Pop
+1985,26,new edition,"""Cool It Now""",FALSE,1980,1.7320508075688772,347.666,Rnb,80s,Rnb
+1985,27,jan hammer,"""Miami Vice Theme""",FALSE,1980,0,147.6,Electronic,80s,Electronic
+1985,29,teena marie,"""Lovergirl""",TRUE,1980,0,259.56,Pop,80s,Pop
+1985,31,ready for the world,"""Oh Sheila""",FALSE,1980,1,240.093,Rnb,80s,Rnb
+1985,34,the honeydrippers,"""Sea of Love""",TRUE,1980,0,183.88,Rock,80s,Rock
+1985,41,howard jones,"""Things Can Only Get Better""",FALSE,1980,1,235.146,Pop,80s,Pop
+1985,42,jack wagner,"""All I Need""",TRUE,1980,0,209.493,Pop,80s,Pop
+1985,55,sting,"""If You Love Somebody Set Them Free""",FALSE,1980,2.449489742783178,256.226,Rock,Rock,Rock
+1985,56,animotion,"""Obsession""",FALSE,1980,0,337.266,Pop,80s,Pop
+1985,61,harold faltermeyer,"""Axel F""",FALSE,1980,0,180.866,Electronic,80s,Electronic
+1985,62,sade,"""Smooth Operator""",FALSE,1980,1,258.693,Jazz,Soul,Jazz
+1985,63,mary jane girls,"""In My House""",TRUE,1980,0,302.2,Rnb,80s,Rnb
+1985,68,'til tuesday,"""Voices Carry""",TRUE,1980,0,263.573,Pop,80s,Pop
+1985,71,abc,"""Be Near Me""",FALSE,1980,1,219.826,Pop,80s,Pop
+1985,75,katrina and the waves,"""Walking on Sunshine""",TRUE,1980,0,238.733,Pop,80s,Pop
+1985,77,julian lennon,"""Too Late for Goodbyes""",TRUE,1980,1,214.645,Pop,80s,Pop
+1985,79,the power station,"""Some Like It Hot""",FALSE,1980,0,305.466,Rock,80s,Rock
+1985,80,ashford,"""Solid""",FALSE,1980,0,312,Pop,80s,Pop
+1985,88,david lee roth,"""California Girls""",FALSE,1980,1,171.826,Rock,80s,Rock
+1985,91,the time,"""Jungle Love""",TRUE,1980,1,333.36,Pop,Funk,Pop
+1986,1,dionne,"""That's What Friends Are For""",FALSE,1980,0,255.933,Unknown,NA,NA
+1986,3,klymaxx,"""I Miss You""",FALSE,1980,0,333.266,Rnb,80s,NA
+1986,4,patti labelle,"""On My Own""",FALSE,1980,0,290.84,Pop,80s,NA
+1986,5,mr. mister,"""Broken Wings""",FALSE,1980,1,343.933,Pop,80s,Pop
+1986,7,eddie murphy,"""Party All the Time""",FALSE,1980,0,253.293,Pop,80s,Pop
+1986,12,atlantic starr,"""Secret Lovers""",FALSE,1980,1.4142135623730951,330.666,Rnb,Soul,NA
+1986,13,gloria loring,"""Friends and Lovers""",FALSE,1980,0,226.56,Unknown,80s,NA
+1986,14,peter cetera,"""Glory of Love""",TRUE,1980,1.4142135623730951,258.333,Pop,80s,Pop
+1986,15,pet shop boys,"""West End Girls""",TRUE,1980,1.4142135623730951,285.906,Pop,80s,Pop
+1986,19,prince and the revolution,"""Kiss""",FALSE,1980,0,226.24,Pop,Funk,Pop
+1986,22,simply red,"""Holding Back the Years""",TRUE,1980,1,269.84,Pop,80s,Pop
+1986,23,peter gabriel,"""Sledgehammer""",FALSE,1980,1,311.986,Rock,80s,Rock
+1986,26,nu shooz,"""I Can't Wait""",TRUE,1980,0,218.826,Pop,80s,Pop
+1986,27,berlin,"""Take My Breath Away""",TRUE,1980,0,255.733,Pop,80s,Pop
+1986,28,falco,"""Rock Me Amadeus""",FALSE,1980,0,202.236,Pop,80s,Pop
+1986,30,bon jovi,"""You Give Love a Bad Name""",FALSE,1980,3.3166247903554,222.706,Rock,Rock,Rock
+1986,32,janet jackson,"""When I Think of You""",FALSE,1980,4.795831523312719,235.493,Pop,80s,Pop
+1986,34,glass tiger,"""Don't Forget Me (When I'm Gone)""",FALSE,1980,1,248.2,Pop,80s,Pop
+1986,36,belinda carlisle,"""Mad About You""",FALSE,1980,1.4142135623730951,216.56,Pop,80s,Pop
+1986,37,level 42,"""Something About You""",FALSE,1980,0,265,Pop,80s,Pop
+1986,40,miami sound machine,"""Conga""",FALSE,1980,1.4142135623730951,254,Pop,80s,Pop
+1986,45,sly fox,"""Let's Go All the Way""",FALSE,1980,0,239.106,Pop,80s,Pop
+1986,48,the bangles,"""Manic Monday""",FALSE,1980,2,184.16,Pop,80s,Pop
+1986,51,stacey q,"""Two of Hearts""",TRUE,1980,0,239.693,Pop,80s,Pop
+1986,52,the jets,"""Crush on You""",FALSE,1980,2,271.266,Pop,80s,Pop
+1986,53,orchestral manoeuvres in the dark,"""If You Leave""",TRUE,1980,0,269.8,Pop,80s,Pop
+1986,56,inxs,"""What You Need""",TRUE,1980,2.23606797749979,214,Rock,Rock,Rock
+1986,60,jermaine stewart,"""We Don't Have to Take Our Clothes Off""",FALSE,1980,0,293.24,Pop,80s,Pop
+1986,61,lisa lisa,"""All Cried Out""",TRUE,1980,1.4142135623730951,284.973,Rnb,80s,Rnb
+1986,62,the outfield,"""Your Love""",TRUE,1980,0,216.466,Rock,80s,Rock
+1986,64,scritti politti,"""Perfect Way""",FALSE,1980,0,284.12,Pop,80s,Pop
+1986,67,el debarge,"""Who's Johnny""",TRUE,1980,0,248.466,Pop,80s,Pop
+1986,68,cameo,"""Word Up!""",FALSE,1980,0,260,Rnb,Funk,Rnb
+1986,70,mike + the mechanics,"""Silent Running (On Dangerous Ground)""",TRUE,1980,1.4142135623730951,346.613,Pop,Pop Rock,Pop
+1986,73,baltimora,"""Tarzan Boy""",TRUE,1980,0,378.946,Pop,80s,Pop
+1986,77,timex social club,"""Rumors""",FALSE,1980,0,288.554,Pop,80s,Pop
+1986,78,dream academy,"""Life in a Northern Town""",TRUE,1980,0,259.293,Pop,80s,Pop
+1986,85,regina,"""Baby Love""",TRUE,1980,0,217.586,Pop,80s,Pop
+1986,86,arcadia,"""Election Day""",FALSE,1980,0,329.106,Pop,80s,Pop
+1986,89,run–d.m.c.,"""Walk This Way""",FALSE,1980,0,310.386,Unknown,NA,NA
+1986,90,anita baker,"""Sweet Love""",FALSE,1980,1,262.266,Rnb,Soul,NA
+1986,91,moody blues,"""Your Wildest Dreams""",FALSE,1980,0,291,Rock,Classic Rock,Rock
+1986,93,starpoint,"""Object of My Desire""",TRUE,1980,0,306.453,Pop,80s,Pop
+1986,95,force mds,"""Tender Love""",FALSE,1980,0,234.053,Rnb,Slow Jams,Rnb
+1986,98,george michael,"""A Different Corner""",FALSE,1980,3.3166247903554,243.533,Pop,Pop,Pop
+1987,3,gregory abbott,"""Shake You Down""",TRUE,1980,0,245.413,Rnb,80s,Rnb
+1987,6,robbie nevil,"""C'est La Vie""",FALSE,1980,0,270.306,Pop,80s,Pop
+1987,7,whitesnake,"""Here I Go Again""",TRUE,1980,1,275.395,Rock,Classic Rock,Rock
+1987,8,bruce hornsby and the range,"""The Way It Is""",FALSE,1980,1.4142135623730951,297.853,Rock,80s,Rock
+1987,11,los lobos,"""La Bamba""",TRUE,1980,0,174.186,Latin,Latin,Latin
+1987,13,crowded house,"""Don't Dream It's Over""",TRUE,1980,1,236.933,Pop,80s,Pop
+1987,15,u2,"""With or Without You""",FALSE,1980,2.449489742783178,295.515,Rock,Rock,Rock
+1987,16,jody watley,"""Looking for a New Love""",FALSE,1980,1.7320508075688772,242.4,Pop,80s,Pop
+1987,18,tiffany,"""I Think We're Alone Now""",FALSE,1980,1.4142135623730951,228.84,Pop,80s,Pop
+1987,20,billy vera and the beaters,"""At This Moment""",FALSE,1980,0,234.507,Pop,80s,NA
+1987,21,chris de burgh,"""The Lady in Red""",FALSE,1980,0,256.487,Pop,80s,Pop
+1987,26,debbie gibson,"""Only in My Dreams""",TRUE,1980,2,233.4,Pop,80s,Pop
+1987,27,bill medley,"""(I've Had) The Time of My Life""",FALSE,1980,0,290.333,Pop,80s,Pop
+1987,29,club nouveau,"""Lean on Me""",FALSE,1980,0,357.333,Pop,80s,Pop
+1987,32,cutting crew,"""(I Just) Died In Your Arms""",FALSE,1980,1,280.4,Pop,80s,Pop
+1987,33,t'pau,"""Heart and Soul""",FALSE,1980,0,256.373,Pop,80s,Pop
+1987,35,georgia satellites,"""Keep Your Hands to Yourself""",FALSE,1980,0,205,Rock,Southern Rock,Rock
+1987,44,samantha fox,"""Touch Me (I Want Your Body)""",FALSE,1980,1.4142135623730951,225.986,Pop,80s,Pop
+1987,52,suzanne vega,"""Luka""",FALSE,1980,0,231.933,Pop,Female Vocalists,Pop
+1987,54,richard marx,"""Don't Mean Nothing""",TRUE,1980,3,281.533,Pop,Pop,Pop
+1987,55,kenny g,"""Songbird""",FALSE,1980,1,303.333,Jazz,Smooth Jazz,Jazz
+1987,56,europe,"""Carrie""",TRUE,1980,0,272.133,Rock,80s,Rock
+1987,57,the system,"""Don't Disturb This Groove""",FALSE,1980,0,317.874,Rnb,80s,Rnb
+1987,62,exposé,"""Come Go with Me""",FALSE,1980,2.23606797749979,257.826,Pop,80s,Pop
+1987,66,swing out sister,"""Breakout""",FALSE,1980,0,226.453,Pop,80s,Pop
+1987,67,ben e. king,"""Stand by Me""",TRUE,1980,0,180.055,Blues,Soul,Blues
+1987,71,levert,"""Casanova""",TRUE,1980,0,262.373,Rnb,80s,Rnb
+1987,72,gloria estefan,"""Rhythm Is Gonna Get You""",FALSE,1980,2.6457513110645907,234.973,Pop,Dance,Pop
+1987,73,the whispers,"""Rock Steady""",FALSE,1980,0,243.706,Rnb,80s,Rnb
+1987,82,lou gramm,"""Midnight Blue""",FALSE,1980,1,234.693,Rock,Rock,Rock
+1987,85,glenn medeiros,"""Nothing's Gonna Change My Love for You""",FALSE,1980,1,231.586,Pop,80s,Pop
+1987,89,bruce willis,"""Respect Yourself""",TRUE,1980,0,231.56,Rock,80s,Rock
+1987,94,breakfast club,"""Right on Track""",FALSE,1980,0,256.946,Pop,80s,Pop
+1987,98,beastie boys,"""(You Gotta) Fight for Your Right (To Party!)""",FALSE,1980,0,210.386,Rap,Hip-Hop,Rap
+1987,99,pseudo echo,"""Funkytown""",FALSE,1980,0,291.392,Pop,80s,Pop
+1988,4,rick astley,"""Never Gonna Give You Up""",FALSE,1980,1.7320508075688772,213.573,Pop,80s,Pop
+1988,5,guns n' roses,"""Sweet Child o' Mine""",FALSE,1980,2,356.066,Rock,Rock,Rock
+1988,9,breathe,"""Hands to Heaven""",FALSE,1980,1,259.506,Pop,80s,Pop
+1988,12,terence trent d'arby,"""Wishing Well""",TRUE,1980,1,210.466,Pop,80s,Pop
+1988,18,the escape club,"""Wild, Wild West""",TRUE,1980,1,244.826,Pop,80s,Pop
+1988,20,taylor dayne,"""I'll Always Love You""",TRUE,1980,2.6457513110645907,270.786,Pop,80s,Pop
+1988,26,johnny hates jazz,"""Shattered Dreams""",FALSE,1980,0,207.346,Pop,80s,Pop
+1988,37,bobby mcferrin,"""Don't Worry, Be Happy""",FALSE,1980,0,294.4,Reggae,Reggae,Reggae
+1988,39,ub40,"""Red Red Wine""",FALSE,1980,1.7320508075688772,183.733,Reggae,Reggae,Reggae
+1988,40,patrick swayze,"""She's Like the Wind""",FALSE,1980,0,232.906,Pop,80s,Pop
+1988,49,kylie minogue,"""The Loco-Motion""",FALSE,1980,1,193.54,Pop,80s,Pop
+1988,52,information society,"""What's On Your Mind (Pure Energy)""",FALSE,1980,0,275.533,Electronic,80s,Electronic
+1988,59,roger,"""I Want to Be Your Man""",TRUE,1980,0,251.333,Rnb,Slow Jams,NA
+1988,60,pebbles,"""Girlfriend""",FALSE,1980,1.4142135623730951,256.493,Pop,80s,Pop
+1988,66,pretty poison,"""Catch Me (I'm Falling)""",FALSE,1980,0,295.226,Pop,80s,NA
+1988,74,keith sweat,"""I Want Her""",TRUE,1980,2.6457513110645907,221.4,Rnb,New Jack Swing,Rnb
+1988,76,tracy chapman,"""Fast Car""",FALSE,1980,1,296.8,Folk,Folk,Folk
+1988,77,icehouse,"""Electric Blue""",FALSE,1980,0,263.68,Pop,80s,Pop
+1988,79,bobby brown,"""Don't Be Cruel""",FALSE,1980,2.6457513110645907,408.306,Rnb,New Jack Swing,Rnb
+1988,81,brenda russell,"""Piano in the Dark""",FALSE,1980,0,320.8,Pop,Soul,NA
+1988,83,paul carrack,"""Don't Shed a Tear""",FALSE,1980,0,295.426,Pop,80s,Pop
+1988,85,joan jett and the blackhearts,"""I Hate Myself for Loving You""",FALSE,1980,0,246.8,Rock,Rock,Rock
+1988,87,al b. sure!,"""Nite and Day""",FALSE,1980,0,238.013,Rnb,80s,Rnb
+1988,93,brenda k. starr,"""I Still Believe""",FALSE,1980,0,232.4,Pop,80s,Pop
+1988,98,poison,"""Nothin' but a Good Time""",TRUE,1980,1.7320508075688772,224.866,Rock,Rock,Rock
+1988,99,white lion,"""Wait""",TRUE,1980,1,240.8,Rock,Hard Rock,Rock
+1989,4,paula abdul,"""Straight Up""",FALSE,1980,2.6457513110645907,251.466,Pop,80s,Pop
+1989,8,milli vanilli,"""Girl You Know It's True""",FALSE,1980,2.23606797749979,198.573,Pop,80s,Pop
+1989,9,will to power,"""Baby, I Love Your Way/Freebird Medley""",FALSE,1980,1,244.663,Unknown,Medley,NA
+1989,12,boy meets girl,"""Waiting For a Star to Fall""",TRUE,1980,0,270.72,Pop,80s,Pop
+1989,15,warrant,"""Heaven""",FALSE,1980,1,236.866,Rock,Power Ballad,Rock
+1989,17,roxette,"""The Look""",FALSE,1980,2.23606797749979,237.32,Pop,80s,Pop
+1989,18,fine young cannibals,"""She Drives Me Crazy""",FALSE,1980,1,215.773,Pop,80s,Pop
+1989,26,new kids on the block,"""I'll Be Loving You (Forever)""",TRUE,1980,2.23606797749979,263.933,Pop,80s,Pop
+1989,29,martika,"""Toy Soldiers""",TRUE,1980,0,287.6,Pop,80s,Pop
+1989,33,tone loc,"""Wild Thing""",FALSE,1980,1,263.573,Rap,80s,Rap
+1989,34,bad english,"""When I See You Smile""",FALSE,1980,1,257.44,Rock,80s,Rock
+1989,36,neneh cherry,"""Buffalo Stance""",FALSE,1980,0,342.36,Pop,80s,Pop
+1989,37,sheriff,"""When I'm with You""",TRUE,1980,0,238.04,Rock,80s,NA
+1989,42,young mc,"""Bust a Move""",FALSE,1980,0,263.914,Rap,80s,Rap
+1989,43,great white,"""Once Bitten, Twice Shy""",FALSE,1980,0,322.896,Rock,Rock,Rock
+1989,45,michael damian,"""Rock On""",FALSE,1980,0,212.348,Pop,80s,NA
+1989,47,the b-52's,"""Love Shack""",TRUE,1980,1.4142135623730951,320.68,Pop,80s,Pop
+1989,51,love,"""So Alive""",FALSE,1980,0,257.825,Rock,80s,Rock
+1989,56,dino,"""I Like It""",TRUE,1980,1.4142135623730951,307.2,Pop,80s,Pop
+1989,61,skid row,"""18 and Life""",FALSE,1980,1,229.96,Rock,Hard Rock,Rock
+1989,64,karyn white,"""The Way You Love Me""",FALSE,1980,1.7320508075688772,294.72,Rnb,80s,Rnb
+1989,68,the cure,"""Lovesong""",TRUE,1980,1,209.573,Rock,80s,Rock
+1989,70,the jeff healey band,"""Angel Eyes""",TRUE,1980,0,280.933,Blues,Blues Rock,Blues
+1989,75,surface,"""Shower Me With Your Love""",FALSE,1980,1,294.96,Rnb,Quiet Storm,Rnb
+1989,76,r.e.m.,"""Stand""",FALSE,1980,1.4142135623730951,192.96,Rock,Rock,Rock
+1989,77,lita ford,"""Close My Eyes Forever""",FALSE,1980,0,283.133,Rock,Female Vocalists,Rock
+1989,83,when in rome,"""The Promise""",FALSE,1980,0,220.96,Pop,80s,Pop
+1989,84,edie brickell,"""What I Am""",FALSE,1980,0,296.36,Rock,80s,Rock
+1989,85,boys club,"""I Remember Holding You""",FALSE,1980,0,293.079,Pop,80s,Pop
+1989,89,vanessa williams,"""Dreamin'""",FALSE,1980,2,326.506,Pop,Female Vocalists,Pop
+1989,90,babyface,"""It's No Crime""",FALSE,1980,2.23606797749979,241.493,Rnb,New Jack Swing,Rnb
+1989,94,deon estus,"""Heaven Help Me""",FALSE,1980,0,281.24,Pop,80s,Pop
+1989,96,sa-fire,"""Thinking of You""",FALSE,1980,0,205.8,Pop,Female Vocalists,Pop
+1989,98,ann wilson,"""Surrender to Me""",FALSE,1980,0,244.733,Rock,Rock,Rock
+1989,100,soul ii soul,"""Keep on Movin'""",FALSE,1980,1,361.626,Rnb,Soul,Rnb
+1990,1,wilson phillips,"""Hold On""",FALSE,1990,1.7320508075688772,266.866,Pop,Pop,Pop
+1990,3,sinéad o'connor,"""Nothing Compares 2 U""",FALSE,1990,0,280.04,Pop,Female Vocalists,Pop
+1990,4,bell biv devoe,"""Poison""",FALSE,1990,1,261.853,Rnb,New Jack Swing,Rnb
+1990,6,mariah carey,"""Vision of Love""",FALSE,1990,5.830951894845301,209.293,Pop,Pop,Pop
+1990,8,en vogue,"""Hold On""",TRUE,1990,2.23606797749979,304.466,Rnb,Soul,Rnb
+1990,10,jon bon jovi,"""Blaze of Glory""",TRUE,1990,0,335.24,Rock,Rock,Rock
+1990,12,michael bolton,"""How Am I Supposed to Live Without You""",FALSE,1990,3,255.666,Pop,80s,Pop
+1990,13,technotronic,"""Pump Up the Jam""",FALSE,1990,1.4142135623730951,320.306,Electronic,Dance,Electronic
+1990,17,maxi priest,"""Close to You""",FALSE,1990,1,325.8,Reggae,Reggae,Reggae
+1990,18,alannah myles,"""Black Velvet""",FALSE,1990,0,287.44,Rock,Rock,Rock
+1990,21,lisa stansfield,"""All Around the World""",TRUE,1990,0,265.76,Pop,Pop,Pop
+1990,22,calloway,"""I Wanna Be Rich""",FALSE,1990,0,304.2,Pop,Pop,Pop
+1990,23,johnny gill,"""Rub You the Right Way""",FALSE,1990,0,332.306,Rnb,New Jack Swing,Rnb
+1990,25,sweet sensation,"""If Wishes Came True""",FALSE,1990,0,315.16,Pop,Pop,Pop
+1990,26,snap!,"""The Power""",FALSE,1990,1.4142135623730951,227.03,Electronic,90s,Electronic
+1990,27,nelson,"""(Can't Live Without Your) Love and Affection""",FALSE,1990,1,236.435,Rock,Rock,Rock
+1990,29,jane child,"""Don't Wanna Fall in Love""",TRUE,1990,0,247.84,Pop,Pop,Pop
+1990,30,seduction,"""Two to Make It Right""",FALSE,1990,0,282.266,Pop,80s,Pop
+1990,31,linear,"""Sending All My Love""",TRUE,1990,0,234.066,Pop,Freestyle,Pop
+1990,39,tommy page,"""I'll Be Your Everything""",TRUE,1990,0,244.84,Pop,Pop,Pop
+1990,43,luther vandross,"""Here and Now""",FALSE,1990,1.7320508075688772,323,Rnb,Soul,Rnb
+1990,45,vanilla ice,"""Ice Ice Baby""",TRUE,1990,1,254.466,Rap,90s,Rap
+1990,47,mc hammer,"""Have You Seen Her""",TRUE,1990,1,282.8,Rap,90s,Rap
+1990,50,michel'le,"""No More Lies""",FALSE,1990,0,225.84,Rnb,Rnb,Rnb
+1990,54,after 7,"""Ready or Not""",FALSE,1990,1.4142135623730951,274.36,Rnb,Slow Jams,Rnb
+1990,62,digital underground,"""The Humpty Dance""",FALSE,1990,0,391.693,Rap,Hip-Hop,Rap
+1990,64,tom petty,"""Free Fallin'""",FALSE,1990,1,256,Rock,Classic Rock,Rock
+1990,66,depeche mode,"""Enjoy the Silence""",FALSE,1990,0,257.63,Electronic,80s,Electronic
+1990,67,tesla,"""Love Song""",FALSE,1990,1,323.36,Rock,Hard Rock,Rock
+1990,69,tyler collins,"""Girls Nite Out""",FALSE,1990,0,237.467,Unknown,90s,NA
+1990,70,go west,"""King of Wishful Thinking""",FALSE,1990,1,241.76,Pop,80s,Pop
+1990,75,faith no more,"""Epic""",FALSE,1990,0,293.653,Rock,Rock,Rock
+1990,81,black box,"""Everybody Everybody""",TRUE,1990,1,247.001,Pop,House,NA
+1990,85,d mob,"""C'mon and Get My Love""",FALSE,1990,0,232.706,Pop,Pop,Pop
+1990,87,the cover girls,"""We Can't Go Wrong""",FALSE,1990,1,316.626,Pop,Freestyle,Pop
+1990,94,biz markie,"""Just a Friend""",TRUE,1990,0,238.266,Rap,Hip-Hop,Rap
+1990,95,a'me lorain,"""Whole Wide World""",FALSE,1990,0,229.851,Pop,Dance,NA
+1990,96,mötley crüe,"""Without You""",FALSE,1990,0,268.853,Rock,Hard Rock,Rock
+1990,97,jive bunny and the mastermixers,"""Swing the Mood""",FALSE,1990,0,259.573,Pop,Jive,NA
+1990,99,mellow man ace,"""Mentirosa""",FALSE,1990,0,258.533,Pop,90s,Pop
+1990,100,kyper,"""Tic-Tac-Toe""",FALSE,1990,0,383.426,Unknown,NA,NA
+1991,2,color me badd,"""I Wanna Sex You Up""",FALSE,1990,2.23606797749979,236.946,Rnb,90s,Rnb
+1991,3,c+c music factory,"""Gonna Make You Sweat (Everybody Dance Now)""",TRUE,1990,1.4142135623730951,244.093,Pop,Dance,Pop
+1991,5,timmy t,"""One More Try""",FALSE,1990,0,209.426,Pop,Pop,Pop
+1991,6,emf,"""Unbelievable""",FALSE,1990,0,209.813,Pop,90s,Pop
+1991,7,extreme,"""More Than Words""",FALSE,1990,1,334.106,Rock,Acoustic,Rock
+1991,8,hi-five,"""I Like the Way (The Kissing Game)""",TRUE,1990,1.4142135623730951,348.773,Rnb,Rnb,Rnb
+1991,10,amy grant,"""Baby Baby""",FALSE,1990,2,236.973,Pop,Pop,Pop
+1991,11,boyz ii men,"""Motownphilly""",FALSE,1990,3.4641016151377544,235.226,Rnb,New Jack Swing,Rnb
+1991,12,stevie b,"""Because I Love You (The Postman Song)""",FALSE,1990,1,306.828,Pop,90s,Pop
+1991,14,damn yankees,"""High Enough""",TRUE,1990,0,287.32,Rock,Rock,Rock
+1991,17,jesus jones,"""Right Here, Right Now""",FALSE,1990,1,189.293,Rock,90s,Rock
+1991,20,marky mark and the funky bunch,"""Good Vibrations""",FALSE,1990,1,269.306,Pop,90s,Pop
+1991,25,tara kemp,"""Hold You Tight""",TRUE,1990,1,284.344,Pop,Pop,Pop
+1991,29,ralph tresvant,"""Sensitivity""",FALSE,1990,0,281.333,Rnb,New Jack Swing,Rnb
+1991,30,cathy dennis,"""Touch Me (All Night Long)""",FALSE,1990,1.4142135623730951,249.52,Pop,Dance,Pop
+1991,31,londonbeat,"""I've Been Thinking About You""",FALSE,1990,0,317.933,Pop,90s,Pop
+1991,32,natural selection,"""Do Anything""",FALSE,1990,0,237.373,Pop,Pop,Pop
+1991,35,lenny kravitz,"""It Ain't Over 'til It's Over""",FALSE,1990,1.4142135623730951,242.64,Rock,Rock,Rock
+1991,37,celine dion,"""Where Does My Heart Beat Now""",FALSE,1990,3.1622776601683795,272.866,Pop,Pop,Pop
+1991,38,dj jazzy jeff,"""Summertime""",FALSE,1990,1,270.973,Rap,90s,Rap
+1991,39,scorpions,"""Wind of Change""",FALSE,1990,0,312.36,Rock,Classic Rock,Rock
+1991,40,rythm syndicate,"""P.A.S.S.I.O.N.""",FALSE,1990,0,216.197,Unknown,American,NA
+1991,43,firehouse,"""Love of a Lifetime""",FALSE,1990,1.4142135623730951,285.937,Rock,Power Ballad,Rock
+1991,45,tracie spencer,"""This House""",FALSE,1990,0,306.533,Rnb,Dance,Rnb
+1991,52,divinyls,"""I Touch Myself""",FALSE,1990,0,227.64,Pop,Pop,Pop
+1991,53,dna,"""Tom's Diner""",TRUE,1990,0,228.306,Pop,Female Vocalists,Pop
+1991,54,another bad creation,"""Iesha""",FALSE,1990,0,261.906,Rap,90s,Rap
+1991,55,bonnie raitt,"""Something to Talk About""",FALSE,1990,1.4142135623730951,227.573,Blues,Female Vocalists,Blues
+1991,58,corina,"""Temptation""",FALSE,1990,0,241.533,Pop,Freestyle,NA
+1991,61,the klf,"""3 a.m. Eternal""",FALSE,1990,1,200.072,Electronic,Dance,Electronic
+1991,63,enigma,"""Sadeness (Part I)""",FALSE,1990,1,260.4,New Age,New Age,New Age
+1991,64,ll cool j,"""Around the Way Girl""",FALSE,1990,2.449489742783178,248.493,Rap,Hip-Hop,Rap
+1991,66,prince and the new power generation,"""Cream""",FALSE,1990,1.4142135623730951,253.066,Rock,Rock,Rock
+1991,67,heavy d,"""Now That We Found Love""",FALSE,1990,1.4142135623730951,258.2,Pop,90s,NA
+1991,75,seal,"""Crazy""",TRUE,1990,2,356.346,Pop,Pop,Pop
+1991,77,michael w. smith,"""Place in this World""",FALSE,1990,0,193.919,Pop,Christian,Pop
+1991,79,chris isaak,"""Wicked Game""",FALSE,1990,0,289.066,Rock,80s,Rock
+1991,80,oleta adams,"""Get Here""",FALSE,1990,0,276.733,Pop,Soul,Pop
+1991,81,tevin campbell,"""Round and Round""",TRUE,1990,2,293.053,Pop,Soul,Pop
+1991,82,queensrÿche,"""Silent Lucidity""",FALSE,1990,0,347.76,Rock,Progressive Metal,Rock
+1991,86,aaron neville,"""Everybody Plays the Fool""",TRUE,1990,0,266.106,Pop,Soul,Pop
+1991,89,gerardo,"""Rico Suave""",FALSE,1990,0,291.666,Latin,80s,Latin
+1991,91,deee-lite,"""Groove Is in the Heart""",TRUE,1990,0,231.786,Pop,Dance,Pop
+1991,93,chesney hawkes,"""The One and Only""",FALSE,1990,0,223.666,Pop,Pop,Pop
+1991,94,naughty by nature,"""O.P.P.""",FALSE,1990,1.7320508075688772,271.066,Rap,Hip-Hop,Rap
+1991,97,winger,"""Miles Away""",FALSE,1990,0,255.333,Rock,Power Ballad,Rock
+1991,98,salt-n-pepa,"""Do You Want Me""",FALSE,1990,1.4142135623730951,229.509,Rap,90s,Rap
+1992,2,sir mix-a-lot,"""Baby Got Back""",FALSE,1990,0,262.826,Rap,Rap,Rap
+1992,3,kris kross,"""Jump""",FALSE,1990,1.7320508075688772,195.106,Rap,90s,Rap
+1992,5,tlc,"""Baby-Baby-Baby""",FALSE,1990,3,315.04,Rnb,Rnb,Rnb
+1992,8,red hot chili peppers,"""Under the Bridge""",FALSE,1990,2,264.306,Rock,Rock,Rock
+1992,10,jon secada,"""Just Another Day""",TRUE,1990,1.7320508075688772,327.426,Pop,Pop,Pop
+1992,11,shanice,"""I Love Your Smile""",FALSE,1990,1,257.973,Rnb,Rnb,Rnb
+1992,12,mr. big,"""To Be with You""",FALSE,1990,1,208.08,Rock,Rock,Rock
+1992,13,right said fred,"""I'm Too Sexy""",FALSE,1990,0,170.466,Pop,90s,Pop
+1992,15,billy ray cyrus,"""Achy Breaky Heart""",FALSE,1990,0,203.373,Country,Country,Country
+1992,18,tom cochrane,"""Life Is a Highway""",FALSE,1990,0,266.08,Rock,Rock,Rock
+1992,20,cece peniston,"""Finally""",TRUE,1990,1.4142135623730951,245,Pop,Dance,Pop
+1992,22,patty smyth,"""Sometimes Love Just Ain't Enough""",TRUE,1990,0,267.6,Rock,Rock,Rock
+1992,24,house of pain,"""Jump Around""",FALSE,1990,0,218.546,Rap,Hip-Hop,Rap
+1992,30,joe public,"""Live and Learn""",TRUE,1990,0,262.333,Rnb,New Jack Swing,Rnb
+1992,31,jodeci,"""Come and Talk to Me""",FALSE,1990,1.7320508075688772,276.266,Rnb,Rnb,Rnb
+1992,32,nirvana,"""Smells Like Teen Spirit""",FALSE,1990,0,301.92,Rock,Grunge,Rock
+1992,34,sophie b. hawkins,"""Damn I Wish I Was Your Lover""",FALSE,1990,1.4142135623730951,323.266,Pop,Female Vocalists,Pop
+1992,40,arrested development,"""Tennessee""",FALSE,1990,1.4142135623730951,272.706,Rap,Hip-Hop,Rap
+1992,44,p.m. dawn,"""Set Adrift on Memory Bliss""",FALSE,1990,1.7320508075688772,255.16,Rap,90s,Rap
+1992,45,shakespears sister,"""Stay""",FALSE,1990,0,229,Pop,Pop,Pop
+1992,46,hammer,"""2 Legit 2 Quit""",FALSE,1990,1,333.624,Unknown,NA,NA
+1992,47,kws,"""Please Don't Go""",TRUE,1990,0,373.6,Electronic,Dance,Electronic
+1992,48,mint condition,"""Breakin' My Heart (Pretty Brown Eyes)""",FALSE,1990,0,356.96,Rnb,Mint Condition,Rnb
+1992,53,toad the wet sprocket,"""All I Want""",FALSE,1990,0,196.333,Rock,90s,Rock
+1992,59,the heights,"""How Do You Talk to an Angel""",FALSE,1990,1,227.266,Pop,Pop,Pop
+1992,72,ugly kid joe,"""Everything About You""",FALSE,1990,1,260.2,Rock,Rock,Rock
+1992,78,n2deep,"""Back to the Hotel""",FALSE,1990,0,304.28,Rap,Hip-Hop,Rap
+1992,79,kathy troccoli,"""Everything Changes""",FALSE,1990,0,262.2,Pop,Christian,Pop
+1992,83,jade,"""I Wanna Love You""",FALSE,1990,1.7320508075688772,271.4,Rnb,90s,Rnb
+1992,85,mary j. blige,"""Real Love""",FALSE,1990,2.8284271247461903,269.973,Rnb,Rnb,Rnb
+1992,90,charles,"""Would I Lie to You?""",FALSE,1990,0,279.6,Pop,90s,Pop
+1992,99,das efx,"""They Want EFX""",FALSE,1990,0,221.4,Rap,Hip Hop,Rap
+1993,2,tag team,"""Whoomp! (There It Is)""",FALSE,1990,1,225.266,Rap,90s,Rap
+1993,5,silk,"""Freak Me""",TRUE,1990,1,274.533,Rnb,Slow Jams,Rnb
+1993,6,swv,"""Weak""",FALSE,1990,2.23606797749979,291.906,Rnb,Slow Jams,Rnb
+1993,7,shai,"""If I Ever Fall in Love""",FALSE,1990,1.4142135623730951,189.026,Rnb,Slow Jams,Rnb
+1993,9,wreckx-n-effect,"""Rump Shaker""",FALSE,1990,0,312.36,Rap,Rap,Rap
+1993,10,snow,"""Informer""",FALSE,1990,0,268.91,Reggae,90s,Reggae
+1993,11,dr. dre,"""Nuthin' but a 'G' Thang""",FALSE,1990,2.23606797749979,237.573,Rap,Hip-Hop,Rap
+1993,14,h-town,"""Knockin' da Boots""",FALSE,1990,0,330.945,Rnb,Slow Jams,Rnb
+1993,16,duice,"""Dazzey Duks""",FALSE,1990,0,244.866,Electronic,90s,Electronic
+1993,17,robin s.,"""Show Me Love""",FALSE,1990,0,252.106,Pop,Dance,NA
+1993,22,soul asylum,"""Runaway Train""",FALSE,1990,1,266.56,Rock,90s,Rock
+1993,24,paperboy,"""Ditty""",FALSE,1990,0,241.306,Rap,Rap,Rap
+1993,27,the proclaimers,"""I'm Gonna Be (500 Miles)""",FALSE,1990,0,219.466,Pop,80s,Pop
+1993,28,spin doctors,"""Two Princes""",TRUE,1990,0,256.946,Rock,90s,Rock
+1993,35,tony! toni! toné!,"""If I Had No Loot""",FALSE,1990,1,241.466,Rnb,Rnb,Rnb
+1993,37,onyx,"""Slam""",FALSE,1990,0,218.333,Rap,Hip-Hop,Rap
+1993,44,95 south,"""Whoot, There It Is""",FALSE,1990,0,276.866,Unknown,Dance,NA
+1993,46,toni braxton,"""Another Sad Love Song""",TRUE,1990,2.8284271247461903,301.56,Rnb,Rnb,Rnb
+1993,50,4 non blondes,"""What's Up?""",FALSE,1990,0,295.533,Rock,90s,Rock
+1993,51,ace of base,"""All That She Wants""",FALSE,1990,2.23606797749979,211.213,Pop,90s,Pop
+1993,54,brian mcknight,"""One Last Cry""",FALSE,1990,1.7320508075688772,295.357,Rnb,Rnb,Rnb
+1993,55,xscape,"""Just Kickin' It""",FALSE,1990,1.7320508075688772,204.173,Rnb,Rnb,Rnb
+1993,56,2pac,"""I Get Around""",FALSE,1990,2.23606797749979,259,Rap,Rap,Rap
+1993,59,portrait,"""Here We Go Again!""",FALSE,1990,0,260.399,Unknown,New Jack Swing,NA
+1993,63,positive k,"""I Got a Man""",TRUE,1990,0,232.773,Rap,Hip Hop,Rap
+1993,64,zhané,"""Hey Mr. D.J.""",FALSE,1990,1,252.4,Rnb,Soul,Rnb
+1993,65,cypress hill,"""Insane in the Brain""",FALSE,1990,0,208.266,Rap,Hip-Hop,Rap
+1993,68,jeremy jordan,"""The Right Kind of Love""",FALSE,1990,0,273.933,Pop,Pop,Pop
+1993,69,inner circle,"""Bad Boys""",FALSE,1990,1,231.266,Reggae,Reggae,Reggae
+1993,70,boy krazy,"""That's What Love Can Do""",FALSE,1990,0,202,Pop,Pop,Pop
+1993,76,restless heart,"""When She Cries""",TRUE,1990,0,222.186,Country,Country,Country
+1993,78,ice cube,"""It Was a Good Day""",FALSE,1990,1.4142135623730951,260,Rap,Rap,Rap
+1993,79,captain hollywood project,"""More and More""",FALSE,1990,0,253.573,Electronic,Dance,NA
+1993,81,digable planets,"""Rebirth of Slick (Cool Like Dat)""",FALSE,1990,0,261.265,Rap,Hip-Hop,Rap
+1993,82,haddaway,"""What Is Love""",FALSE,1990,1,270.373,Pop,Dance,Pop
+1993,92,joey lawrence,"""Nothin' My Love Can't Fix""",FALSE,1990,0,243.266,Pop,Pop,Pop
+1993,93,green jellÿ,"""Three Little Pigs""",FALSE,1990,0,353.64,Rock,Heavy Metal,Rock
+1993,95,gin blossoms,"""Hey Jealousy""",TRUE,1990,1.4142135623730951,236.626,Rock,90s,Rock
+1994,2,all-4-one,"""I Swear""",FALSE,1990,1.4142135623730951,259.853,Rnb,90s,Rnb
+1994,6,lisa loeb,"""Stay (I Missed You)""",FALSE,1990,1,184.333,Pop,90s,Pop
+1994,11,r. kelly,"""Bump n' Grind""",FALSE,1990,4.123105625617661,256.133,Rnb,Slow Jams,Rnb
+1994,15,john mellencamp,"""Wild Night""",FALSE,1990,1,207.506,Rock,Rock,Rock
+1994,20,coolio,"""Fantastic Voyage""",FALSE,1990,2,334.44,Rap,Hip-Hop,Rap
+1994,21,big mountain,"""Baby, I Love Your Way""",FALSE,1990,0,249.52,Reggae,Reggae,Reggae
+1994,22,warren g,"""Regulate""",TRUE,1990,1.4142135623730951,248.866,Rap,Hip-Hop,Rap
+1994,24,aaliyah,"""Back & Forth""",FALSE,1990,3.1622776601683795,231.093,Rnb,Rnb,Rnb
+1994,31,collective soul,"""Shine""",FALSE,1990,1.4142135623730951,306.04,Rock,Rock,Rock
+1994,34,sheryl crow,"""All I Wanna Do""",TRUE,1990,2.6457513110645907,272.106,Rock,Female Vocalists,Rock
+1994,35,crash test dummies,"""Mmm Mmm Mmm Mmm""",TRUE,1990,0,235.173,Rock,90s,Rock
+1994,37,da brat,"""Funkdafied""",FALSE,1990,1.4142135623730951,185.933,Rap,Hip-Hop,Rap
+1994,39,drs,"""Gangsta Lean""",FALSE,1990,0,322.142,Unknown,90s,NA
+1994,40,10,"""Because the Night""",TRUE,1990,0,223.373,Unknown,NA,NA
+1994,41,us3,"""Cantaloop (Flip Fantasia)""",FALSE,1990,0,279.36,Jazz,Acid Jazz,Jazz
+1994,43,melissa etheridge,"""Come to My Window""",TRUE,1990,2,236,Rock,Female Vocalists,Rock
+1994,44,changing faces,"""Stroke You Up""",FALSE,1990,1,216.546,Rnb,90s,Rnb
+1994,46,crystal waters,"""100% Pure Love""",FALSE,1990,1,280.466,Pop,Dance,Pop
+1994,49,the cranberries,"""Linger""",TRUE,1990,1,274.706,Rock,Rock,Rock
+1994,50,beck,"""Loser""",FALSE,1990,0,235,Rock,Alternative,Rock
+1994,52,snoop doggy dogg,"""Gin and Juice""",FALSE,1990,1,211.866,Rap,Rap,Rap
+1994,53,immature,"""Never Lie""",FALSE,1990,1,253.19,Rnb,Rnb,Rnb
+1994,55,domino,"""Getto Jam""",FALSE,1990,0,259.28,Rap,Hip-Hop,Rap
+1994,57,aaron hall,"""I Miss You""",TRUE,1990,0,381.733,Rnb,Slow Jams,Rnb
+1994,63,real mccoy,"""Another Night""",TRUE,1990,2,236.933,Pop,90s,Pop
+1994,65,69 boyz,"""Tootsee Roll""",FALSE,1990,1,261.36,Rap,Miami Bass,Rap
+1994,66,jimmy cliff,"""I Can See Clearly Now (from Cool Runnings)""",TRUE,1990,0,235.36,Unknown,NA,NA
+1994,73,erasure,"""Always""",TRUE,1990,0,237.8,Pop,Synthpop,Pop
+1994,75,gabrielle,"""Dreams""",FALSE,1990,0,222.773,Pop,Soul,Pop
+1994,76,culture beat,"""Mr. Vain""",FALSE,1990,0,257.466,Pop,Dance,NA
+1994,79,joshua kadison,"""Beautiful in My Eyes""",TRUE,1990,0,249.493,Pop,90s,Pop
+1994,80,eternal,"""Stay""",FALSE,1990,0,189.386,Rnb,Rnb,Rnb
+1994,81,craig mack,"""Flava in Ya Ear""",FALSE,1990,0,302.013,Rap,Hip-Hop,Rap
+1994,82,queen latifah,"""U.N.I.T.Y.""",FALSE,1990,0,250.84,Rap,Rap,Rap
+1994,85,ini kamoze,"""Here Comes the Hotstepper""",FALSE,1990,1,250.466,Reggae,Reggae,Reggae
+1994,87,tim mcgraw,"""Don't Take the Girl""",FALSE,1990,3,249.36,Country,Country,Country
+1994,93,ahmad,"""Back in the Day""",FALSE,1990,0,303.373,Rap,Hip-Hop,NA
+1994,95,general public,"""I'll Take You There (from Threesome)""",FALSE,1990,0,699.333,Unknown,Stuff I Love,NA
+1994,100,brandy,"""I Wanna Be Down""",FALSE,1990,3.1622776601683795,291.666,Rnb,Rnb,Rnb
+1995,9,monica,"""Don't Take It Personal (Just One of Dem Days)""",TRUE,1990,2.6457513110645907,258.466,Rnb,Rnb,Rnb
+1995,10,montell jordan,"""This Is How We Do It""",FALSE,1990,1.7320508075688772,238.8,Rnb,90s,Rnb
+1995,11,dionne farris,"""I Know""",TRUE,1990,0,227.826,Pop,Pop,Pop
+1995,13,adina howard,"""Freak Like Me""",TRUE,1990,0,253.613,Rnb,90s,Rnb
+1995,14,blues traveler,"""Run-Around""",TRUE,1990,1,279.8,Rock,90s,Rock
+1995,18,shaggy,"""Boombastic"" / ""In the Summertime""",FALSE,1990,1.4142135623730951,238.36,Unknown,NA,NA
+1995,19,nicki french,"""Total Eclipse of the Heart""",FALSE,1990,0,232.346,Pop,Dance,Pop
+1995,20,des'ree,"""You Gotta Be""",FALSE,1990,0,245.2,Pop,Pop,Pop
+1995,22,hootie,"""Hold My Hand""",FALSE,1990,2.23606797749979,258.333,Rock,90s,Rock
+1995,23,the notorious b.i.g.,"""One More Chance/Stay with Me""",FALSE,1990,1.7320508075688772,268.706,Unknown,NA,NA
+1995,25,soul for real,"""Candy Rain""",FALSE,1990,1,276.066,Rnb,Rnb,Rnb
+1995,27,blessid union of souls,"""I Believe""",FALSE,1990,0,267.447,Pop,90s,Pop
+1995,32,jon b.,"""Someone to Love""",FALSE,1990,1,273.4,Unknown,90s Pop And Rock,NA
+1995,34,brownstone,"""If You Love Me""",FALSE,1990,0,304.16,Rnb,Rnb,Rnb
+1995,35,martin page,"""In the House of Stone and Light""",FALSE,1990,0,300.8,Rock,90s,NA
+1995,36,luniz,"""I Got 5 on It""",FALSE,1990,0,253.533,Rap,Rap,Rap
+1995,40,mokenstef,"""He's Mine""",FALSE,1990,0,254.106,Rnb,Rnb,Rnb
+1995,42,method man,"""I'll Be There for You/You're All I Need to Get By""",FALSE,1990,0,309.946,Unknown,NA,NA
+1995,43,diana king,"""Shy Guy""",FALSE,1990,0,258.56,Reggae,Reggae,Reggae
+1995,46,blackstreet,"""Before I Let You Go""",FALSE,1990,1.7320508075688772,299.8,Rnb,Rnb,Rnb
+1995,48,4 p.m.,"""Sukiyaki""",FALSE,1990,0,162.093,Unknown,Chill,NA
+1995,52,jamie walters,"""Hold On""",TRUE,1990,0,264.56,Pop,Pop,Pop
+1995,54,corona,"""The Rhythm of the Night""",FALSE,1990,0,264.306,Pop,Dance,NA
+1995,55,del amitri,"""Roll to Me""",FALSE,1990,0,132.306,Rock,90s,Rock
+1995,58,skee-lo,"""I Wish""",FALSE,1990,0,249.293,Rap,90s,Rap
+1995,60,natalie merchant,"""Carnival""",FALSE,1990,1.4142135623730951,361.106,Rock,Female Vocalists,Rock
+1995,62,take that,"""Back for Good""",FALSE,1990,1,242.266,Pop,Pop,Pop
+1995,65,groove theory,"""Tell Me""",FALSE,1990,1,236.066,Rnb,Rnb,Rnb
+1995,66,total,"""Can't You See""",FALSE,1990,2,281.88,Unknown,NA,NA
+1995,68,subway,"""This Lil' Game We Play""",FALSE,1990,0,292.796,Rnb,Rnb,Rnb
+1995,72,junior m.a.f.i.a.,"""Player's Anthem""",FALSE,1990,1,322.226,Unknown,NA,NA
+1995,76,20 fingers,"""Short Dick Man""",TRUE,1990,0,201.266,Electronic,90s,Electronic
+1995,78,annie lennox,"""No More I Love You's""",FALSE,1990,0,291.333,Pop,Pop,Pop
+1995,79,faith evans,"""You Used to Love Me""",FALSE,1990,2,269.173,Rnb,Rnb,Rnb
+1995,83,raphael saadiq,"""Ask of You""",FALSE,1990,0,268.176,Rnb,Quiet Storm,NA
+1995,84,az,"""Sugar Hill""",FALSE,1990,0,249.76,Rap,Hip-Hop,Rap
+1995,85,better than ezra,"""Good""",FALSE,1990,0,185.093,Rock,90s,Rock
+1995,86,d'angelo,"""Brown Sugar""",FALSE,1990,1,262.893,Rnb,Soul,Rnb
+1995,89,bone thugs-n-harmony,"""1st of tha Month""",FALSE,1990,1.7320508075688772,314.68,Rap,Hip-Hop,Rap
+1995,93,rednex,"""Cotton Eye Joe""",FALSE,1990,0,193.826,Country,Country,Country
+1995,96,n ii u,"""I Miss You""",FALSE,1990,0,342,Unknown,Boysband,NA
+1996,1,los del río,"""Macarena (Bayside Boys Mix)""",FALSE,1990,1.4142135623730951,217.94,Unknown,NA,NA
+1996,4,the tony rich project,"""Nobody Knows""",TRUE,1990,0,306.933,Rnb,Rnb,Rnb
+1996,8,donna lewis,"""I Love You Always Forever""",FALSE,1990,1,239.96,Pop,Pop,Pop
+1996,11,quad city dj's,"""C'mon N' Ride It (The Train)""",FALSE,1990,0,451.44,Pop,90s,Pop
+1996,12,everything but the girl,"""Missing""",FALSE,1990,0,236.293,Electronic,90s,Electronic
+1996,13,alanis morissette,"""Ironic""",TRUE,1990,1.4142135623730951,230,Rock,Rock,Rock
+1996,22,jann arden,"""Insensitive""",FALSE,1990,0,255.893,Pop,Female Vocalists,Pop
+1996,23,la bouche,"""Be My Lover""",FALSE,1990,1,169.523,Pop,Dance,Pop
+1996,24,goo goo dolls,"""Name""",FALSE,1990,2.23606797749979,270,Rock,Alternative Rock,Rock
+1996,25,jewel,"""Who Will Save Your Soul""",FALSE,1990,2.23606797749979,239.293,Pop,Pop,Pop
+1996,26,no mercy,"""Where Do You Go""",FALSE,1990,1,272.093,Pop,90s,Pop
+1996,28,dishwalla,"""Counting Blue Cars""",TRUE,1990,0,291.906,Rock,90s,Rock
+1996,30,joan osborne,"""One of Us""",FALSE,1990,0,320.466,Rock,Female Vocalists,Rock
+1996,34,112,"""Only You""",FALSE,1990,2.23606797749979,289.413,Unknown,NA,NA
+1996,39,deep blue something,"""Breakfast at Tiffany's""",FALSE,1990,0,257.373,Pop,90s,Pop
+1996,43,3t,"""Anything""",FALSE,1990,0,321,Rnb,3t,Rnb
+1996,44,the smashing pumpkins,"""1979""",FALSE,1990,0,266.2,Rock,Alternative Rock,Rock
+1996,52,az yet,"""Last Night""",TRUE,1990,1.4142135623730951,269.026,Rnb,Rnb,Rnb
+1996,53,merril bainbridge,"""Mouth""",TRUE,1990,1,205.733,Pop,90s,Pop
+1996,55,joe,"""All the Things (Your Man Won't Do)""",FALSE,1990,1.7320508075688772,380.533,Rnb,Rnb,Rnb
+1996,56,oasis,"""Wonderwall""",FALSE,1990,0,258.773,Rock,Rock,Rock
+1996,57,busta rhymes,"""Woo Hah!! Got You All in Check"" / ""Everything Remains Raw""",TRUE,1990,2.449489742783178,271.973,Unknown,NA,NA
+1996,59,outkast,"""Elevators (Me & You)""",TRUE,1990,2.449489742783178,265.2,Rap,Hip-Hop,Rap
+1996,63,case,"""Touch Me, Tease Me""",FALSE,1990,1.7320508075688772,227.493,Rnb,Rnb,Rnb
+1996,65,robert miles,"""Children""",FALSE,1990,0,243.266,Electronic,Trance,Electronic
+1996,66,adam clayton,"""Theme from Mission: Impossible""",TRUE,1990,0,210.25,Unknown,Soundtrack,NA
+1996,67,bodeans,"""Closer to Free""",FALSE,1990,0,188.6,Rock,90s,Rock
+1996,68,no doubt,"""Just a Girl""",FALSE,1990,2.23606797749979,209.2,Rock,Rock,Rock
+1996,72,ginuwine,"""Pony""",FALSE,1990,2.449489742783178,251.733,Rnb,Rnb,Rnb
+1996,77,mc lyte,"""Keep On, Keepin' On""",FALSE,1990,1,271.44,Rap,Hip-Hop,Rap
+1996,80,deborah cox,"""Who Do U Love""",FALSE,1990,1.4142135623730951,262.933,Rnb,Rnb,Rnb
+1996,82,amber,"""This Is Your Night""",FALSE,1990,0,238.16,Pop,Dance,Pop
+1996,85,planet soul,"""Set U Free""",FALSE,1990,0,258.933,Electronic,Electronic,Electronic
+1996,88,ghost town dj's,"""My Boo""",FALSE,1990,0,346.84,Rnb,90s,Rnb
+1996,91,do or die,"""Po Pimp""",FALSE,1990,0,234.826,Unknown,NA,NA
+1996,92,metallica,"""Until It Sleeps""",FALSE,1990,0,269.573,Metal,Metal,Metal
+1996,93,crucial conflict,"""Hay""",FALSE,1990,0,260.24,Rap,Rap,Rap
+1996,96,pearl jam,"""I Got Id"" / ""Long Road""",FALSE,1990,1,2749.933,Unknown,NA,NA
+1997,3,puff daddy,"""I'll Be Missing You""",FALSE,1990,2.23606797749979,301.52,Rap,Hip-Hop,Rap
+1997,8,mark morrison,"""Return of the Mack""",FALSE,1990,0,213.093,Rnb,Rnb,Rnb
+1997,9,leann rimes,"""How Do I Live""",FALSE,1990,2,266.973,Country,Country,Country
+1997,10,spice girls,"""Wannabe""",FALSE,1990,2,173.026,Pop,Pop,Pop
+1997,11,backstreet boys,"""Quit Playing Games (With My Heart)""",FALSE,1990,2.449489742783178,233.533,Pop,Pop,Pop
+1997,12,hanson,"""MMMBop""",FALSE,1990,1,268.653,Pop,Pop,Pop
+1997,14,usher,"""You Make Me Wanna...""",TRUE,1990,4.898979485566356,219.12,Rnb,Rnb,Rnb
+1997,15,meredith brooks,"""Bitch""",FALSE,1990,0,252.76,Rock,Rock,Rock
+1997,17,third eye blind,"""Semi-Charmed Life""",TRUE,1990,2,268.36,Rock,90s,Rock
+1997,18,duncan sheik,"""Barely Breathing""",FALSE,1990,0,254.546,Pop,90s,Pop
+1997,21,the verve pipe,"""The Freshmen""",FALSE,1990,0,269.466,Rock,90s,Rock
+1997,22,savage garden,"""I Want You""",TRUE,1990,1.7320508075688772,232.066,Pop,Pop,Pop
+1997,24,rome,"""I Belong to You (Every Time I See Your Face)""",FALSE,1990,0,273.266,Rnb,Soul,Rnb
+1997,27,dru hill,"""In My Bed""",TRUE,1990,2,284.6,Rnb,Rnb,Rnb
+1997,29,robyn,"""Do You Know (What It Takes)""",FALSE,1990,1,221.293,Pop,Pop,Pop
+1997,34,freak nasty,"""Da' Dip""",FALSE,1990,0,237,Rap,Rap,Rap
+1997,36,sister hazel,"""All for You""",FALSE,1990,1,218.706,Rock,90s,Rock
+1997,38,paula cole,"""Where Have All the Cowboys Gone?""",FALSE,1990,1,263.653,Pop,90s,Pop
+1997,39,shawn colvin,"""Sunny Came Home""",FALSE,1990,0,264.2,Folk,Female Vocalists,Folk
+1997,41,gina g,"""Ooh Aah... Just a Little Bit""",TRUE,1990,0,203.12,Pop,90s,Pop
+1997,43,allure,"""All Cried Out""",TRUE,1990,1,275.773,Rnb,90s,Rnb
+1997,45,98 degrees,"""Invisible Man""",FALSE,1990,2.23606797749979,283.266,Pop,Pop,Pop
+1997,46,lil' kim,"""Not Tonight""",FALSE,1990,1.7320508075688772,252.52,Unknown,NA,NA
+1997,48,702,"""Get It Together""",FALSE,1990,1,291.4,Rnb,Rnb,Rnb
+1997,51,somethin' for the people,"""My Love Is the Shhh!""",FALSE,1990,1,281.746,Unknown,NA,NA
+1997,54,foxy brown,"""I'll Be""",FALSE,1990,0,178.6,Rap,Foxy Brown,Rap
+1997,58,magoo,"""Up Jumps da Boogie""",FALSE,1990,0,300.413,Unknown,Hip Hop,NA
+1997,63,sarah mclachlan,"""Building a Mystery""",TRUE,1990,1.7320508075688772,247.306,Pop,Female Vocalists,Pop
+1997,65,white town,"""Your Woman""",FALSE,1990,0,259.893,Electronic,90s,Electronic
+1997,68,b-rock and the bizz,"""My Baby Daddy""",FALSE,1990,0,391.785,Unknown,Teh Funneh,NA
+1997,69,chumbawamba,"""Tubthumping""",FALSE,1990,1,278.778,Pop,90s,Pop
+1997,72,various artists,"""ESPN Presents The Jock Jam""",FALSE,1990,0,271.333,Unknown,NA,NA
+1997,75,scarface,"""Smile""",FALSE,1990,0,300.6,Unknown,NA,NA
+1997,81,luscious jackson,"""Naked Eye""",FALSE,1990,0,280.693,Rock,90s,Rock
+1997,83,erykah badu,"""On & On""",FALSE,1990,1.4142135623730951,226.133,Rnb,Soul,Rnb
+1997,91,next,"""Butta Love""",FALSE,1990,2,296.4,Rnb,Slow Jams,Rnb
+1997,92,mr. president,"""Coco Jamboo""",FALSE,1990,0,218.733,Pop,Eurodance,Pop
+1997,94,aqua,"""Barbie Girl""",FALSE,1990,0,197.96,Pop,Pop,Pop
+1997,96,dj kool,"""Let Me Clear My Throat""",FALSE,1990,0,290.16,Rap,Hip-Hop,Rap
+1997,97,the blackout all-stars,"""I Like It""",FALSE,1990,0,274.306,Pop,Chacha,Pop
+1997,100,ray j,"""Let It Go""",FALSE,1990,1.4142135623730951,293.24,Rnb,Rnb,Rnb
+1998,3,shania twain,"""You're Still the One""",FALSE,1990,2,212.224,Country,Country,Country
+1998,6,janet,"""Together Again""",TRUE,1990,1,301.2,Unknown,NA,NA
+1998,7,k-ci,"""All My Life""",FALSE,1990,1.4142135623730951,331.24,Rnb,Rnb,Rnb
+1998,12,destiny's child,"""No, No, No""",FALSE,1990,3.3166247903554,207.466,Pop,Hip Hop,Pop
+1998,14,will smith,"""Gettin' Jiggy wit It""",FALSE,1990,1.7320508075688772,227.933,Rap,Hip-Hop,Rap
+1998,21,jennifer paige,"""Crush""",FALSE,1990,0,199.96,Pop,Pop,Pop
+1998,24,public announcement,"""Body Bumpin' (Yippie-Yi-Yo)""",TRUE,1990,0,275.933,Rnb,Slow Jams Tag,Rnb
+1998,25,faith hill,"""This Kiss""",FALSE,1990,2.23606797749979,194.306,Country,Country,Country
+1998,26,uncle sam,"""I Don't Ever Want to See You Again""",FALSE,1990,0,345.133,Rnb,Slow Jams,Rnb
+1998,28,marcy playground,"""Sex and Candy""",FALSE,1990,0,173.557,Rock,90s,Rock
+1998,31,mase,"""What You Want""",FALSE,1990,1.4142135623730951,242.946,Rap,Hip Hop,Rap
+1998,33,wyclef jean,"""Gone till November""",FALSE,1990,1,207.466,Reggae,Hip-Hop,Reggae
+1998,34,lsg,"""My Body""",FALSE,1990,0,247.133,Rnb,Rnb,Rnb
+1998,36,lord tariq,"""Deja Vu (Uptown Baby)""",FALSE,1990,0,284.8,Rap,Hip-Hop,Rap
+1998,37,nsync,"""I Want You Back""",FALSE,1990,2.6457513110645907,200.44,Pop,Pop,Pop
+1998,38,five,"""When the Lights Go Out""",FALSE,1990,0,249.6,Pop,Pop,Pop
+1998,40,master p,"""Make 'Em Say Uhh!""",FALSE,1990,1,305.28,Unknown,NA,NA
+1998,41,nicole,"""Make It Hot""",FALSE,1990,0,267.093,Unknown,NA,NA
+1998,42,all saints,"""Never Ever""",FALSE,1990,0,387.573,Pop,Pop,Pop
+1998,45,voices of theory,"""Say It""",FALSE,1990,0,269.466,Rnb,Rnb,Rnb
+1998,46,billie myers,"""Kiss the Rain""",FALSE,1990,0,270.16,Pop,Pop,Pop
+1998,48,sylk-e. fyne,"""Romeo and Juliet""",FALSE,1990,0,276.964,Unknown,NA,NA
+1998,49,mýa,"""It's All About Me""",FALSE,1990,1.7320508075688772,264.933,Unknown,NA,NA
+1998,51,barenaked ladies,"""One Week""",FALSE,1990,0,169.76,Rock,90s,Rock
+1998,52,k. p.,"""Swing My Way""",FALSE,1990,0,249.213,Pop,90s,Pop
+1998,55,tatyana ali,"""Daydreamin'""",FALSE,1990,0,300.133,Rnb,90s,Rnb
+1998,61,divine,"""Lately""",FALSE,1990,1,269.533,Rnb,90s,Rnb
+1998,64,inoj,"""Time After Time""",FALSE,1990,1,249.44,Pop,Cover,Pop
+1998,65,jimmy ray,"""Are You Jimmy Ray?""",FALSE,1990,0,201.2,Pop,90s,Pop
+1998,70,pras michel,"""Ghetto Supastar (That Is What You Are)""",FALSE,1990,0,265.866,Unknown,NA,NA
+1998,72,kelly price,"""Friend of Mine""",FALSE,1990,0,377.506,Rnb,Rnb,Rnb
+1998,74,edwin mccain,"""I'll Be""",FALSE,1990,0,266.533,Rock,Rock,Rock
+1998,77,monifah,"""Touch It""",FALSE,1990,0,285.826,Rnb,Sexy,Rnb
+1998,78,the lox,"""Money, Power & Respect""",FALSE,1990,0,270.493,Unknown,NA,NA
+1998,79,the verve,"""Bitter Sweet Symphony""",FALSE,1990,0,357.266,Rock,Britpop,Rock
+1998,83,loreena mckennitt,"""The Mummers' Dance""",FALSE,1990,0,367.44,New Age,Celtic,New Age
+1998,85,big punisher,"""Still Not a Player""",FALSE,1990,0,236.8,Rap,Hip-Hop,Rap
+1998,90,luke,"""Raise the Roof""",FALSE,1990,0,29.688,Unknown,NA,NA
+1998,91,nu flavor,"""Heaven""",TRUE,1990,0,298.133,Rnb,Slow Jams,Rnb
+1998,92,jd,"""The Party Continues""",FALSE,1990,0,252.25,Unknown,NA,NA
+1998,93,missy elliott,"""Sock It 2 Me""",FALSE,1990,2.6457513110645907,257.466,Rap,Hip-Hop,Rap
+1998,98,gerald levert,"""Thinkin' Bout It""",FALSE,1990,0,391.04,Rnb,Soul,Rnb
+1998,100,tq,"""Westside""",FALSE,1990,0,304.733,Rnb,Rnb,Rnb
+1999,5,britney spears,"""...Baby One More Time""",FALSE,1990,3.872983346207417,211.066,Pop,Pop,Pop
+1999,6,sixpence none the richer,"""Kiss Me""",FALSE,1990,0,208.68,Pop,Pop,Pop
+1999,7,christina aguilera,"""Genie in a Bottle""",FALSE,1990,2.8284271247461903,217.573,Pop,Pop,Pop
+1999,8,sugar ray,"""Every Morning""",TRUE,1990,1.4142135623730951,219.866,Pop,90s,Pop
+1999,10,ricky martin,"""Livin' la Vida Loca""",FALSE,1990,1.4142135623730951,243.16,Latin,Latin,Latin
+1999,12,jennifer lopez,"""If You Had My Love""",FALSE,1990,3.1622776601683795,266,Pop,Pop,Pop
+1999,17,smash mouth,"""All Star""",FALSE,1990,1,200.373,Rock,Rock,Rock
+1999,22,eagle-eye cherry,"""Save Tonight""",FALSE,1990,0,239.226,Rock,90s,Rock
+1999,24,maxwell,"""Fortunate""",FALSE,1990,1,301.16,Rnb,Soul,Rnb
+1999,26,enrique iglesias,"""Bailamos""",FALSE,1990,2.6457513110645907,212.693,Latin,Latin,Latin
+1999,28,everlast,"""What It's Like""",FALSE,1990,0,303.133,Rock,Rock,Rock
+1999,38,lfo,"""Summer Girls""",TRUE,1990,1,257.333,Pop,Summer,Pop
+1999,39,jay-z,"""Can I Get A...""",FALSE,1990,3.872983346207417,309.773,Unknown,NA,NA
+1999,41,lauryn hill,"""Doo Wop (That Thing)""",FALSE,1990,1,320.266,Rnb,Soul,Rnb
+1999,42,lou bega,"""Mambo No. 5""",TRUE,1990,0,220.293,Pop,Pop,Pop
+1999,43,tyrese,"""Sweet Lady""",FALSE,1990,1,290.6,Rnb,Slow Jams,Rnb
+1999,46,shawn mullins,"""Lullaby""",TRUE,1990,0,329.866,Pop,90s,Pop
+1999,49,matchbox 20,"""Back 2 Good""",FALSE,1990,0,340.173,Rock,Rock,Rock
+1999,50,blaque,"""808""",TRUE,1990,1,306.693,Rnb,Rnb,Rnb
+1999,51,tal bachman,"""She's So High""",TRUE,1990,0,224.693,Pop,90s,Pop
+1999,55,jt money,"""Who Dat""",FALSE,1990,0,231.8,Unknown,NA,NA
+1999,59,jesse powell,"""You""",FALSE,1990,0,318.466,Rnb,Slow Jams,Rnb
+1999,63,jordan knight,"""Give It to You""",FALSE,1990,0,289.76,Pop,Pop,Pop
+1999,65,eric benét,"""Spend My Life with You""",FALSE,1990,0,276.013,Unknown,R&B,NA
+1999,67,mark chesnutt,"""I Don't Want to Miss a Thing""",FALSE,1990,0,246.226,Country,Country,Country
+1999,71,chanté moore,"""Chanté's Got a Man""",FALSE,1990,0,264.973,Unknown,NA,NA
+1999,75,juvenile,"""Back That Thang Up""",FALSE,1990,1,273.786,Unknown,NA,NA
+1999,78,len,"""Steal My Sunshine""",FALSE,1990,0,265.533,Pop,90s,Pop
+1999,79,marc anthony,"""I Need to Know""",FALSE,1990,1.4142135623730951,227.706,Latin,Latin,Latin
+1999,84,kenny chesney,"""How Forever Feels""",FALSE,1990,3,188.2,Country,Country,Country
+1999,85,lonestar,"""Amazed""",TRUE,1990,2,240.866,Country,Country,Country
+1999,87,mo thugs,"""Ghetto Cowboy""",FALSE,1990,0,325.138,Rap,Rap,Rap
+1999,88,fastball,"""Out of My Head""",FALSE,1990,0,153.066,Rock,90s,Rock
+1999,92,joey mcintyre,"""Stay the Same""",FALSE,1990,0,227.4,Pop,Pop,Pop
+1999,93,jo dee messina,"""A Lesson in Leavin'""",FALSE,1990,1,220.2,Unknown,NA,NA
+1999,96,citizen king,"""Better Days (And the Bottom Drops Out)""",FALSE,1990,0,207.026,Rock,Alternative,Rock
+1999,98,george strait,"""Write This Down""",FALSE,1990,1.4142135623730951,219.6,Country,Country,Country
+2000,5,vertical horizon,"""Everything You Want""",FALSE,2000,0,257.066,Rock,Alternative Rock,Rock
+2000,9,matchbox twenty,"""Bent""",FALSE,2000,1.4142135623730951,256.133,Rock,Rock,Rock
+2000,11,creed,"""Higher""",FALSE,2000,2,316.733,Rock,Rock,Rock
+2000,14,sisqó,"""Thong Song""",TRUE,2000,1,253.733,Rnb,Rnb,Rnb
+2000,15,3 doors down,"""Kryptonite""",FALSE,2000,2.6457513110645907,233.933,Rock,Rock,Rock
+2000,16,pink,"""There You Go""",FALSE,2000,4.242640687119285,202.8,Pop,Pop,Pop
+2000,26,macy gray,"""I Try""",TRUE,2000,0,239.44,Rnb,Soul,Rnb
+2000,29,nelly,"""Country Grammar (Hot Shit)""",FALSE,2000,3.605551275463989,287,Pop,2000s,Pop
+2000,33,bbmak,"""Back Here""",FALSE,2000,0,218.2,Pop,Pop,Pop
+2000,34,sonique,"""It Feels So Good""",FALSE,2000,0,160.973,Pop,Dance,Pop
+2000,35,nine days,"""Absolutely (Story of a Girl)""",TRUE,2000,0,189.333,Rock,Rock,Rock
+2000,39,ruff endz,"""No More""",TRUE,2000,0,242.56,Rnb,Rnb,Rnb
+2000,40,blink-182,"""All the Small Things""",TRUE,2000,0,167.066,Punk,Punk Rock,Punk
+2000,46,jagged edge,"""Let's Get Married""",FALSE,2000,2,249.04,Rnb,Rnb,Rnb
+2000,49,eiffel 65,"""Blue (Da Ba Dee)""",FALSE,2000,0,283.747,Electronic,Dance,Electronic
+2000,51,eminem,"""The Real Slim Shady""",FALSE,2000,4.123105625617661,284.2,Rap,Rap,Rap
+2000,54,everclear,"""Wonderful""",FALSE,2000,0,280.813,Rock,Alternative Rock,Rock
+2000,56,jessica simpson,"""I Wanna Love You Forever""",FALSE,2000,1.4142135623730951,263.8,Pop,Pop,Pop
+2000,58,filter,"""Take a Picture""",FALSE,2000,0,363.8,Rock,Alternative Rock,Rock
+2000,61,son by four,"""Purest of Pain (A Puro Dolor)""",FALSE,2000,0,247.48,Unknown,Love It,NA
+2000,63,avant,"""Separated""",TRUE,2000,1,255.6,Rnb,Avant,Rnb
+2000,64,carl thomas,"""I Wish""",FALSE,2000,0,228.506,Rnb,Rnb,Rnb
+2000,65,donell jones,"""U Know What's Up""",FALSE,2000,1,243.733,Rnb,Rnb,Rnb
+2000,66,souldecision,"""Faded""",FALSE,2000,0,208.666,Pop,Pop,Pop
+2000,67,kid rock,"""Only God Knows Why""",FALSE,2000,1.4142135623730951,327.666,Rock,Rock,Rock
+2000,68,mystikal,"""Shake Ya Ass""",TRUE,2000,1,256.972,Rap,Hip-Hop,Rap
+2000,70,train,"""Meet Virginia""",FALSE,2000,2.23606797749979,239.933,Rock,Rock,Rock
+2000,71,dmx,"""Party Up (Up in Here)""",FALSE,2000,0,228.4,Rap,Rap,Rap
+2000,75,westlife,"""Swear It Again""",FALSE,2000,0,248.24,Pop,Pop,Pop
+2000,79,chad brock,"""Yes!""",FALSE,2000,0,206.733,Country,Country,Country
+2000,82,toby keith,"""How Do You Like Me Now?!""",FALSE,2000,2.449489742783178,209.066,Country,Country,Country
+2000,86,kandi,"""Don't Think I'm Not""",FALSE,2000,0,243.533,Rnb,Rnb,Rnb
+2000,87,lee ann womack,"""I Hope You Dance""",FALSE,2000,1,294.533,Country,Country,Country
+2000,88,alice deejay,"""Better Off Alone""",FALSE,2000,0,214.883,Electronic,Dance,Electronic
+2000,89,debelah morgan,"""Dance with Me""",FALSE,2000,1,220.106,Pop,Dance,Pop
+2000,91,sammie,"""I Like It""",FALSE,2000,0,251.04,Rnb,Sammie,NA
+2000,92,kevon edmonds,"""24/7""",FALSE,2000,0,274.266,Rnb,Slow Jams,Rnb
+2000,94,lil' bow wow,"""Bounce with Me""",FALSE,2000,0,175.893,Unknown,Wjlb-Fm,NA
+2000,95,dixie chicks,"""Cowboy Take Me Away""",FALSE,2000,1.4142135623730951,287.266,Country,Country,Country
+2000,98,samantha mumba,"""Gotta Tell You""",FALSE,2000,0,200.16,Pop,Pop,Pop
+2000,100,mary mary,"""Shackles (Praise You)""",FALSE,2000,0,198.346,Rnb,Gospel,Rnb
+2001,1,lifehouse,"""Hanging by a Moment""",TRUE,2000,1.7320508075688772,216.066,Rock,Rock,Rock
+2001,2,alicia keys,"""Fallin'""",FALSE,2000,3.3166247903554,210.2,Rnb,Soul,Rnb
+2001,7,eve,"""Let Me Blow Ya Mind""",FALSE,2000,1,230.133,Unknown,Radio Music,NA
+2001,8,dido,"""Thank You""",FALSE,2000,1,140,Pop,Pop,Pop
+2001,11,blu cantrell,"""Hit 'Em Up Style (Oops!)""",FALSE,2000,0,250.706,Rnb,Rnb,Rnb
+2001,14,staind,"""It's Been Awhile""",TRUE,2000,0,264.706,Rock,Rock,Rock
+2001,19,uncle kracker,"""Follow Me""",FALSE,2000,1.4142135623730951,218.439,Pop,Pop,Pop
+2001,21,incubus,"""Drive""",TRUE,2000,0,232.453,Rock,Alternative Rock,Rock
+2001,22,city high,"""What Would You Do?""",FALSE,2000,1,175.56,Rnb,Hip-Hop,Rnb
+2001,28,dream,"""He Loves U Not""",FALSE,2000,0,226.666,Pop,Pop,Pop
+2001,29,crazy town,"""Butterfly""",FALSE,2000,0,216.733,Rock,Rock,Rock
+2001,30,ja rule,"""Put It on Me""",FALSE,2000,2.449489742783178,262.826,Unknown,2002,NA
+2001,33,moby,"""South Side""",FALSE,2000,0,229.733,Electronic,Electronic,Electronic
+2001,37,craig david,"""Fill Me In""",TRUE,2000,1,257.2,Rnb,Rnb,Rnb
+2001,41,o-town,"""All or Nothing""",FALSE,2000,0,281.426,Pop,Pop,Pop
+2001,43,nelly furtado,"""I'm Like a Bird""",TRUE,2000,2,243.16,Pop,Pop,Pop
+2001,53,lil' mo,"""Superwoman Pt. II""",FALSE,2000,0,265.587,Unknown,NA,NA
+2001,54,evan,"""Crazy for This Girl""",FALSE,2000,0,202.026,Pop,Pop,Pop
+2001,59,enya,"""Only Time""",FALSE,2000,0,218.546,New Age,New Age,New Age
+2001,60,toya,"""I Do!!""",FALSE,2000,1,196.386,Rnb,Rnb,Rnb
+2001,61,s club 7,"""Never Had a Dream Come True""",FALSE,2000,0,240.492,Pop,Pop,Pop
+2001,62,tamia,"""Stranger in My House""",FALSE,2000,0,285.386,Rnb,Rnb,Rnb
+2001,64,sunshine anderson,"""Heard It All Before""",FALSE,2000,0,295.826,Rnb,Rnb,Rnb
+2001,65,dave matthews band,"""The Space Between""",FALSE,2000,0,242,Rock,Rock,Rock
+2001,67,musiq soulchild,"""Love""",TRUE,2000,1,304.666,Rnb,Musiq,Rnb
+2001,69,3lw,"""No More (Baby I'ma Do Right)""",TRUE,2000,0,263.44,Rnb,Rnb,Rnb
+2001,71,brooks,"""Ain't Nothing 'bout You""",FALSE,2000,1,201.266,Country,Country,Country
+2001,74,lil' romeo,"""My Baby""",FALSE,2000,0,221,Pop,2001,Pop
+2001,76,blake shelton,"""Austin""",FALSE,2000,2.449489742783178,230.333,Country,Country,Country
+2001,77,ludacris,"""Southern Hospitality""",FALSE,2000,3.605551275463989,300.933,Rap,Rap,Rap
+2001,82,jessica andrews,"""Who I Am""",FALSE,2000,0,255.233,Country,Country,Country
+2001,83,erick sermon,"""Music""",FALSE,2000,0,223.133,Rap,Hip Hop,Rap
+2001,84,willa ford,"""I Wanna Be Bad""",FALSE,2000,0,183.56,Pop,Pop,Pop
+2001,86,diamond rio,"""One More Day""",FALSE,2000,0,216.173,Country,Country,Country
+2001,88,travis tritt,"""It's a Great Day to Be Alive""",FALSE,2000,0,241.533,Country,Country,Country
+2001,89,trick daddy,"""I'm a Thug""",FALSE,2000,1,254.4,Rap,Hip-Hop,Rap
+2001,90,eve 6,"""Here's to the Night""",FALSE,2000,0,249.84,Rock,Alternative,Rock
+2001,92,eden's crush,"""Get Over Yourself""",FALSE,2000,0,198.026,Pop,Pop,Pop
+2001,98,qb finest,"""Oochie Wally""",FALSE,2000,0,196.281,Unknown,NA,NA
+2001,100,fuel,"""Hemorrhage (In My Hands)""",TRUE,2000,0,236.866,Rock,Rock,Rock
+2002,1,nickelback,"""How You Remind Me""",FALSE,2000,3.1622776601683795,223.84,Rock,Rock,Rock
+2002,2,ashanti,"""Foolish""",FALSE,2000,2,227.386,Rnb,Rnb,Rnb
+2002,5,the calling,"""Wherever You Will Go""",FALSE,2000,0,208.6,Rock,Rock,Rock
+2002,6,vanessa carlton,"""A Thousand Miles""",FALSE,2000,0,237.493,Pop,Pop,Pop
+2002,7,linkin park,"""In the End""",FALSE,2000,2.449489742783178,216.88,Rock,Rock,Rock
+2002,8,fat joe,"""What's Luv?""",FALSE,2000,2,267.093,Rap,Hip Hop,Rap
+2002,10,puddle of mudd,"""Blurry""",FALSE,2000,1,304,Rock,Rock,Rock
+2002,11,avril lavigne,"""Complicated""",FALSE,2000,2.6457513110645907,244.506,Pop,Pop,Pop
+2002,14,jimmy eat world,"""The Middle""",FALSE,2000,0,165.853,Rock,Rock,Rock
+2002,15,p. diddy,"""I Need a Girl (Part One)""",FALSE,2000,1,241.074,Unknown,NA,NA
+2002,23,michelle branch,"""All You Wanted""",FALSE,2000,1,217.68,Pop,Pop,Pop
+2002,25,chad kroeger,"""Hero""",FALSE,2000,0,200.48,Rock,Rock,Rock
+2002,26,default,"""Wasting My Time""",FALSE,2000,0,269.306,Rock,Rock,Rock
+2002,28,shakira,"""Whenever, Wherever""",TRUE,2000,2.23606797749979,196.16,Pop,Pop,Pop
+2002,30,cam'ron,"""Oh Boy""",FALSE,2000,1,204.706,Unknown,NA,NA
+2002,31,dj sammy,"""Heaven""",TRUE,2000,0,235,Electronic,Dance,Electronic
+2002,34,mario,"""Just a Friend 2002""",FALSE,2000,1.4142135623730951,214.2,Rnb,Rnb,Rnb
+2002,37,n.o.r.e.,"""Nothin'""",FALSE,2000,0,224.866,Rap,Hip-Hop,Rap
+2002,38,tweet,"""Oops (Oh My)""",TRUE,2000,0,237.8,Pop,Hip Hop,Pop
+2002,39,kelly clarkson,"""A Moment Like This""",FALSE,2000,4,228.28,Pop,Pop,Pop
+2002,40,truth hurts,"""Addictive""",FALSE,2000,0,226.44,Rnb,Rnb,Rnb
+2002,42,john mayer,"""No Such Thing""",FALSE,2000,2.23606797749979,231.466,Rock,Acoustic,Rock
+2002,46,five for fighting,"""Superman (It's Not Easy)""",FALSE,2000,1,221.693,Pop,Alternative,Pop
+2002,49,mr. cheeks,"""Lights, Camera, Action!""",FALSE,2000,0,261.026,Pop,Hip-Hop,Pop
+2002,50,big tymers,"""Still Fly""",FALSE,2000,0,335.613,Rap,Rap,Rap
+2002,61,daniel bedingfield,"""Gotta Get thru This""",FALSE,2000,1,161.2,Pop,Dance,Pop
+2002,69,angie martinez,"""If I Could Go!""",FALSE,2000,0,244.466,Unknown,NA,NA
+2002,74,sean paul,"""Gimme the Light""",FALSE,2000,2.6457513110645907,228,Reggae,Dancehall,Reggae
+2002,80,dirty vegas,"""Days Go By""",FALSE,2000,0,432.146,Electronic,Dance,Electronic
+2002,84,steve holy,"""Good Morning Beautiful""",FALSE,2000,0,210.933,Country,Country,Country
+2002,86,alan jackson,"""Drive (For Daddy Gene)""",FALSE,2000,1.7320508075688772,242.733,Country,Country,Country
+2002,88,jaheim,"""Anything""",FALSE,2000,1,287.026,Rnb,Rnb,Rnb
+2002,90,b2k,"""Uh Huh""",TRUE,2000,1,223.293,Rnb,Rnb,Rnb
+2002,99,justin timberlake,"""Like I Love You""",TRUE,2000,3.872983346207417,283.626,Pop,Pop,Pop
+2003,1,50 cent,"""In da Club""",FALSE,2000,2.8284271247461903,193.466,Rap,Rap,Rap
+2003,4,beyoncé,"""Crazy in Love""",FALSE,2000,4.69041575982343,236.133,Pop,Pop,Pop
+2003,7,chingy,"""Right Thurr""",FALSE,2000,2,250.746,Rap,Hip-Hop,Rap
+2003,10,evanescence,"""Bring Me to Life""",FALSE,2000,1.4142135623730951,235.893,Rock,Rock,Rock
+2003,11,lil jon,"""Get Low""",FALSE,2000,1.7320508075688772,334.066,Unknown,Lets Dance,NA
+2003,23,fabolous,"""Into You""",FALSE,2000,1.7320508075688772,293.84,Rap,Hip Hop,Rap
+2003,26,black eyed peas,"""Where Is the Love?""",FALSE,2000,1,272.533,Pop,Hip-Hop,Pop
+2003,33,wayne wonder,"""No Letting Go""",FALSE,2000,0,202.013,Reggae,Reggae,Reggae
+2003,34,pharrell,"""Frontin'""",FALSE,2000,0,236.506,Pop,Pop,Pop
+2003,38,nivea,"""Don't Mess with My Man""",FALSE,2000,0,213.226,Rnb,Rnb,Rnb
+2003,41,lumidee,"""Never Leave You (Uh Oooh, Uh Oooh)""",FALSE,2000,0,184.906,Rnb,R&B,Rnb
+2003,42,snoop dogg,"""Beautiful""",FALSE,2000,2.23606797749979,298.306,Unknown,NA,NA
+2003,46,youngbloodz,"""Damn!""",FALSE,2000,1,298.6,Rap,Hip-Hop,Rap
+2003,47,clay aiken,"""This Is the Night""",FALSE,2000,0,212.2,Pop,Pop,Pop
+2003,49,trapt,"""Headstrong""",FALSE,2000,0,286,Rock,Rock,Rock
+2003,52,jason mraz,"""The Remedy (I Won't Worry)""",FALSE,2000,1.7320508075688772,256.44,Pop,Pop,Pop
+2003,58,nas,"""I Can""",TRUE,2000,0,164.733,Rap,Hip-Hop,Rap
+2003,69,amanda perez,"""Angel""",FALSE,2000,0,217.626,Rnb,Amanda Perez,Rnb
+2003,71,frankie j,"""Don't Wanna Try""",FALSE,2000,1,245.293,Rnb,Rnb,Rnb
+2003,77,baby bash,"""Suga Suga""",FALSE,2000,2,239.026,Rnb,Rnb,Rnb
+2003,81,coldplay,"""Clocks""",FALSE,2000,2.6457513110645907,307.879,Rock,Rock,Rock
+2003,84,mark wills,"""19 Somethin'""",FALSE,2000,0,200.466,Country,Country,Country
+2003,85,young gunz,"""Can't Stop, Won't Stop""",FALSE,2000,0,262.8,Pop,Hip-Hop,NA
+2003,87,dierks bentley,"""What Was I Thinkin'""",FALSE,2000,1,260.826,Country,Country,Country
+2003,88,ruben studdard,"""Flying Without Wings""",FALSE,2000,1,226.133,Rnb,Soul,Rnb
+2003,90,darryl worley,"""Have You Forgotten?""",FALSE,2000,0,242.293,Country,Country,Country
+2003,93,field mob,"""Sick of Being Lonely""",TRUE,2000,1,229.16,Rnb,Hip-Hop,Rnb
+2003,95,thalía,"""I Want You""",FALSE,2000,0,226.026,Unknown,NA,NA
+2003,96,audioslave,"""Like a Stone""",TRUE,2000,0,293.96,Rock,Rock,Rock
+2003,97,norah jones,"""Don't Know Why""",FALSE,2000,0,186.251,Jazz,Jazz,Jazz
+2003,100,floetry,"""Say Yes""",FALSE,2000,0,268.373,Rnb,Neo-Soul,Rnb
+2004,4,maroon 5,"""This Love""",FALSE,2000,4.898979485566356,206.2,Pop,Pop,Pop
+2004,6,hoobastank,"""The Reason""",FALSE,2000,0,232.8,Rock,Rock,Rock
+2004,7,mario winans,"""I Don't Wanna Know""",FALSE,2000,0,257.333,Rnb,Rnb,Rnb
+2004,9,ciara,"""Goodies""",FALSE,2000,2.449489742783178,223,Unknown,NA,NA
+2004,10,terror squad,"""Lean Back""",FALSE,2000,0,247.426,Unknown,NA,NA
+2004,11,j-kwon,"""Tipsy""",FALSE,2000,0,243.226,Rap,Hip Hop,Rap
+2004,14,petey pablo,"""Freek-a-Leek""",TRUE,2000,0,235.186,Rap,Rap,Rap
+2004,16,twista,"""Slow Jamz""",FALSE,2000,1,316.053,Unknown,NA,NA
+2004,20,lil' flip,"""Sunshine""",FALSE,2000,1,225.173,Rap,Hip-Hop,NA
+2004,22,nina sky,"""Move Ya Body""",FALSE,2000,0,232,Rnb,Dance,Rnb
+2004,23,christina milian,"""Dip It Low""",TRUE,2000,0,201,Rnb,Rnb,Rnb
+2004,27,kevin lyttle,"""Turn Me On""",TRUE,2000,0,192.106,Reggae,Dancehall,Reggae
+2004,32,cassidy,"""Hotel""",FALSE,2000,0,247.04,Rap,R Kelly,Rap
+2004,37,los lonely boys,"""Heaven""",FALSE,2000,0,226.96,Rock,Rock,Rock
+2004,39,ashlee simpson,"""Pieces of Me""",FALSE,2000,0,216.56,Pop,Pop,Pop
+2004,40,jojo,"""Leave (Get Out)""",FALSE,2000,1,242.84,Pop,Pop,Pop
+2004,41,kelis,"""Milkshake""",FALSE,2000,1,182.626,Rnb,Rnb,Rnb
+2004,43,kanye west,"""Jesus Walks""",FALSE,2000,3.4641016151377544,193.733,Rap,Hip-Hop,Rap
+2004,44,akon,"""Locked Up""",FALSE,2000,2.6457513110645907,235.066,Unknown,NA,NA
+2004,49,ying yang twins,"""Salt Shaker""",FALSE,2000,1,252.44,Unknown,NA,NA
+2004,51,switchfoot,"""Meant to Live""",FALSE,2000,0,201.373,Rock,Rock,Rock
+2004,52,houston,"""I Like That""",FALSE,2000,0,236.52,Unknown,NA,NA
+2004,55,lloyd banks,"""On Fire""",FALSE,2000,0,187.28,Rap,Rap,Rap
+2004,59,d12,"""My Band""",FALSE,2000,0,298.773,Rap,Rap,Rap
+2004,62,jadakiss,"""Why?""",FALSE,2000,0,240,Rap,Rap,Rap
+2004,63,eamon,"""Fuck It (I Don't Want You Back)""",TRUE,2000,0,225.106,Rnb,Rnb,Rnb
+2004,66,finger eleven,"""One Thing""",FALSE,2000,1.4142135623730951,279.573,Rock,Rock,Rock
+2004,73,ryan cabrera,"""On the Way Down""",TRUE,2000,1,213.28,Pop,Pop,Pop
+2004,76,jet,"""Are You Gonna Be My Girl""",FALSE,2000,0,213.8,Rock,Rock,Rock
+2004,80,nick cannon,"""Gigolo""",FALSE,2000,0,237.84,Rap,Rap,Rap
+2004,84,lloyd,"""Southside""",FALSE,2000,1.4142135623730951,277.84,Rnb,Lloyd,Rnb
+2004,85,beenie man,"""Dude""",FALSE,2000,0,255.36,Unknown,NA,NA
+2004,86,g-unit,"""Wanna Get to Know You""",FALSE,2000,0,265.026,Rap,G-Unit,Rap
+2004,88,the black eyed peas,"""Let's Get It Started""",FALSE,2000,3.7416573867739418,217.733,Pop,Hip-Hop,Pop
+2004,93,keith urban,"""You'll Think of Me""",FALSE,2000,1.4142135623730951,293.6,Country,Country,Country
+2004,97,gretchen wilson,"""Redneck Woman""",TRUE,2000,0,221.333,Country,Country,Country
+2004,99,john michael montgomery,"""Letters from Home""",FALSE,2000,0,267.533,Country,Country,Country
+2005,2,gwen stefani,"""Hollaback Girl""",FALSE,2000,2,199.853,Pop,Pop,Pop
+2005,7,green day,"""Boulevard of Broken Dreams""",FALSE,2000,1.7320508075688772,262.333,Rock,Rock,Rock
+2005,9,the pussycat dolls,"""Don't Cha""",FALSE,2000,0,272.08,Pop,Pop,Pop
+2005,16,the killers,"""Mr. Brightside""",FALSE,2000,0,222.973,Rock,Rock,Rock
+2005,18,rihanna,"""Pon de Replay""",TRUE,2000,5.656854249492381,246.96,Rnb,Dance,Rnb
+2005,19,the game,"""How We Do""",TRUE,2000,1.4142135623730951,235.533,Rap,Hip-Hop,Rap
+2005,20,weezer,"""Beverly Hills""",TRUE,2000,0,196.093,Rock,Rock,Rock
+2005,22,rob thomas,"""Lonely No More""",TRUE,2000,1,226.64,Pop,Pop,Pop
+2005,29,bow wow,"""Let Me Hold You""",FALSE,2000,1.7320508075688772,248.493,Rnb,Rnb,Rnb
+2005,35,dht,"""Listen to Your Heart""",FALSE,2000,0,230.266,Unknown,NA,NA
+2005,36,papa roach,"""Scars""",TRUE,2000,0,208.186,Rock,Rock,Rock
+2005,37,gorillaz,"""Feel Good Inc.""",FALSE,2000,1,222.64,Electronic,Alternative,Electronic
+2005,40,fall out boy,"""Sugar, We're Goin Down""",TRUE,2000,2.6457513110645907,229.093,Rock,Pop Punk,Rock
+2005,41,pretty ricky,"""Grind with Me""",TRUE,2000,1.4142135623730951,237.733,Rnb,Rnb,Rnb
+2005,42,chris brown,"""Run It!""",TRUE,2000,4.795831523312719,229.866,Rnb,Rnb,Rnb
+2005,45,howie day,"""Collide""",FALSE,2000,0,249.12,Pop,Acoustic,Pop
+2005,47,bobby valentino,"""Slow Down""",FALSE,2000,0,258.665,Rnb,Rnb,Rnb
+2005,49,trillville,"""Some Cut""",FALSE,2000,0,283.386,Rap,Trillville,Rap
+2005,51,david banner,"""Play""",FALSE,2000,1,230.133,Rap,Rap,Rap
+2005,52,young jeezy,"""Soul Survivor""",TRUE,2000,1.7320508075688772,280.013,Rap,Rap,Rap
+2005,58,gavin degraw,"""I Don't Want to Be""",FALSE,2000,1.7320508075688772,217.76,Rock,Rock,Rock
+2005,65,t.i.,"""Bring Em Out""",FALSE,2000,3.1622776601683795,216.706,Rap,Hip-Hop,Rap
+2005,67,amerie,"""1 Thing""",FALSE,2000,0,238.76,Rnb,Rnb,Rnb
+2005,68,foo fighters,"""Best of You""",FALSE,2000,0,255.626,Rock,Rock,Rock
+2005,70,natalie,"""Goin' Crazy""",FALSE,2000,0,294.093,Rnb,Rnb,Rnb
+2005,71,carrie underwood,"""Inside Your Heaven""",FALSE,2000,2.23606797749979,225.28,Country,Country,Country
+2005,73,fantasia,"""Truth Is""",FALSE,2000,0,236.746,Rnb,Fantasia,Rnb
+2005,75,jesse mccartney,"""Beautiful Soul""",FALSE,2000,1.4142135623730951,214.226,Pop,Pop,Pop
+2005,80,natasha bedingfield,"""These Words""",FALSE,2000,1.7320508075688772,136.58,Pop,Pop,Pop
+2005,85,brooke valentine,"""Girlfight""",FALSE,2000,0,234.733,Rnb,Rnb,Rnb
+2005,87,john legend,"""Ordinary People""",FALSE,2000,1.4142135623730951,281.466,Rnb,Soul,Rnb
+2005,89,the click five,"""Just the Girl""",FALSE,2000,0,234.146,Pop,Pop,Pop
+2005,91,omarion,"""O""",FALSE,2000,1.4142135623730951,226.58,Rnb,Rnb,Rnb
+2005,92,mike jones,"""Back Then""",FALSE,2000,0,244.186,Rap,Rap,Rap
+2005,95,t-pain,"""I'm Sprung""",TRUE,2000,2.449489742783178,231.04,Rnb,Rnb,Rnb
+2005,100,webbie,"""Give Me That""",FALSE,2000,1,267.52,Unknown,NA,NA
+2006,1,daniel powter,"""Bad Day""",FALSE,2000,0,233.64,Pop,Pop,Pop
+2006,4,james blunt,"""You're Beautiful""",FALSE,2000,0,209.493,Pop,Pop,Pop
+2006,7,gnarls barkley,"""Crazy""",FALSE,2000,0,182.066,Pop,Soul,Pop
+2006,8,chamillionaire,"""Ridin'""",FALSE,2000,0,303.053,Rap,Rap,Rap
+2006,13,the fray,"""Over My Head (Cable Car)""",TRUE,2000,2,236.266,Rock,Alternative,Rock
+2006,14,cassie,"""Me & U""",FALSE,2000,0,192.213,Rnb,Rnb,Rnb
+2006,15,pussycat dolls,"""Buttons""",FALSE,2000,2,225.56,Pop,Pop,Pop
+2006,17,ne-yo,"""So Sick""",FALSE,2000,3.1622776601683795,207.186,Rnb,Rnb,Rnb
+2006,18,yung joc,"""It's Goin' Down""",FALSE,2000,1,241.84,Rap,Rap,Rap
+2006,20,panic! at the disco,"""I Write Sins Not Tragedies""",FALSE,2000,1.4142135623730951,186.634,Rock,Emo,Rock
+2006,21,the all-american rejects,"""Move Along""",FALSE,2000,1.7320508075688772,238.88,Rock,Rock,Rock
+2006,22,fergie,"""London Bridge""",FALSE,2000,2.23606797749979,241.306,Pop,Pop,Pop
+2006,25,dem franchize boyz,"""Lean wit It, Rock wit It""",FALSE,2000,1,229.813,Rap,Rap,Rap
+2006,26,rascal flatts,"""What Hurts the Most""",FALSE,2000,1,214.106,Country,Country,Country
+2006,29,snow patrol,"""Chasing Cars""",FALSE,2000,1,267.96,Rock,Indie,Rock
+2006,30,hinder,"""Lips of an Angel""",FALSE,2000,1.4142135623730951,261.853,Rock,Rock,Rock
+2006,31,cascada,"""Everytime We Touch""",FALSE,2000,0,197.124,Pop,Dance,Pop
+2006,36,bubba sparxxx,"""Ms. New Booty""",FALSE,2000,0,252.653,Unknown,NA,NA
+2006,43,fort minor,"""Where'd You Go""",FALSE,2000,0,231.866,Rap,Hip-Hop,Rap
+2006,46,d4l,"""Laffy Taffy""",TRUE,2000,0,224.253,Rap,Hip-Hop,Rap
+2006,52,e-40,"""U and Dat""",FALSE,2000,0,202.72,Unknown,NA,NA
+2006,54,nick lachey,"""What's Left of Me""",TRUE,2000,0,244.666,Pop,Pop,Pop
+2006,56,cherish,"""Do It to It""",FALSE,2000,0,157.89,Unknown,NA,NA
+2006,57,kt tunstall,"""Black Horse and the Cherry Tree""",FALSE,2000,0,172.373,Pop,Female Vocalists,Pop
+2006,58,juelz santana,"""There It Go (The Whistle Song)""",FALSE,2000,0,180.493,Rap,Rap,Rap
+2006,59,young dro,"""Shoulder Lean""",FALSE,2000,0,258.68,Rap,Hip-Hop,Rap
+2006,60,jamie foxx,"""Unpredictable""",FALSE,2000,1,219.866,Unknown,Hip Hop,NA
+2006,65,jibbs,"""Chain Hang Low""",TRUE,2000,0,207.586,Rap,Rap,Rap
+2006,74,daddy yankee,"""Rompe""",FALSE,2000,1.4142135623730951,188.626,Latin,Reggaeton,Latin
+2006,79,danity kane,"""Show Stopper""",FALSE,2000,1,229.24,Pop,Danity Kane,Pop
+2006,82,blue october,"""Hate Me""",FALSE,2000,0,380.2,Rock,Rock,Rock
+2006,92,three 6 mafia,"""Stay Fly""",FALSE,2000,1,236.6,Rap,Rap,Rap
+2006,93,keyshia cole,"""Love""",FALSE,2000,1.7320508075688772,255.333,Rnb,Keyshia Cole,Rnb
+2006,99,taylor hicks,"""Do I Make You Proud""",FALSE,2000,0,166.52,Pop,American Idol,Pop
+2006,100,teddy geiger,"""For You I Will (Confidence)""",FALSE,2000,0,228.152,Pop,Pop,Pop
+2007,7,plain white t's,"""Hey There Delilah""",FALSE,2000,0,232.533,Rock,Acoustic,Rock
+2007,14,shop boyz,"""Party Like a Rockstar""",FALSE,2000,0,253.4,Rap,Rap,Rap
+2007,16,mims,"""This Is Why I'm Hot""",FALSE,2000,0,253.706,Rap,Hip-Hop,Rap
+2007,17,daughtry,"""It's Not Over""",FALSE,2000,2,215.026,Rock,Rock,Rock
+2007,18,timbaland,"""The Way I Are""",FALSE,2000,2,179.12,Unknown,NA,NA
+2007,20,soulja boy tell 'em,"""Crank That (Soulja Boy)""",FALSE,2000,1.7320508075688772,221.933,Rap,Soulja Boy,Rap
+2007,23,gym class heroes,"""Cupid's Chokehold""",FALSE,2000,1.7320508075688772,243.773,Pop,Hip-Hop,Pop
+2007,28,jim jones,"""We Fly High""",FALSE,2000,1,236.08,Rap,Hip-Hop,Rap
+2007,30,unk,"""Walk It Out""",FALSE,2000,1,173.04,Rap,Hip-Hop,Rap
+2007,31,sean kingston,"""Beautiful Girls""",TRUE,2000,1.7320508075688772,225.373,Rnb,Rnb,Rnb
+2007,34,huey,"""Pop, Lock & Drop It""",TRUE,2000,0,261.026,Rap,Hip-Hop,Rap
+2007,41,elliott yamin,"""Wait for You""",FALSE,2000,0,261.32,Pop,Pop,Pop
+2007,42,diddy,"""Last Night""",FALSE,2000,0,255.773,Unknown,NA,NA
+2007,48,robin thicke,"""Lost Without U""",FALSE,2000,1.4142135623730951,254.146,Rnb,Rnb,Rnb
+2007,52,the red jumpsuit apparatus,"""Face Down""",FALSE,2000,0,192,Rock,Rock,Rock
+2007,53,baby boy da prince,"""The Way I Live""",FALSE,2000,0,324.906,Rap,Rap,Rap
+2007,56,hurricane chris,"""A Bay Bay""",FALSE,2000,0,257.12,Rap,A Bay Bay,Rap
+2007,59,my chemical romance,"""Welcome To The Black Parade""",FALSE,2000,0,311.106,Rock,Rock,Rock
+2007,60,plies,"""Shawty""",FALSE,2000,1.4142135623730951,255.413,Unknown,NA,NA
+2007,66,onerepublic,"""Apologize""",FALSE,2000,3,208.106,Rock,Alternative,Rock
+2007,67,colbie caillat,"""Bubbly""",FALSE,2000,1.7320508075688772,196.28,Pop,Female Vocalists,Pop
+2007,72,j. holiday,"""Bed""",FALSE,2000,1,275.106,Rnb,Rnb,Rnb
+2007,73,rich boy,"""Throw Some D's""",FALSE,2000,0,263.92,Rap,Rich Boy,Rap
+2007,74,amy winehouse,"""Rehab""",FALSE,2000,0,214.946,Jazz,Soul,Jazz
+2007,77,boys like girls,"""The Great Escape""",FALSE,2000,1.4142135623730951,206.52,Rock,Pop Punk,Rock
+2007,79,paula deanda,"""Walk Away (Remember Me)""",FALSE,2000,0,238.16,Pop,Walk Away,Pop
+2007,81,hellogoodbye,"""Here (In Your Arms)""",FALSE,2000,0,240.546,Pop,Indie,Pop
+2007,89,taylor swift,"""Teardrops on My Guitar""",FALSE,2000,5.916079783099616,203.04,Country,Country,Country
+2007,95,crime mob,"""Rock Yo Hips""",FALSE,2000,0,226.546,Unknown,NA,NA
+2008,1,flo rida,"""Low""",TRUE,2000,3.1622776601683795,231.4,Pop,Hip-Hop,Pop
+2008,2,leona lewis,"""Bleeding Love""",FALSE,2000,1,262.466,Pop,Pop,Pop
+2008,4,lil wayne,"""Lollipop""",FALSE,2000,3.1622776601683795,299.333,Rap,Lil Wayne,Rap
+2008,6,jordin sparks,"""No Air""",FALSE,2000,1.7320508075688772,264.373,Pop,Pop,Pop
+2008,7,sara bareilles,"""Love Song""",TRUE,2000,1.7320508075688772,258.826,Pop,Pop,Pop
+2008,14,katy perry,"""I Kissed a Girl""",FALSE,2000,4.123105625617661,179.64,Pop,Pop,Pop
+2008,29,kardinal offishall,"""Dangerous""",FALSE,2000,0,246.053,Rap,Hip-Hop,Rap
+2008,31,miley cyrus,"""See You Again""",FALSE,2000,3.3166247903554,190.453,Pop,Pop,Pop
+2008,32,metro station,"""Shake It""",FALSE,2000,0,179.946,Electronic,Dance,Electronic
+2008,35,m.i.a.,"""Paper Planes""",FALSE,2000,0,205.2,Electronic,Hip-Hop,Electronic
+2008,39,estelle,"""American Boy""",FALSE,2000,0,284.733,Rnb,Rnb,Rnb
+2008,44,buckcherry,"""Sorry""",FALSE,2000,0,226.146,Rock,Rock,Rock
+2008,51,colby o'donis,"""What You Got""",FALSE,2000,0,243.013,Rnb,Rnb,Rnb
+2008,58,secondhand serenade,"""Fall for You""",FALSE,2000,0,183.586,Pop,Love,Pop
+2008,63,lupe fiasco,"""Superstar""",FALSE,2000,1,289,Unknown,NA,NA
+2008,65,kevin rudolf,"""Let It Rock""",FALSE,2000,1.4142135623730951,231.173,Rock,Dance,Rock
+2008,69,david cook,"""The Time of My Life""",FALSE,2000,0,216.146,Rock,Rock,Rock
+2008,73,jonas brothers,"""Burnin' Up""",FALSE,2000,1.7320508075688772,175.093,Pop,Jonas Brothers,Pop
+2008,75,the-dream,"""I Luv Your Girl""",FALSE,2000,1,267.866,Rnb,Rnb,Rnb
+2008,76,david archuleta,"""Crush""",FALSE,2000,0,213.52,Pop,Pop,Pop
+2008,84,rick ross,"""The Boss""",TRUE,2000,0,225.653,Rap,Dirty South,Rap
+2008,86,trey songz,"""Can't Help but Wait""",TRUE,2000,2.449489742783178,206.413,Rnb,Trey Songz,Rnb
+2008,93,trace adkins,"""You're Gonna Miss This""",FALSE,2000,0,224.96,Country,Country,Country
+2008,94,gavin rossdale,"""Love Remains the Same""",FALSE,2000,0,249.44,Rock,Rock,Rock
+2008,97,saving abel,"""Addicted""",FALSE,2000,0,222.826,Rock,Rock,Rock
+2008,100,2 pistols,"""She Got It""",FALSE,2000,0,274.053,Unknown,NA,NA
+2009,2,lady gaga,"""Poker Face""",FALSE,2000,4,237.2,Pop,Pop,Pop
+2009,14,kings of leon,"""Use Somebody""",FALSE,2000,1,230.76,Rock,Rock,Rock
+2009,15,keri hilson,"""Knock You Down""",FALSE,2000,1.4142135623730951,326.186,Rnb,Keri Hilson,Rnb
+2009,17,pitbull,"""I Know You Want Me (Calle Ocho)""",FALSE,2000,2.8284271247461903,237.12,Rap,Dance,Rap
+2009,20,jay sean,"""Down""",FALSE,2000,1.4142135623730951,212.506,Pop,Pop,Pop
+2009,22,drake,"""Best I Ever Had""",FALSE,2000,6.48074069840786,257.69,Rap,Drake,Rap
+2009,26,shinedown,"""Second Chance""",TRUE,2000,0,222.066,Rock,Rock,Rock
+2009,28,kid cudi,"""Day 'n' Nite""",FALSE,2000,0,221.24,Rap,Hip-Hop,Rap
+2009,30,3oh!3,"""Don't Trust Me""",FALSE,2000,1,192.573,Electronic,Electronic,Electronic
+2009,34,jason derulo,"""Whatcha Say""",FALSE,2000,3.1622776601683795,221.253,Pop,Pop,Pop
+2009,37,jeremih,"""Birthday Sex""",FALSE,2000,1.7320508075688772,226.506,Rnb,Birthday Sex,Rnb
+2009,43,cobra starship,"""Good Girls Go Bad""",FALSE,2000,1,196.413,Unknown,Top 40,NA
+2009,60,owl city,"""Fireflies""",FALSE,2000,1.4142135623730951,228.346,Electronic,Electronic,Electronic
+2009,67,young money,"""Every Girl""",FALSE,2000,1,315.32,Rap,Young Money,Rap
+2009,69,the veronicas,"""Untouched""",TRUE,2000,0,255.36,Pop,Pop,Pop
+2009,73,asher roth,"""I Love College""",FALSE,2000,0,241.933,Rap,Hip-Hop,NA
+2009,75,jason aldean,"""Big Green Tractor""",FALSE,2000,3.1622776601683795,204.2,Country,Country,Country
+2009,81,zac brown band,"""Chicken Fried""",FALSE,2000,1.7320508075688772,238.146,Country,Country,Country
+2009,83,iyaz,"""Replay""",FALSE,2000,1,182.306,Pop,Iyaz,Pop
+2009,84,brad paisley,"""Then""",FALSE,2000,1,321.64,Country,Country,Country
+2009,89,justin bieber,"""One Time""",FALSE,2000,3.872983346207417,215.866,Pop,Justin Bieber,Pop
+2009,90,lady antebellum,"""I Run to You""",TRUE,2000,2.23606797749979,256.013,Country,Country,Country
+2009,93,billy currington,"""People Are Crazy""",FALSE,2000,0,231.36,Country,Country,Country
+2009,96,kristinia debarge,"""Goodbye""",FALSE,2000,0,208.133,Pop,Pop,Pop
+2009,97,michael franti,"""Say Hey (I Love You)""",FALSE,2000,0,235.76,Reggae,Happy,Reggae
+2010,1,kesha,"""Tik Tok""",FALSE,2010,2.8284271247461903,199.693,Pop,Dance,Pop
+2010,6,b.o.b,"""Airplanes""",FALSE,2010,1.7320508075688772,180.48,Rock,Hip Hop,Rock
+2010,9,taio cruz,"""Dynamite""",FALSE,2010,1.4142135623730951,203.866,Pop,Dance,Pop
+2010,18,bruno mars,"""Just the Way You Are""",FALSE,2010,3.1622776601683795,220.734,Pop,Pop,Pop
+2010,19,mike posner,"""Cooler Than Me""",FALSE,2010,1.4142135623730951,213.293,Pop,Pop,Pop
+2010,23,travie mccoy,"""Billionaire""",FALSE,2010,0,211.16,Pop,Hip-Hop,NA
+2010,26,david guetta,"""Sexy Bitch""",FALSE,2010,2.6457513110645907,195.853,Electronic,Dance,Electronic
+2010,27,the script,"""Breakeven""",TRUE,2010,1.4142135623730951,261.426,Rock,Rock,Rock
+2010,37,far east movement,"""Like a G6""",FALSE,2010,1.4142135623730951,216.893,Electronic,Dance,Electronic
+2010,39,michael bublé,"""Haven't Met You Yet""",FALSE,2010,0,244.586,Pop,Pop,Pop
+2010,42,la roux,"""Bulletproof""",FALSE,2010,0,205.733,Electronic,Electropop,Electronic
+2010,45,adam lambert,"""Whataya Want from Me""",FALSE,2010,0,227.32,Pop,Pop,Pop
+2010,48,kris allen,"""Live Like We're Dying""",TRUE,2010,0,212.506,Pop,Pop,Pop
+2010,55,orianthi,"""According to You""",TRUE,2010,0,200.253,Rock,Rock,Rock
+2010,61,neon trees,"""Animal""",FALSE,2010,1.4142135623730951,212.293,Rock,Alternative,Rock
+2010,65,new boyz,"""Tie Me Down""",FALSE,2010,1,178.807,Pop,Tie Me Down,NA
+2010,66,nicki minaj,"""Your Love""",FALSE,2010,3.4641016151377544,245.253,Rap,Nicki Minaj,NA
+2010,70,shontelle,"""Impossible""",FALSE,2010,0,226.533,Pop,Pop,Pop
+2010,77,selena gomez,"""Naturally""",FALSE,2010,3.1622776601683795,202.586,Pop,Selena Gomez,Pop
+2010,79,dj khaled,"""All I Do Is Win""",FALSE,2010,2.6457513110645907,232.506,Unknown,NA,NA
+2010,81,sugarland,"""Stuck Like Glue""",FALSE,2010,0,247.586,Country,Country,Country
+2010,91,miranda lambert,"""The House That Built Me""",FALSE,2010,1.7320508075688772,236.626,Country,Country,Country
+2010,92,the band perry,"""If I Die Young""",FALSE,2010,1,222.773,Country,Country,Country
+2010,93,paramore,"""The Only Exception""",FALSE,2010,1.4142135623730951,267.653,Rock,Acoustic,NA
+2010,98,cali swag district,"""Teach Me How to Dougie""",FALSE,2010,0,237.48,Rap,Teach Me How To Duggie,NA
+2010,100,jerrod niemann,"""Lover, Lover""",FALSE,2010,0,193.733,Country,Country,Country
+2011,1,adele,"""Rolling in the Deep""",FALSE,2010,3.4641016151377544,228.093,Pop,Soul,Pop
+2011,2,lmfao,"""Party Rock Anthem""",FALSE,2010,1.7320508075688772,262.173,Unknown,NA,NA
+2011,7,ceelo green,"""Fuck You (Forget You)""",FALSE,2010,0,145.263,Unknown,NA,NA
+2011,13,foster the people,"""Pumped Up Kicks""",FALSE,2010,0,239.6,Pop,Indie,NA
+2011,31,wiz khalifa,"""Black and Yellow""",FALSE,2010,2,217.666,Rap,Hip-Hop,Rap
+2011,32,hot chelle rae,"""Tonight Tonight""",TRUE,2010,0,200.466,Pop,Pop,Pop
+2011,34,bad meets evil,"""Lighters""",FALSE,2010,0,303.813,Rap,Eminem,Rap
+2011,38,diddy – dirty money,"""Coming Home""",FALSE,2010,0,238.693,Unknown,NA,NA
+2011,45,waka flocka flame,"""No Hands""",FALSE,2010,0,263.773,Unknown,NA,NA
+2011,53,kelly rowland,"""Motivation""",FALSE,2010,0,230.56,Unknown,NA,NA
+2011,54,edward maya,"""Stereo Love""",FALSE,2010,0,248.666,Electronic,Dance,Electronic
+2011,55,christina perri,"""Jar of Hearts""",FALSE,2010,1,246.587,Pop,Female Vocalists,Pop
+2011,63,tinie tempah,"""Written in the Stars""",FALSE,2010,0,219.56,Unknown,NA,NA
+2011,76,eli young band,"""Crazy Girl""",FALSE,2010,1,200.706,Country,Country,Country
+2011,79,jake owen,"""Barefoot Blue Jean Night""",FALSE,2010,1,167.426,Country,Country,Country
+2011,81,luke bryan,"""Country Girl (Shake It for Me)""",FALSE,2010,2.8284271247461903,225.56,Country,Country,Country
+2011,83,dev,"""In the Dark""",FALSE,2010,0,226.226,Pop,Dance,Pop
+2011,90,rodney atkins,"""Take a Back Road""",FALSE,2010,0,209.426,Country,Country,Country
+2011,92,miguel,"""Sure Thing""",TRUE,2010,2,195.373,Rnb,Rnb,Rnb
+2011,93,jessie j,"""Price Tag""",TRUE,2010,1.7320508075688772,223.053,Pop,Pop,Pop
+2011,96,thompson square,"""Are You Gonna Kiss Me or Not""",TRUE,2010,0,184.92,Country,Country,Country
+2011,100,big sean,"""My Last""",FALSE,2010,2,254.12,Pop,Hip-Hop,Pop
+2012,1,gotye,"""Somebody That I Used to Know""",FALSE,2010,0,244.973,Unknown,NA,NA
+2012,2,carly rae jepsen,"""Call Me Maybe""",FALSE,2010,0,193.4,Pop,Pop,Pop
+2012,3,fun,"""We Are Young""",FALSE,2010,1.7320508075688772,250.626,Unknown,NA,NA
+2012,5,ellie goulding,"""Lights""",FALSE,2010,2,244.266,Pop,Pop,Pop
+2012,6,the wanted,"""Glad You Came""",FALSE,2010,0,197.935,Pop,Pop,Pop
+2012,10,one direction,"""What Makes You Beautiful""",FALSE,2010,2.23606797749979,199.986,Pop,Pop,Pop
+2012,30,alex clare,"""Too Close""",FALSE,2010,0,256.56,Electronic,Dubstep,Electronic
+2012,39,demi lovato,"""Give Your Heart a Break""",FALSE,2010,2,205.346,Pop,Pop,Pop
+2012,42,calvin harris,"""Feel So Close""",FALSE,2010,3,206.413,Electronic,Dance,Electronic
+2012,45,tyga,"""Rack City""",FALSE,2010,1,208.44,Rap,Rap,Rap
+2012,47,psy,"""Gangnam Style""",FALSE,2010,1,219.493,Pop,K-Pop,Pop
+2012,49,phillip phillips,"""Home""",FALSE,2010,1.4142135623730951,210.173,Folk,Folk,Folk
+2012,52,hunter hayes,"""Wanted""",FALSE,2010,1.4142135623730951,228.84,Country,Country,Country
+2012,54,2 chainz,"""No Lie""",TRUE,2010,1,237.826,Rap,Hip-Hop,Rap
+2012,55,cher lloyd,"""Want U Back""",FALSE,2010,0,214.573,Pop,Pop,Pop
+2012,58,eric church,"""Springsteen""",FALSE,2010,1,263.386,Country,Country,Country
+2012,59,karmin,"""Brokenhearted""",TRUE,2010,0,227.146,Pop,Pop,Pop
+2012,63,j. cole,"""Work Out""",FALSE,2010,1.4142135623730951,235.32,Rap,J Cole,Rap
+2012,67,little big town,"""Pontoon""",FALSE,2010,1,212.32,Country,Country,Country
+2012,68,the lumineers,"""Ho Hey""",FALSE,2010,1,163.133,Folk,Indie,Folk
+2012,78,kirko bangz,"""Drank in My Cup""",FALSE,2010,0,232.16,Rap,Rap,Rap
+2012,90,havana brown,"""We Run the Night""",FALSE,2010,0,228.2,Pop,Dance,Pop
+2012,91,imagine dragons,"""It's Time""",FALSE,2010,3.4641016151377544,237.986,Rock,Indie,Rock
+2012,92,cash out,"""Cashin' Out""",TRUE,2010,0,236.303,Unknown,NA,NA
+2012,95,lee brice,"""Hard to Love""",FALSE,2010,1.7320508075688772,224.293,Country,Country,Country
+2012,96,kip moore,"""Somethin' 'Bout a Truck""",FALSE,2010,0,213.826,Country,Country,Country
+2013,1,macklemore,"""Thrift Shop""",FALSE,2010,2,235.613,Rap,Hip Hop,Rap
+2013,4,baauer,"""Harlem Shake""",FALSE,2010,0,196.664,Electronic,Trap,Electronic
+2013,9,florida georgia line,"""Cruise""",FALSE,2010,2.449489742783178,208.96,Unknown,NA,NA
+2013,14,daft punk,"""Get Lucky""",FALSE,2010,0,248.413,Unknown,Bbc Radio 1,NA
+2013,15,lorde,"""Royals""",FALSE,2010,1.4142135623730951,190.185,Pop,Pop,Pop
+2013,19,avicii,"""Wake Me Up""",FALSE,2010,1.4142135623730951,247.426,Electronic,Electronic,Electronic
+2013,21,anna kendrick,"""Cups (Pitch Perfect's When I'm Gone)""",FALSE,2010,0,128.013,Unknown,NA,NA
+2013,23,will.i.am,"""Scream & Shout""",FALSE,2010,1,283.4,Pop,Dance,Pop
+2013,24,zedd,"""Clarity""",FALSE,2010,1.7320508075688772,271.426,Electronic,Electronic,Electronic
+2013,25,awolnation,"""Sail""",FALSE,2010,0,259.093,Electronic,Electronic,Electronic
+2013,26,swedish house mafia,"""Don't You Worry Child""",FALSE,2010,0,212.862,Unknown,NA,NA
+2013,28,icona pop,"""I Love It""",FALSE,2010,0,157.152,Pop,Dance,Pop
+2013,29,capital cities,"""Safe and Sound""",FALSE,2010,0,192.789,Electronic,Indie,Electronic
+2013,31,ariana grande,"""The Way""",FALSE,2010,4.47213595499958,227.026,Pop,Pop,Pop
+2013,41,asap rocky,"""Fuckin' Problems""",TRUE,2010,0,233.786,Unknown,NA,NA
+2013,45,lana del rey,"""Summertime Sadness""",FALSE,2010,0,214.912,Unknown,NA,NA
+2013,52,mumford,"""I Will Wait""",FALSE,2010,0,276.72,Folk,Folk,Folk
+2013,54,darius rucker,"""Wagon Wheel""",FALSE,2010,0,298.373,Country,Country,Country
+2013,59,wale,"""Bad""",FALSE,2010,0,238.826,Unknown,NA,NA
+2013,65,of monsters,"""Little Talks""",FALSE,2010,0,266.6,Folk,Indie,Folk
+2013,73,ylvis,"""The Fox (What Does the Fox Say?)""",FALSE,2010,0,213.708,Pop,Pop,Pop
+2013,75,ed sheeran,"""The A Team""",FALSE,2010,3.872983346207417,258.373,Pop,Acoustic,Pop
+2013,79,kendrick lamar,"""Swimming Pools (Drank)""",TRUE,2010,2.6457513110645907,247.8,Rap,Hip-Hop,Rap
+2013,82,olly murs,"""Troublemaker""",TRUE,2010,0,185.586,Pop,Pop,Pop
+2013,87,rocko,"""U.O.E.N.O.""",FALSE,2010,0,260.276,Unknown,NA,NA
+2013,88,emeli sandé,"""Next to Me""",FALSE,2010,0,196.866,Pop,Pop,Pop
+2013,90,thomas rhett,"""It Goes Like This""",FALSE,2010,2,186.08,Country,Country,Country
+2013,91,ace hood,"""Bugatti""",FALSE,2010,0,269.266,Unknown,NA,NA
+2013,97,passenger,"""Let Her Go""",FALSE,2010,1,252.733,Folk,Folk,Folk
+2013,98,randy houser,"""Runnin' Outta Moonlight""",FALSE,2010,0,193.773,Country,Country,Country
+2014,1,pharrell williams,"""Happy""",FALSE,2010,0,232.72,Pop,Pop,Pop
+2014,4,iggy azalea,"""Fancy""",FALSE,2010,1,199.938,Rap,Rap,Rap
+2014,7,magic!,"""Rude""",TRUE,2010,0,224.84,Pop,Pop,Pop
+2014,8,meghan trainor,"""All About That Bass""",TRUE,2010,2.8284271247461903,187.92,Pop,Pop,Pop
+2014,10,sam smith,"""Stay with Me""",FALSE,2010,3,172.723,Pop,Soul,Pop
+2014,12,bastille,"""Pompeii""",FALSE,2010,0,214.147,Pop,Indie,Pop
+2014,14,nico,"""Am I Wrong""",FALSE,2010,0,245.866,Pop,Pop,Pop
+2014,15,dj snake,"""Turn Down for What""",TRUE,2010,2.23606797749979,213.733,Electronic,Trap,NA
+2014,17,a great big world,"""Say Something""",FALSE,2010,0,229.4,Pop,Indie Pop,Pop
+2014,21,idina menzel,"""Let It Go""",FALSE,2010,0,223.84,Pop,Soundtrack,Pop
+2014,25,sia,"""Chandelier""",FALSE,2010,1.7320508075688772,216.12,Pop,Pop,Pop
+2014,28,disclosure,"""Latch""",FALSE,2010,0,255.631,Electronic,House,Electronic
+2014,31,american authors,"""Best Day of My Life""",FALSE,2010,0,194.24,Pop,Indie,Pop
+2014,32,tove lo,"""Habits (Stay High)""",FALSE,2010,1.4142135623730951,209.16,Pop,Pop,Pop
+2014,34,charli xcx,"""Boom Clap""",FALSE,2010,0,169.866,Pop,Pop,Pop
+2014,41,clean bandit,"""Rather Be""",FALSE,2010,1,227.833,Unknown,NA,NA
+2014,43,kid ink,"""Show Me""",TRUE,2010,0,217.8,Unknown,NA,NA
+2014,48,aloe blacc,"""The Man""",FALSE,2010,0,255.906,Pop,Soul,Pop
+2014,50,mkto,"""Classic""",FALSE,2010,0,175.426,Pop,Pop,Pop
+2014,54,bobby shmurda,"""Hot Boy""",FALSE,2010,0,194.561,Unknown,Fallon,NA
+2014,58,yg,"""My Hitta""",TRUE,2010,1,236.093,Unknown,NA,NA
+2014,59,echosmith,"""Cool Kids""",FALSE,2010,0,237.626,Pop,Indie Pop,Pop
+2014,65,tinashe,"""2 On""",FALSE,2010,0,227,Unknown,NA,NA
+2014,68,brantley gilbert,"""Bottoms Up""",FALSE,2010,0,220.2,Country,Country,Country
+2014,69,becky g,"""Shower""",TRUE,2010,1,206.166,Pop,Pop,Pop
+2014,70,rixton,"""Me and My Broken Heart""",FALSE,2010,0,193.733,Pop,Love At First Listen,Pop
+2014,71,martin garrix,"""Animals""",FALSE,2010,0,304.228,Electronic,House,Electronic
+2014,72,rich gang,"""Lifestyle""",TRUE,2010,0,269.693,Unknown,NA,NA
+2014,75,the neighbourhood,"""Sweater Weather""",FALSE,2010,0,240.4,Pop,Indie,NA
+2014,76,sam hunt,"""Leave the Night On""",FALSE,2010,2,192.16,Country,Country,Country
+2014,82,naughty boy,"""La La La""",FALSE,2010,0,222.2,Unknown,Wsum 91.7 Fm Madison,NA
+2014,86,5 seconds of summer,"""Amnesia""",FALSE,2010,1.7320508075688772,237.247,Pop,Australian,Pop
+2014,88,kongos,"""Come with Me Now""",TRUE,2010,0,211.96,Rock,Alternative Rock,Rock
+2014,90,mike will made-it,"""23""",FALSE,2010,0,252.52,Unknown,NA,NA
+2014,96,schoolboy q,"""Studio""",FALSE,2010,0,278.066,Unknown,NA,NA
+2015,1,mark ronson,"""Uptown Funk""",FALSE,2010,0,269.666,Unknown,Ein Sau Gutes Liede,NA
+2015,4,fetty wap,"""Trap Queen""",FALSE,2010,1.7320508075688772,222.093,Rap,Hip-Hop,Rap
+2015,6,walk the moon,"""Shut Up and Dance""",FALSE,2010,0,199.08,Pop,Indie Pop,Pop
+2015,8,silentó,"""Watch Me""",FALSE,2010,1,185.142,Unknown,NA,NA
+2015,9,the weeknd,"""Earned It""",FALSE,2010,4.123105625617661,277.68,Rnb,R&B,Rnb
+2015,11,omi,"""Cheerleader (Felix Jaehn Remix)""",FALSE,2010,0,180.56,Pop,Pop,Pop
+2015,14,hozier,"""Take Me to Church""",FALSE,2010,1,241.693,Pop,Indie,NA
+2015,16,major lazer,"""Lean On""",FALSE,2010,1.4142135623730951,176.561,Unknown,NA,NA
+2015,19,skrillex,"""Where Are Ü Now""",FALSE,2010,0,250.285,Unknown,NA,NA
+2015,20,rachel platten,"""Fight Song""",FALSE,2010,0,204.013,Pop,Pop,Pop
+2015,23,fifth harmony,"""Worth It""",TRUE,2010,1.4142135623730951,224.573,Unknown,NA,NA
+2015,25,andy grammer,"""Honey, I'm Good.""",FALSE,2010,0,199.263,Pop,Pop,Pop
+2015,36,shawn mendes,"""Stitches""",FALSE,2010,3.1622776601683795,206.88,Pop,Pop,Pop
+2015,38,nick jonas,"""Jealous""",FALSE,2010,1.4142135623730951,222.186,Pop,Pop,Pop
+2015,40,r. city,"""Locked Away""",FALSE,2010,0,227.48,Unknown,NA,NA
+2015,41,natalie la rose,"""Somebody""",FALSE,2010,0,189.906,Unknown,NA,NA
+2015,49,rich homie quan,"""Flex (Ooh, Ooh, Ooh)""",FALSE,2010,0,176.744,Rap,Hip-Hop,Rap
+2015,50,t-wayne,"""Nasty Freestyle""",FALSE,2010,0,142.212,Rap,Hip-Hop,Rap
+2015,54,x ambassadors,"""Renegades""",FALSE,2010,1,195.2,Rock,Alternative,Rock
+2015,56,ariana grande and the weeknd,"""Love Me Harder""",FALSE,2010,0,235.363,Unknown,NA,NA
+2015,69,meek mill,"""All Eyes on You""",FALSE,2010,1,223.973,Unknown,NA,NA
+2015,70,rae sremmurd,"""No Type""",FALSE,2010,1.7320508075688772,200.08,Rap,Hip-Hop,NA
+2015,71,vance joy,"""Riptide""",FALSE,2010,0,204.28,Folk,Folk,Folk
+2015,72,jidenna,"""Classic Man""",TRUE,2010,0,226,Unknown,NA,NA
+2015,73,elle king,"""Ex's & Oh's""",FALSE,2010,1,202.173,Rock,Rock,Rock
+2015,75,charlie puth,"""Marvin Gaye""",FALSE,2010,2,190.453,Unknown,NA,NA
+2015,78,james newton howard,"""The Hanging Tree""",FALSE,2010,0,218.506,Unknown,NA,NA
+2015,79,o.t. genasis,"""CoCo""",FALSE,2010,1,239.573,Rap,Rap,Rap
+2015,82,ilovemakonnen,"""Tuesday""",TRUE,2010,0,321.987,Unknown,NA,NA
+2015,83,ilovememphis,"""Hit the Quan""",FALSE,2010,0,181.08,Unknown,American,NA
+2015,89,george ezra,"""Budapest""",FALSE,2010,0,200.733,Folk,Folk,Folk
+2015,93,ella henderson,"""Ghost""",FALSE,2010,0,213.213,Pop,Pop,Pop
+2015,94,alessia cara,"""Here""",FALSE,2010,1.4142135623730951,199.453,Pop,Soul,Pop
+2015,95,mr probz,"""Waves (Robin Schulz Remix)""",FALSE,2010,0,190.846,Pop,Deep House,NA
+2015,96,nicky jam,"""El Perdón""",FALSE,2010,1,205.906,Unknown,Featuring,NA
+2016,5,twenty one pilots,"""Stressed Out""",FALSE,2010,1.7320508075688772,202.333,Rap,Indie Pop,NA
+2016,6,desiigner,"""Panda""",FALSE,2010,1,246.761,Rap,2016,NA
+2016,8,the chainsmokers,"""Don't Let Me Down""",FALSE,2010,2.23606797749979,208.373,Unknown,NA,NA
+2016,12,lukas graham,"""7 Years""",FALSE,2010,0,237.3,Pop,Worst Song Ever,Pop
+2016,18,dnce,"""Cake by the Ocean""",FALSE,2010,0,219.146,Pop,Pop,Pop
+2016,19,g-eazy,"""Me, Myself & I""",TRUE,2010,1.4142135623730951,251.466,Unknown,Electronica Influences,NA
+2016,22,zayn,"""Pillowtalk""",FALSE,2010,1,202.746,Pop,Pop,Pop
+2016,30,future,"""Low Life""",TRUE,2010,2.8284271247461903,313.546,Unknown,NA,NA
+2016,33,p!nk,"""Just Like Fire""",TRUE,2010,1,215.413,Unknown,Soundtrack,NA
+2016,34,dram,"""Broccoli""",FALSE,2010,1,225.205,Unknown,NA,NA
+2016,35,bryson tiller,"""Don't""",TRUE,2010,1.4142135623730951,198.293,Rnb,Rnb,Rnb
+2016,38,gnash,"""I Hate U, I Love U""",FALSE,2010,0,251.033,Unknown,NA,NA
+2016,44,james bay,"""Let It Go""",FALSE,2010,0,285.866,Unknown,Indie Pop,NA
+2016,46,zara larsson,"""Never Forget You""",FALSE,2010,0,213.427,Pop,Dance,Pop
+2016,48,kent jones,"""Don't Mind""",FALSE,2010,0,198.236,Pop,Hiphop,Pop
+2016,52,kiiara,"""Gold""",FALSE,2010,0,225.882,Electronic,Electronic,Electronic
+2016,57,kevin gates,"""2 Phones""",FALSE,2010,1,240,Rap,Rap,Rap
+2016,60,flume,"""Never Be Like You""",FALSE,2010,0,234.909,Unknown,NA,NA
+2016,65,post malone,"""White Iverson""",FALSE,2010,4.123105625617661,256.532,Rap,Hip-Hop,Rap
+2016,69,yo gotti,"""Down in the DM""",TRUE,2010,1,259.072,Unknown,NA,NA
+2016,70,tory lanez,"""Luv""",FALSE,2010,1,228.64,Rnb,Hip-Hop,Rnb
+2016,75,travis scott,"""Antidote""",TRUE,2010,2.449489742783178,262.693,Rap,Trap,Rap
+2016,76,ruth b,"""Lost Boy""",FALSE,2010,0,276.066,Pop,Canadian,Pop
+2016,78,daya,"""Sit Still, Look Pretty""",FALSE,2010,1,207.761,Pop,Pop,Pop
+2016,94,hailee steinfeld,"""Starving""",FALSE,2010,1,181.88,Unknown,NA,NA
+2017,2,luis fonsi,"""Despacito (Remix)""",FALSE,2010,0,228.826,Unknown,NA,NA
+2017,6,migos,"""Bad and Boujee""",FALSE,2010,2.23606797749979,343.15,Unknown,NA,NA
+2017,11,james arthur,"""Say You Won't Let Go""",FALSE,2010,0,211.466,Pop,Pop,Pop
+2017,13,lil uzi vert,"""XO Tour Llif3""",FALSE,2010,1,182.706,Rap,Myspotigrambot,NA
+2017,15,french montana,"""Unforgettable""",FALSE,2010,0,233.901,Unknown,NA,NA
+2017,21,khalid,"""Location""",TRUE,2010,2.449489742783178,219.08,Rnb,Soul,Rnb
+2017,24,cardi b,"""Bodak Yellow""",FALSE,2010,3,223.712,Rap,Trap,Rap
+2017,25,childish gambino,"""Redbone""",FALSE,2010,1,326.933,Rnb,Psychedelic Soul,NA
+2017,27,kygo,"""It Ain't Me""",FALSE,2010,0,220.78,Electronic,Dance,Electronic
+2017,28,kyle,"""iSpy""",FALSE,2010,0,253.106,Unknown,NA,NA
+2017,29,julia michaels,"""Issues""",FALSE,2010,0,176.32,Pop,2017,Pop
+2017,31,logic,"""1-800-273-8255""",TRUE,2010,1,250.173,Unknown,NA,NA
+2017,32,niall horan,"""Slow Hands""",FALSE,2010,0,188.174,Pop,Pop,Pop
+2017,36,liam payne,"""Strip That Down""",FALSE,2010,0,202.061,Unknown,NA,NA
+2017,41,machine gun kelly,"""Bad Things""",FALSE,2010,1,239.293,Pop,Hip Hop,Pop
+2017,45,portugal. the man,"""Feel It Still""",FALSE,2010,1,163.253,Pop,Pop,Pop
+2017,48,21 savage,"""Bank Account""",FALSE,2010,1.4142135623730951,220.306,Rap,Myspotigrambot,Rap
+2017,50,j balvin,"""Mi Gente""",FALSE,2010,1,189.44,Unknown,NA,NA
+2017,55,kodak black,"""Tunnel Vision""",FALSE,2010,1.4142135623730951,268.186,Unknown,Myspotigrambot,NA
+2017,57,brett young,"""In Case You Didn't Know""",FALSE,2010,1,224.853,Country,Country,Country
+2017,59,halsey,"""Now or Never""",FALSE,2010,1.7320508075688772,214.801,Pop,Pop,Pop
+2017,60,aminé,"""Caroline""",FALSE,2010,0,209.64,Pop,Pop Rap,Pop
+2017,61,ayo,"""Rolex""",FALSE,2010,0,238.586,Rap,Rap,Rap
+2017,63,zay hilfigerrr,"""Juju on That Beat (TZ Anthem)""",FALSE,2010,0,144.244,Unknown,NA,NA
+2017,72,kane brown,"""What Ifs""",FALSE,2010,2.8284271247461903,188.253,Unknown,NA,NA
+2017,75,jon bellion,"""All Time Low""",FALSE,2010,0,217.603,Electronic,Electronic,Electronic
+2017,76,luke combs,"""Hurricane""",FALSE,2010,4,222.533,Country,Country,Country
+2017,79,playboi carti,"""Magnolia""",FALSE,2010,0,181.812,Rap,Trap,Rap
+2017,80,sza,"""Love Galore""",TRUE,2010,2.8284271247461903,275.08,Unknown,NA,NA
+2017,81,a boogie wit da hoodie,"""Drowning""",FALSE,2010,1.4142135623730951,209.269,Unknown,NA,NA
+2017,83,gucci mane,"""Both""",FALSE,2010,1.7320508075688772,190.311,Unknown,NA,NA
+2017,87,harry styles,"""Sign of the Times""",FALSE,2010,2.23606797749979,340.706,Rock,Rock,Rock
+2017,90,marian hill,"""Down""",TRUE,2010,0,197.773,Electronic,Electronic,Electronic
+2017,91,cheat codes,"""No Promises""",FALSE,2010,0,222.786,Electronic,Electronic,Electronic
+2017,94,dustin lynch,"""Small Town Boy""",FALSE,2010,0,205.733,Unknown,Racist Country,NA
+2017,95,yfn lucci,"""Everyday We Lit""",FALSE,2010,0,197.17,Unknown,NA,NA
+2017,96,camila cabello,"""Havana""",TRUE,2010,2,217.306,Unknown,NA,NA
+2017,98,blackbear,"""Do Re Mi""",FALSE,2010,1,212.027,Rap,Rap,Rap
+2017,99,xxxtentacion,"""Look at Me!""",FALSE,2010,1.7320508075688772,126.345,Rap,Trap,NA
+2018,3,bebe rexha,"""Meant to Be""",FALSE,2010,0,164.205,Unknown,Repetitive,NA
+2018,12,juice wrld,"""Lucid Dreams""",FALSE,2010,2.23606797749979,239.835,Rap,Myspotigrambot,Rap
+2018,15,ella mai,"""Boo'd Up""",FALSE,2010,1.4142135623730951,256.063,Rnb,British,Rnb
+2018,16,dua lipa,"""New Rules""",FALSE,2010,3,209.32,Pop,Pop,Pop
+2018,21,bazzi,"""Mine""",FALSE,2010,1,131.064,Pop,Pop,Pop
+2018,23,blocboy jb,"""Look Alive""",FALSE,2010,0,181.414,Unknown,NA,NA
+2018,25,lil baby,"""Yes Indeed""",FALSE,2010,3.1622776601683795,142.273,Rap,Rap,Rap
+2018,26,marshmello,"""Friends""",FALSE,2010,2.23606797749979,202.62,Pop,Pop,Pop
+2018,29,nf,"""Let You Down""",FALSE,2010,0,212.12,Pop,Nf,Pop
+2018,31,6ix9ine,"""Fefe""",FALSE,2010,1,179.404,Unknown,NA,NA
+2018,32,dan + shay,"""Tequila""",FALSE,2010,2.23606797749979,196.746,Country,Country,Country
+2018,35,lauv,"""I Like Me Better""",FALSE,2010,0,197.436,Pop,Indie,Pop
+2018,38,offset,"""Ric Flair Drip""",TRUE,2010,1,172.8,Unknown,2017,NA
+2018,44,lil pump,"""Gucci Gang""",FALSE,2010,0,124.055,Rap,Hip-Hop,Rap
+2018,55,lil dicky,"""Freaky Friday""",FALSE,2010,0,216.631,Unknown,NA,NA
+2018,57,rich the kid,"""Plug Walk""",FALSE,2010,0,175.229,Rap,Rap,Rap
+2018,66,max,"""Lights Down Low""",FALSE,2010,0,223.846,Unknown,NA,NA
+2018,74,asap ferg,"""Plain Jane""",FALSE,2010,0,173.6,Unknown,NA,NA
+2018,77,benny blanco,"""Eastside""",FALSE,2010,1,170.769,Unknown,NA,NA
+2018,79,jay rock,"""King's Dead""",FALSE,2010,0,229.67,Unknown,NA,NA
+2018,81,nio garcía,"""Te Boté""",FALSE,2010,0,417.92,Unknown,NA,NA
+2018,83,n.e.r.d,"""Lemon""",FALSE,2010,0,219.706,Electronic,Hip-Hop,Electronic
+2018,91,youngboy never broke again,"""Outside Today""",FALSE,2010,0,129.105,Rap,Myspotigrambot,Rap
+2019,1,lil nas,"""Old Town Road""",FALSE,2010,1.4142135623730951,157.066,Unknown,NA,NA
+2019,4,billie eilish,"""Bad Guy""",TRUE,2010,3.3166247903554,194.087,Pop,Electropop,Pop
+2019,13,lizzo,"""Truth Hurts""",FALSE,2010,1.7320508075688772,173.325,Rnb,Hip-Hop,Rnb
+2019,23,ava max,"""Sweet but Psycho""",FALSE,2010,1,187.436,Pop,Pop,Pop
+2019,24,dababy,"""Suge""",TRUE,2010,1.4142135623730951,163.32,Rap,2019,Rap
+2019,27,lewis capaldi,"""Someone You Loved""",FALSE,2010,1.4142135623730951,182.16,Pop,2010s,Pop
+2019,28,lil tecca,"""Ransom""",TRUE,2010,0,131.24,Rap,2010s,NA
+2019,40,lil nas x,"""Panini""",FALSE,2010,1.7320508075688772,114.893,Rap,Trap,Rap
+2019,44,bad bunny,"""Mia""",TRUE,2010,3.3166247903554,210.367,Unknown,NA,NA
+2019,45,polo g,"""Pop Out""",FALSE,2010,1,166.56,Unknown,NA,NA
+2019,47,blueface,"""Thotiana""",FALSE,2010,0,129.264,Rap,Hip-Hop,Rap
+2019,49,sheck wes,"""Mo Bamba""",TRUE,2010,0,183.906,Unknown,Myspotigrambot,NA
+2019,52,morgan wallen,"""Whiskey Glasses""",FALSE,2010,4.123105625617661,234.346,Pop,Country Pop,Pop
+2019,54,dean lewis,"""Be Alright""",FALSE,2010,0,196.493,Pop,Pop,Pop
+2019,55,mustard,"""Pure Water""",TRUE,2010,1,192.47,Unknown,Migos,NA
+2019,56,blanco brown,"""The Git Up""",FALSE,2010,0,200.593,Country,Country,Country
+2019,59,calboy,"""Envy Me""",TRUE,2010,0,120.133,Rap,Rap,Rap
+2019,60,lauren daigle,"""You Say""",FALSE,2010,0,274.693,Pop,2010s,Pop
+2019,64,young thug,"""The London""",FALSE,2010,1,200.186,Unknown,NA,NA
+2019,66,ynw melly,"""Murder on My Mind""",FALSE,2010,1,268.434,Rap,Myspotigrambot,Rap
+2019,68,city girls,"""Act Up""",FALSE,2010,0,158.332,Unknown,Hip Hop,NA
+2019,70,shaed,"""Trampoline""",FALSE,2010,1,184.06,Electronic,Electronic,Electronic
+2019,71,flipp dinero,"""Leave Me Alone""",TRUE,2010,0,195.637,Rap,Myspotigrambot,NA
+2019,75,pinkfong,"""Baby Shark""",FALSE,2010,0,80.927,Unknown,Kids,NA
+2019,76,saweetie,"""My Type""",FALSE,2010,1,126.446,Rap,Hip-Hop,Rap
+2019,77,yk osiris,"""Worth It""",FALSE,2010,0,189.253,Unknown,2010s,NA
+2019,90,megan thee stallion,"""Cash Shit""",FALSE,2010,2.449489742783178,192.539,Unknown,NA,NA
+2019,92,nle choppa,"""Shotta Flow""",FALSE,2010,1,176.631,Unknown,Gangsta Rap,NA
+2019,96,chase rice,"""Eyes on You""",FALSE,2010,1,182.493,Unknown,NA,NA
+2020,3,roddy ricch,"""The Box""",FALSE,2020,1.4142135623730951,196.652,Rap,Trap,Rap
+2020,9,maren morris,"""The Bones""",FALSE,2020,1,197.293,Pop,2019,Pop
+2020,11,doja cat,"""Say So""",TRUE,2020,3.4641016151377544,237.893,Pop,Pop,Pop
+2020,12,gabby barrett,"""I Hope""",TRUE,2020,1.4142135623730951,210.772,Unknown,NA,NA
+2020,13,jack harlow,"""Whats Poppin""",FALSE,2020,1.4142135623730951,139.741,Unknown,NA,NA
+2020,14,tones,"""Dance Monkey""",FALSE,2020,0,209.438,Unknown,NA,NA
+2020,16,arizona zervas,"""Roxanne""",FALSE,2020,0,163.636,Rap,2019,Rap
+2020,19,saint jhn,"""Roses (Imanbek remix)""",FALSE,2020,0,176.218,Electronic,Dance,Electronic
+2020,22,trevor daniel,"""Falling""",FALSE,2020,0,159.381,Pop,2010s,Pop
+2020,27,lil mosey,"""Blueberry Faygo""",TRUE,2020,0,162.546,Rap,Rap,Rap
+2020,35,jawsh 685,"""Savage Love (Laxed – Siren Beat)""",FALSE,2020,0,171.374,Unknown,NA,NA
+2020,38,bts,"""Dynamite""",FALSE,2020,1.4142135623730951,199.053,Pop,Pop,Pop
+2020,43,powfu,"""Death Bed""",FALSE,2020,0,173.333,Unknown,Fip,NA
+2020,47,24kgoldn,"""Mood""",FALSE,2020,1,140.533,Unknown,NA,NA
+2020,49,pop smoke,"""For the Night""",FALSE,2020,2.23606797749979,190.476,Unknown,NA,NA
+2020,51,rod wave,"""Heart on Ice""",FALSE,2020,1.4142135623730951,159.669,Unknown,NA,NA
+2020,56,jp saxe,"""If the World Was Ending""",FALSE,2020,0,208.687,Unknown,NA,NA
+2020,59,old dominion,"""One Man Band""",FALSE,2020,1,186.24,Country,Country,Country
+2020,61,surfaces,"""Sunday Best""",FALSE,2020,0,158.947,Unknown,Days Of The Week,NA
+2020,64,staysolidrocky,"""Party Girl""",FALSE,2020,0,147.8,Unknown,Hip-Hop,NA
+2020,65,maddie,"""Die from a Broken Heart""",FALSE,2020,0,188.32,Country,Country,Country
+2020,73,carly pearce,"""I Hope You're Happy Now""",FALSE,2020,0,198.688,Unknown,NA,NA
+2020,84,benee,"""Supalonely""",TRUE,2020,0,223.48,Unknown,NA,NA
+2020,86,the scotts (travis scott,"""The Scotts""",FALSE,2020,0,165.977,Unknown,NA,NA
+2020,94,jhené aiko,"""Pussy Fairy (OTW)""",FALSE,2020,0,181.86,Unknown,NA,NA
+2020,95,surf mesa,"""ILY (I Love You Baby)""",FALSE,2020,0,176.546,Unknown,NA,NA
+2020,98,moneybagg yo,"""Said Sum""",FALSE,2020,1.4142135623730951,155.168,Unknown,NA,NA
+2020,99,h.e.r.,"""Slide""",TRUE,2020,0,296.011,Unknown,NA,NA
+2021,5,olivia rodrigo,"""Good 4 U""",FALSE,2020,2.449489742783178,178.146,Rock,Pop Rock,Rock
+2021,7,silk sonic (bruno mars,"""Leave the Door Open""",FALSE,2020,1,242.096,Unknown,NA,NA
+2021,12,the kid laroi,"""Stay""",FALSE,2020,1.4142135623730951,141.805,Pop,Pop,Pop
+2021,16,glass animals,"""Heat Waves""",FALSE,2020,1,238.805,Pop,Indie,Pop
+2021,20,masked wolf,"""Astronaut in the Ocean""",FALSE,2020,0,132.78,Rap,Rap,Rap
+2021,27,walker hayes,"""Fancy Like""",FALSE,2020,1.4142135623730951,161.853,Country,Country,Country
+2021,31,giveon,"""Heartbreak Anniversary""",TRUE,2020,0,198.37,Rnb,Alternative,Rnb
+2021,33,lil tjay,"""Calling My Phone""",FALSE,2020,0,205.458,Unknown,NA,NA
+2021,37,tate mcrae,"""You Broke Me First""",FALSE,2020,1.7320508075688772,170.226,Pop,Electropop,Pop
+2021,39,pooh shiesty,"""Back in Blood""",FALSE,2020,0,184.489,Unknown,NA,NA
+2021,43,doja cat and the weeknd,"""You Right""",TRUE,2020,1,180.408,Unknown,NA,NA
+2021,44,spotemgottem,"""Beat Box 2"" / ""Beat Box 3""",FALSE,2020,0,169.5,Unknown,NA,NA
+2021,49,kali uchis,"""Telepatía""",FALSE,2020,0,160.191,Rnb,Rnb,Rnb
+2021,50,cj,"""Whoopty""",FALSE,2020,0,123.262,Rap,Rap,Rap
+2021,51,internet money,"""Lemonade""",FALSE,2020,0,195.428,Unknown,NA,NA
+2021,53,chris stapleton,"""Starting Over""",FALSE,2020,1.4142135623730951,240.413,Country,Country,Country
+2021,56,ajr,"""Bang!""",FALSE,2020,0,170.858,Pop,Favorite,Pop
+2021,58,yung bleu,"""You're Mines Still""",FALSE,2020,0,226.22,Unknown,NA,NA
+2021,60,wizkid,"""Essence""",TRUE,2020,1,248.04,Unknown,NA,NA
+2021,61,ryan hurd,"""Chasing After You""",FALSE,2020,0,207.973,Unknown,NA,NA
+2021,66,måneskin,"""Beggin'""",FALSE,2020,0,211.56,Rock,Rock,Rock
+2021,69,chris young,"""Famous Friends""",FALSE,2020,0,166.506,Unknown,NA,NA
+2021,75,mooski,"""Track Star""",FALSE,2020,0,199.706,Unknown,Hip Hop,NA
+2021,79,coi leray,"""No More Parties""",TRUE,2020,1,192.88,Unknown,NA,NA
+2021,82,duncan laurence,"""Arcade""",FALSE,2020,0,183.624,Pop,Eurovision,Pop
+2021,84,niko moon,"""Good Time""",FALSE,2020,0,214.72,Country,Country,Country
+2021,88,parmalee,"""Just the Way""",FALSE,2020,1,193.88,Unknown,NA,NA
+2021,92,brenda lee,"""Rockin' Around the Christmas Tree""",FALSE,2020,1.7320508075688772,126.266,Pop,Christmas,NA
+2021,93,ritt momney,"""Put Your Records On""",FALSE,2020,0,210.463,Electronic,Indie Pop,Electronic
+2021,95,cole swindell,"""Single Saturday Night""",FALSE,2020,1.4142135623730951,189.96,Unknown,NA,NA
+2021,96,lainey wilson,"""Things a Man Oughta Know""",FALSE,2020,1.4142135623730951,203.373,Country,Country,Country
+2021,97,brs kash,"""Throat Baby (Go Baby)""",TRUE,2020,0,211.609,Unknown,NA,NA
+2021,100,rauw alejandro,"""Todo de Ti""",FALSE,2020,0,199.604,Pop,Spanish,Pop
+2022,7,latto,"""Big Energy""",TRUE,2020,1,173.182,Pop,Hip-Hop,Pop
+2022,17,gayle,"""ABCDEFU""",FALSE,2020,0,168.601,Pop,Pop Rock,Pop
+2022,23,kate bush,"""Running Up That Hill (A Deal with God)""",FALSE,2020,0,298.933,Pop,80s,Pop
+2022,24,carolina gaitán,"""We Don't Talk About Bruno""",FALSE,2020,0,216.12,Unknown,NA,NA
+2022,28,steve lacy,"""Bad Habit""",TRUE,2020,1,232.066,Rnb,Indie,Rnb
+2022,29,nicky youre,"""Sunroof""",FALSE,2020,0,163.025,Pop,Pop,Pop
+2022,30,post malone and the weeknd,"""One Right Now""",FALSE,2020,0,194.786,Unknown,NA,NA
+2022,32,em beihold,"""Numb Little Bug""",FALSE,2020,0,169.237,Pop,Pop,Pop
+2022,34,cody johnson,"""'Til You Can't""",FALSE,2020,1,224.213,Country,Country,Country
+2022,39,zach bryan,"""Something in the Orange""",FALSE,2020,2,228.013,Country,Country,Country
+2022,48,gunna,"""Pushin P""",FALSE,2020,1.4142135623730951,136.266,Unknown,NA,NA
+2022,49,jordan davis,"""Buy Dirt""",FALSE,2020,1.4142135623730951,167.48,Unknown,NA,NA
+2022,51,dove cameron,"""Boyfriend""",FALSE,2020,0,153,Pop,Pop,Pop
+2022,52,joji,"""Glimpse of Us""",FALSE,2020,0,233.453,Pop,Ballad,Pop
+2022,53,jessica darrow,"""Surface Pressure""",FALSE,2020,0,202.226,Unknown,Soundtrack,NA
+2022,54,bailey zimmerman,"""Fall in Love""",FALSE,2020,2,232.058,Unknown,NA,NA
+2022,55,ckay,"""Love Nwantiti (Ah Ah Ah)""",FALSE,2020,0,145.8,Rnb,Rnb,Rnb
+2022,57,muni long,"""Hrs and Hrs""",TRUE,2020,1,177.692,Rnb,Rnb,Rnb
+2022,63,karol g,"""Provenza""",TRUE,2020,1,207.626,Latin,Reggaeton,Latin
+2022,67,tyler hubbard,"""5 Foot 9""",FALSE,2020,1,189.773,Country,Country,Country
+2022,73,neiked,"""Better Days""",FALSE,2020,0,160.656,Unknown,NA,NA
+2022,74,the anxiety: willow,"""Meet Me at Our Spot""",FALSE,2020,0,162.68,Unknown,NA,NA
+2022,75,lauren spencer-smith,"""Fingers Crossed""",FALSE,2020,0,175.344,Pop,Pop,Pop
+2022,81,lil durk,"""Broadway Girls""",FALSE,2020,1.4142135623730951,185.6,Unknown,NA,NA
+2022,86,bobby helms,"""Jingle Bell Rock""",FALSE,2020,1.4142135623730951,130.973,Pop,Christmas,NA
+2022,89,burl ives,"""A Holly Jolly Christmas""",FALSE,2020,1.4142135623730951,135.533,Folk,Christmas,NA
+2022,91,russell dickerson,"""She Likes It""",FALSE,2020,0,163.311,Unknown,NA,NA
+2022,93,scotty mccreery,"""Damn Strait""",FALSE,2020,0,230.226,Country,Country,Country
+2022,95,jon pardi,"""Last Night Lonely""",TRUE,2020,0,182.161,Country,Country,Country
+2022,96,ernest,"""Flower Shops""",FALSE,2020,0,214.405,Unknown,NA,NA
+2022,97,jnr choi,"""To the Moon""",TRUE,2020,0,152.137,Rap,Hip Hop,Rap
+2023,5,metro boomin,"""Creepin'""",FALSE,2020,1,221.52,Unknown,NA,NA
+2023,6,rema,"""Calm Down""",FALSE,2020,0,239.317,Pop,Pop,Pop
+2023,20,pinkpantheress,"""Boy's a Liar Pt. 2""",FALSE,2020,0,131.013,Unknown,NA,NA
+2023,21,toosii,"""Favorite Song""",FALSE,2020,0,204,Unknown,Love At First Listen,NA
+2023,26,eslabon armado,"""Ella Baila Sola""",FALSE,2020,0,165.671,Unknown,NA,NA
+2023,34,jelly roll,"""Need a Favor""",FALSE,2020,1.7320508075688772,197.4,Unknown,Racist,NA
+2023,40,yng lvcas,"""La Bebé""",FALSE,2020,0,234.352,Unknown,NA,NA
+2023,41,jvke,"""Golden Hour""",FALSE,2020,0,209.259,Pop,Pop,Pop
+2023,44,fifty fifty,"""Cupid""",FALSE,2020,0,174.116,Electronic,K-Pop,NA
+2023,48,raye,"""Escapism""",FALSE,2020,0,272.373,Pop,Hip Hop,Pop
+2023,49,grupo frontera,"""Un x100to""",FALSE,2020,0,194.563,Unknown,NA,NA
+2023,50,stephen sanchez,"""Until I Found You""",FALSE,2020,0,177.72,Pop,Pop,Pop
+2023,54,hardy,"""Wait in the Truck""",FALSE,2020,1,277.659,Unknown,NA,NA
+2023,62,david kushner,"""Daylight""",FALSE,2020,0,212.953,Pop,Pop,Pop
+2023,67,megan moroney,"""Tennessee Orange""",FALSE,2020,0,223.119,Country,Country,Country
+2023,69,ice spice,"""Princess Diana""",FALSE,2020,0,172.125,Rap,Hip-Hop,Rap
+2023,70,glorilla,"""Tomorrow 2""",FALSE,2020,1.4142135623730951,209.811,Unknown,NA,NA
+2023,73,fuerza regida,"""Bebe Dame""",FALSE,2020,0,271.861,Unknown,NA,NA
+2023,76,doechii,"""What It Is (Block Boy)""",FALSE,2020,0,223.343,Unknown,NA,NA
+2023,78,oliver anthony music,"""Rich Men North of Richmond""",FALSE,2020,0,187.244,Country,Country,Country
+2023,80,noah kahan,"""Dial Drunk""",TRUE,2020,1,213.817,Unknown,NA,NA
+2023,82,jungkook,"""Seven""",FALSE,2020,0,286.537,Unknown,NA,NA
+2023,85,parker mccollum,"""Handle on You""",FALSE,2020,1,219.967,Country,Country,Country
+2023,86,peso pluma,"""Por Las Noches""",FALSE,2020,1,238.888,Unknown,Pura Doble P,NA
+2023,88,kaliii,"""Area Codes""",FALSE,2020,0,139.325,Unknown,NA,NA
+2023,93,corey kent,"""Wild as Her""",FALSE,2020,0,201.066,Unknown,NA,NA
+2023,94,young nudy,"""Peaches & Eggplants""",FALSE,2020,0,203.813,Unknown,NA,NA
+2023,96,bizarrap,"""Bzrp Music Sessions, Vol. 53""",FALSE,2020,0,214.945,Unknown,NA,NA
+2024,1,teddy swims,"""Lose Control""",FALSE,2020,0,210.688,Pop,Soul,Pop
+2024,2,shaboozey,"""A Bar Song (Tipsy)""",FALSE,2020,0,171.291,Country,Country,Country
+2024,3,benson boone,"""Beautiful Things""",FALSE,2020,1,180.304,Pop,Pop,Pop
+2024,7,sabrina carpenter,"""Espresso""",FALSE,2020,1.7320508075688772,175.459,Pop,Pop,Pop
+2024,8,tommy richman,"""Million Dollar Baby""",FALSE,2020,0,155.151,Rnb,Rnb,Rnb
+2024,18,chappell roan,"""Good Luck, Babe!""",FALSE,2020,1,218.423,Pop,Synthpop,Pop
+2024,24,tyla,"""Water""",TRUE,2020,0,200.255,Rnb,Rnb,Rnb
+2024,27,dasha,"""Austin""",FALSE,2020,0,171.782,Country,Country,Country
+2024,36,jessie murph,"""Wild Ones""",FALSE,2020,0,141.367,Unknown,NA,NA
+2024,38,¥$ (kanye west,"""Carnival""",FALSE,2020,0,264.334,Unknown,NA,NA
+2024,47,djo,"""End of Beginning""",FALSE,2020,0,159.245,Pop,Indie,Pop
+2024,49,flo milli,"""Never Lose Me""",TRUE,2020,0,125.901,Rap,Rap,Rap
+2024,52,floyymenor,"""Gata Only""",FALSE,2020,0,222,Unknown,NA,NA
+2024,55,sexyy red,"""Get It Sexyy""",FALSE,2020,0,148.551,Rap,Hip Hop,Rap
+2024,60,warren zeiders,"""Pretty Little Poison""",FALSE,2020,0,218.26,Country,Country,Country
+2024,63,artemas,"""I Like the Way You Kiss Me""",FALSE,2020,0,142.514,Pop,Coldwave,NA
+2024,72,xavi,"""La Diabla""",FALSE,2020,0,172.264,Unknown,Ranchera,NA
+2024,73,myles smith,"""Stargazing""",FALSE,2020,0,172.533,Pop,Stomp And Holler,Pop
+2024,78,paul russell,"""Lil Boo Thang""",FALSE,2020,0,114.233,Pop,Pop,Pop
+2024,80,4batz,"""Act II: Date @ 8""",FALSE,2020,0,231.338,Unknown,NA,NA
+2024,81,koe wetzel,"""High Road""",FALSE,2020,0,179.413,Unknown,NA,NA
+2024,90,nate smith,"""World on Fire""",FALSE,2020,1,189.986,Unknown,NA,NA
+2024,91,victoria monét,"""On My Mama""",FALSE,2020,0,184.258,Rnb,Female Vocalists,Rnb
+2024,95,tucker wetmore,"""Wind Up Missin' You""",FALSE,2020,0,166.666,Country,Country,Country
