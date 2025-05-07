@@ -1,0 +1,557 @@
+---
+title: "Stat 333 - Final Project Report"
+author: "Kyan Cox, Kexin Wen, Shivani Potnuru"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, eval = FALSE)
+
+library(tidyverse)  
+library(jsonlite)
+library(httr)
+library(DBI)
+library(RSQLite)
+library(patchwork)
+```
+
+## Major vs. Indie: Analyzing Label Impact on Billboard Hot 100 Reappearances 
+
+### Introduction
+
+The Billboard Hot 100 is one of the most influential music charts in the U.S., representing the pinnacle of commercial success and cultural relevance in popular music. However, making an initial appearance on the chart is only the beginning; the true challenge lies in whether an artist can return to the chart, demonstrating sustained popularity. This not only reflects the appeal of the artist’s work but also highlights the underlying impact of resource allocation and promotional strategies. 
+
+Within this context, a compelling question arises: Are artists signed to major record labels more likely to reappear on the Billboard Hot 100 than their independent counterparts? Major labels such as Universal, Sony, and Warner typically possess greater financial resources and promotional infrastructure, which in theory could help sustain an artists visibility. However, with the rise of digital platforms and social media, an increasing number of independent artists have managed to gain widespread recognition through online channels alone.
+
+Using historical data from the Billboard Hot 100, this study investigates that artists signed to major labels do not have a statistically significant chance in reappearing on the chart after their initial breakout—even after controlling for variables such as initial chart position, musical genre, and release timing. In contrast, factors like the debut songs performance and genre play a more decisive role in shaping an artist’s continued visibility. These findings can be said to challenge conventional assumptions about the dominance of major-label backing and offer important implications for marketing allocation in the American music industry. 
+
+
+### Methods
+
+To determine whether affiliation with a major record label influences an artist's likelyhood of repeatedly appearing on the Billboard hot 100, we integrated multiple publicly avaliable data sources. Our primary dataset consists of the Billboard Year-End Hot 100 charts spanning 1970-2024, gathered through web scraping Wikipedia ([e.g., Billboard Year-End Hot 100 Singles of 1995](https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1995)). Intially, this yielded approximately 5,400 song entries containing rank ("No."), song title, artists, and year. 
+
+Given our focus on sustained popularity after initial breakthrough, we condensed the raw file to a single record per artist. The `Artist(s)` field was tokenized on common delimiters (commas, "feat.", "&", "x", etc.), with the first token being treated as the `primary artist`. If multiple songs from a primary artist debuted simultaneously, we selected the song with the highest initial rank, treating subsequent songs as reappearances. After these refinements, our dataset comprised 2,043 unique artist–song combinations. Derived indicators included `is_first_appearance` (indicator) and `reappearance_count` =  `total_appearances` - 1. 
+
+To accurately categorize artists by label status, we queried each debute track via the Spotify Web API ([Spotify Web API](https://developer.spotify.com/)) using the spotifyr R package. From Spotify, we collected: (1) the official label name(s), (2) track duration (`duration_sec`), and (3) release date, used only for validation purposes (e.g., identifying reissues/remastered songs). Label strings were standardized through trimming, punctuation removal, and lower-casing, then cross-referenced against decade-specific major label lists gathered from Wikipedia (e.g., 1950s-1970s: RCA Records, Columbia Records; 1980s-1990s: MCA Records, PolyGram; 2000s: Universal, Sony, Warner) compiled from industry histories, while also considering for sub-labels (e.g., Rhino Atlantic under Warner in the 1980s).This created our binary variable, is_major_label, classifying 475 debute artists as "Major" and 962 as "Indie" DOUBLE CHECK THESE NUMBERS 
+
+Recognizing the critical role genre plays in sustained musical popularity, we also decided to annotate each track's genre. We initially matched each song to the Million Song Database's (track_metadata.db) titles and artists using exact and fuzzy matching techniques, retrieving track ID's subsequently linked to one of 15 high-level genres provided in the Tagtraum annotations (msd_tagtraum_cds.cls). Because the Million Song Dataset primary covers songs up to 2010, recent entries frequently lacked genre annotations. To address these gaps, we used the Last.fm API to fetch user generated top-five tags, accepting the first match from the same predefined genre categories that Tagtraum used. After deduplication (preferring Tagtraum over Last.fm when both were available) CHECK THIS only approximately 8% of songs remained “Unknown”. The final categorical variable of genre therefore blends MSD labels with curated user tags while preserving a single genre per song. 
+
+Our outcome variable, `reapperance_count`, showed considerable right skewness with a median of 0, and max of 15. To address this, we decided to use log_reappearance = log(reappearance_count + 1) as the dependent variable in all models; the +1 helps keep the 0-reappearance "one-hit-wonders" on the scale.
+
+Our primary analysis applied an ordinary least squares regression: 
+
+```{r, eval = TRUE}
+log_reappearance ~ is_major_label + No. + decade + duration_sec + genre
+```
+
+Here, `No.` represents initial chart position (1 being the highest), chosen to control for initial commercial success; `genre` adjusts for lister-base loyalty; `duration_sec` indirectly captures streaming and radio-friendliness; and decade serves as a cateogrical fixed effect accountinf for systemic industry changes across time. Additionally, when running linear regression, categorical variables required explicit baseline categories. For the decade variable, we chose the 1970s as the baseline, allowing us to interpret the regression coefficients of subsequent decades relative to this earlier period. Similarly, for genre, we selected ‘Unknown’ as the reference category, to ensure we were comparing all known genres consistently against an undefined baseline. 
+
+All data preparation steps—including scraping, fuzzy matching, label verification, standardization, and genre annotations—were implemented through replicable R scripts detailed in the accompanying .Rmd document.
+
+```{r Figure 1, echo = FALSE, eval = TRUE, message = FALSE, warning = FALSE, fig.width = 5, fig.asp = .3,fig.cap = "Distribution of log‑transformed re‑appearance counts for first‑time Billboard Hot 100 artists by label type (n = 475 major‑label, n = 962 indie). Bars show the percentage of artists in each group; the spike at 0 reflects ‘one‑hit‑wonders’. The two distributions are nearly identical, reinforcing that label affiliation does not predict sustained chart success."}
+
+df <- read_csv("billboard_top100_with_top_tag3.csv", show_col_types = FALSE) %>% 
+  mutate(
+    reappearance_count = coalesce(reappearance_count, (sqrt_reappearance)^2, 0),
+    log_reappearance   = log(reappearance_count + 1),
+    label_type         = if_else(is_major_label, "Major", "Indie")
+  )
+
+plot_hist <- function(d, ttl, fill) {
+  ggplot(d, aes(log_reappearance)) +
+    geom_histogram(aes(y = after_stat(count / sum(count))),
+                   bins = 30, fill = fill, colour = "grey25", alpha = .8) +
+    scale_y_continuous(labels = scales::percent) +
+    coord_cartesian(xlim = c(0, 3)) +
+    labs(title = ttl, x = "log(reappearance + 1)", y = "% of artists") +
+    theme_minimal(base_size = 10)
+}
+
+p_major <- plot_hist(filter(df, label_type == "Major"),
+                     "(a) Major‑label artists", "#4575b4")
+p_indie <- plot_hist(filter(df, label_type == "Indie"),
+                     "(b) Indie artists",      "#91cf60")
+
+p_major | p_indie 
+```
+
+```{r dataset creation}
+# all code used to create final data set
+
+# ------------------- SCRAPING THE BILLBOARD END OF YEAR HOT 100 --------------------------
+
+scrape_year <- function(year) {
+  url <- paste0("https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_", year)
+  page <- read_html(url)
+  
+  table_node <- page %>% html_node("table.wikitable")
+  
+  # if no table found; return NULL
+  if (is.null(table_node)) {
+    warning(paste("No table found for", year))
+    return(NULL)
+  }
+  df <- table_node %>% html_table(fill = TRUE)
+  
+    if (ncol(df) > 0) {
+    names(df)[1] <- "No."
+    }
+  
+  df$Year <- year
+  return(df)
+}
+
+years <- 1970:2024
+
+all_data <- map_dfr(years, function(y) {
+  message("Scraping ", y, "...")
+  scraped <- tryCatch(scrape_year(y), error = function(e) NULL)
+  scraped
+})
+
+# organizing to arrange by year
+if ("№" %in% colnames(all_data)) {
+  all_data <- all_data %>% rename(No. = `№`)
+}
+
+if ("Artist(s)" %in% colnames(all_data)) {
+  all_data <- all_data %>% rename(Artist = `Artist(s)`)
+}
+
+# ensure correct data type
+all_data <- all_data %>% mutate(`No.` = as.integer(`No.`))
+
+# possible chars that represent a split between two artists
+sep_rx2 <- regex(
+  "(?i)\\s*(?:,|&|\\bfeaturing\\b|\\bfeat\\.?\\b|\\bwith\\b|\\bvs?\\.?\\b| and (?!the\\b)| x )\\s*"
+)
+
+# preserve original artist string
+rank_by_year <- all_data %>%
+  mutate(
+    Artist      = tolower(Artist) %>% str_trim(),
+    all_artists = Artist,
+    # separating the artists 
+    artist_list = str_split(Artist, sep_rx2)
+  ) %>%
+  mutate(
+    primary_artist = map_chr(artist_list, 1) %>% str_squish(),
+    other_artists  = map_chr(
+      artist_list,
+      ~ {
+        tmp <- discard(.x[-1], ~ .x == "")
+        if (length(tmp)==0) return(NA_character_)
+        paste(tmp, collapse = ", ")
+      }
+    )
+  ) %>%
+  group_by(primary_artist) %>%
+  mutate(
+    primary_artist_count = n(),
+    one_hit              = ifelse(n()==1, 1, 0)
+  ) %>%
+  ungroup()
+
+# final data w/ selected cols 
+final_data <- rank_by_year %>%
+  select(
+    No., Title, Year,
+    Artist,          
+    artist_list,      
+    primary_artist,
+    primary_artist_count,
+    one_hit
+  )
+
+# calculating the amount of times an artist appeared 
+artist_total_counts <- final_data %>%
+  count(primary_artist, name = "total_appearances")
+
+artist_first_appearance <- final_data %>%
+  arrange(Year, `No.`) %>%
+  group_by(primary_artist) %>%
+  slice_head(n = 1) %>%
+  ungroup() %>%
+  select(primary_artist, Year, Title) %>%
+  mutate(is_first_appearance = TRUE)
+
+# including first appearance field 
+new_final_data <- final_data %>%
+  left_join(artist_total_counts, by = "primary_artist") %>%
+  left_join(artist_first_appearance %>% mutate(flag_first = TRUE),
+            by = c("primary_artist", "Year", "Title")) %>%
+  mutate(
+    is_first_appearance = ifelse(is.na(flag_first), FALSE, TRUE)
+  ) %>%
+  select(
+    primary_artist, Year, Title,
+    artist_list,
+    is_first_appearance,
+    total_appearances
+  )
+
+write_csv(final_data, "finalData.csv") # this file has placements
+
+
+# ----------------- SPOTIFY API FOR LABELS & DURATION -----------------------
+
+install.packages("spotifyr", repos="https://cloud.r-project.org/")
+install.packages("progress")
+
+library(spotifyr)
+library(tidyverse)
+library(progress)
+
+# replace with your own API key
+Sys.setenv(
+  SPOTIFY_CLIENT_ID     = "REPLACE WITH YOUR API KEY",
+  SPOTIFY_CLIENT_SECRET = "REPLACE WITH YOUR SLIENT SECRET"
+)
+access_token <- get_spotify_access_token()
+
+get_label_and_date <- function(song_title, artist_name) {
+  tryCatch({
+    Sys.sleep(1.5)
+    results <- search_spotify(paste(song_title, artist_name),
+                              type = "track", limit = 5)
+    if (nrow(results) == 0)
+      return(list(label = NA_character_, date = NA_character_))
+
+    results <- results %>%
+      filter(!is.na(album.release_date)) %>%
+      arrange(album.release_date)
+
+    alb <- get_album(results$album.id[1])
+    list(label = alb$label, date = alb$release_date)
+  }, error = function(e) list(label = NA_character_, date = NA_character_))
+}
+
+# split into 500-row batches to avoid losing data
+chunk_size <- 500
+n          <- nrow(new_final_data)
+chunk_ids  <- ceiling(seq_len(n) / chunk_size)
+
+# detect batches already saved so we can resume
+done_chunks <- list.files(pattern = "^batch_labels_\\d{3}\\.csv$") |>
+               stringr::str_extract("\\d{3}") |>
+               as.integer()
+
+batch_results <- vector("list", length = max(chunk_ids))
+
+for (i in setdiff(seq_len(max(chunk_ids)), done_chunks)) {
+  full_data <- new_final_data %>% filter(chunk_ids == i)
+
+  # progress bar to keep track
+  pb <- progress_bar$new(
+    total  = nrow(full_data),
+    format = paste0("Batch ", i, " [:bar] :current/:total ",
+                    "(:percent) Elapsed: :elapsed"),
+    clear  = FALSE
+  )
+
+  label_info_list <- map2(full_data$Title, full_data$primary_artist,
+                          function(t, a) { pb$tick(); get_label_and_date(t, a) })
+
+  batch_out <- full_data %>%
+    mutate(
+      artist_list  = map_chr(artist_list,
+                             jsonlite::toJSON,
+                             auto_unbox = TRUE),
+      label_info   = label_info_list,
+      record_label = map_chr(label_info, "label"),
+      album_year   = map_chr(label_info, "date")
+    ) %>%
+    select(-label_info)
+
+  write_csv(batch_out, sprintf("batch_labels_%03d.csv", i))
+  batch_results[[i]] <- batch_out
+}
+
+# combine all batches (new + previously finished)
+final_combined <- list.files(pattern = "^batch_labels_\\d{3}\\.csv$") |>
+                  map_dfr(readr::read_csv, show_col_types = FALSE)
+
+write_csv(final_combined, "STAT333_full_with_labels.csv")
+
+# -------------------- CATEGORIZING AS MAJOR LABEL ----------------------------
+
+# Make sure to use setwd() in the terminal first before running this.
+
+# load the dataset from previous code 
+df <- read_csv("STAT333_full_with_labels.csv") 
+
+# count unique values in the record_label column
+unique_labels <- df %>%
+  distinct(record_label) %>%
+  pull(record_label)
+
+# print the unique labels
+cat("Number of unique record labels:", length(unique_labels), "\n\n")
+print(unique_labels)
+
+# mutate new column
+df <- df %>%
+  mutate(
+    record_label_list = str_split(record_label, pattern = "\\s*/\\s*")
+  )
+
+# recognizes lowercase & trimmed (columbia vs columbia records) 
+major_labels_list <- list(
+  `1970s` = c("rca records", "columbia records", "capitol records", "columbia",
+              "atlantic records", "motown", "emi records", "island records",
+              "polygram", "warner records", "mca records",
+              # sub-labels / catalog divisions showing up in your data
+              "rhino", "rhino atlantic", "legacy", "uni"),
+  
+  `1980s` = c("rca records", "columbia records", "capitol records", "columbia",
+              "atlantic records", "motown", "emi records", "island records",
+              "polygram", "sony music entertainment", "warner music group",
+              "mca records",
+              # catalog & reissue labels
+              "rhino", "rhino atlantic", "legacy", "uni"),
+  
+  `1990s` = c("universal music group", "sony music entertainment",
+              "warner music group", "bertelsmann music group", "emi records",
+              "island records", "polygram", "mca records",
+              # big-three sub-labels
+              "rhino", "legacy","arista", "a&m"),
+  
+  `2000s` = c("universal music group", "sony music entertainment",
+              "warner music group", "emi", "bmg", 
+              # modern imprint sub-labels
+              "interscope records",
+              "def jam recordings", "jive", "atlantic records", "geffen", "epic"),
+  
+  `2010s` = c("universal music group", "sony music entertainment",
+              "warner music group", 
+              # today’s big-three imprints
+              "interscope records", "def jam recordings",
+              "republic records", "ovo sound", "aftermath", "jive", "geffen",
+              "epic", "rca records"),
+  
+  `2020s` = c("universal music group", "sony music entertainment",
+              "warner music group", 
+              # current sub-labels you saw in your 2020s top-10
+              "interscope records", "def jam recordings",
+              "republic records", "ovo sound", "aftermath", "kemosabe records",
+              "mercury records", "atlantic records", "epic", "rca records")
+)
+
+# normalize all lookup values
+major_lookup_clean <- map(major_labels_list, ~ str_trim(str_to_lower(.x)))
+
+# update each row if ANY of its record_label_list is in the decade’s majors
+df_flagged <- df %>%
+  mutate(decade = paste0(floor(Year / 10) * 10, "s")) %>%
+  rowwise() %>%
+  mutate(
+    is_major_label = any(
+      str_trim(str_to_lower(record_label_list)) %in% major_lookup_clean[[decade]]
+    )
+  ) %>%
+  ungroup()
+
+# split record label list by x; y; z
+df_with_record_label <- df_flagged %>%
+  mutate(
+    record_label_list = map_chr(record_label_list, ~ str_c(.x, collapse = "; "))
+  )
+
+write_csv(df_with_record_label, "data-with-major-label-binary-cleaned.csv")
+
+# ------------------ ADDING PLACEMENT COLUMN ----------------------------------
+
+# has placements column
+df_placements <- read_csv("finalData.csv") 
+# file generated with record label classifications
+df_major_label <- read_csv("data-with-major-label-binary-cleaned.csv") 
+
+df <- df_major_label %>%
+  filter(is_first_appearance) %>%
+  left_join(
+    df_placements %>% select(Title, Year, primary_artist, No.),
+    by = c("Title", "Year", "primary_artist")
+  ) %>%
+  mutate(
+    # squaring reappearance count
+    reappearance_count  = total_appearances - 1,
+    sqrt_reappearance = sqrt(reappearance_count),
+    
+    reappears_after_first = reappearance_count > 0
+  )
+
+readr::write_csv(df, "new_data_with_placements.csv")
+
+#-------------------  GENRE TAGGING w/ MSD Tagtraum ---------------------------
+
+# load and filter billboard Top 40 data. 
+df <- read_csv("new_data_with_placements.csv", show_col_types = FALSE) %>%
+  # filter(No. >= 1 & No. <= 40) %>%
+  mutate(row_id = row_number())
+
+# Load MSD metadata and genre; make sure you have db in wd 
+con <- dbConnect(SQLite(), "track_metadata.db")
+track_metadata <- dbGetQuery(con, "SELECT track_id, title, artist_name FROM songs")
+
+genre_df <- read_delim(
+  "msd_tagtraum_cd2.cls",
+  delim = "\t",
+  col_names = FALSE,
+  comment = "#",
+  show_col_types = FALSE
+) %>%
+  rename(track_id = X1, genre = X2)
+
+# clean strings for matching
+clean_string <- function(x) {
+  x %>%
+    tolower() %>%
+    str_replace_all("&", "and") %>%
+    str_replace_all("[“”\"']", "") %>%
+    str_replace_all("[^a-z0-9 ]", "") %>%
+    str_squish()
+}
+
+df_clean <- df %>%
+  mutate(title_clean = clean_string(Title),
+         artist_clean = clean_string(primary_artist))
+
+track_clean <- track_metadata %>%
+  mutate(title_clean = clean_string(title),
+         artist_clean = clean_string(artist_name))
+
+# exact match
+exact_matches <- df_clean %>%
+  left_join(track_clean, by = c("title_clean", "artist_clean")) %>%
+  filter(!is.na(track_id)) %>%
+  select(row_id, track_id)
+
+# fuzzy match (only for unmatched)
+unmatched <- df_clean %>% filter(!(row_id %in% exact_matches$row_id))
+
+fuzzy_matches <- stringdist_inner_join(
+  unmatched, track_clean,
+  by = c("title_clean", "artist_clean"),
+  max_dist = 2,
+  distance_col = "dist"
+) %>%
+  group_by(row_id) %>%
+  slice_min(dist, n = 1, with_ties = FALSE) %>%
+  ungroup() %>%
+  select(row_id, track_id)
+
+# combine matches and join genre
+track_matches <- bind_rows(exact_matches, fuzzy_matches)
+
+df_matched <- df_clean %>%
+  left_join(track_matches, by = "row_id") %>%
+  left_join(genre_df, by = "track_id")
+
+# SDeduplicate — keep one row per (Title, primary_artist), preferring genre not NA
+df_deduped <- df_matched %>%
+  group_by(Title, primary_artist) %>%
+  arrange(is.na(genre)) %>%
+  slice(1) %>%
+  ungroup()
+
+# save results
+write_csv(df_deduped, "billboard_top100_cleaned_genre.csv")
+
+# summary
+df_deduped %>% count(Matched = !is.na(genre))
+
+# ---------------------- LASTFM TO FILL IN GAPS -------------------------------
+
+# insert your own LASTFM API key
+LASTFM_API_KEY <- "INSERT LASTFM API KEY"
+allowed_genres <- c(
+  "Blues", "Country", "Electronic", "Folk", "Jazz", "Latin", "Metal", "New Age", "Pop",
+  "Punk", "Rap", "Reggae", "RnB", "Rock", "World"
+) %>%
+  tolower() %>%
+  str_replace_all("/", " ")
+
+# look for allowed genre within top 5 tags
+get_lastfm_genre_from_top5 <- function(artist, track) {
+  url <- modify_url(
+    "http://ws.audioscrobbler.com/2.0/",
+    query = list(
+      method  = "track.getTopTags",
+      api_key = LASTFM_API_KEY,
+      artist  = artist,
+      track   = track,
+      format  = "json"
+    )
+  )
+  
+  txt <- tryCatch(
+    GET(url) %>% stop_for_status() %>% content("text", encoding = "UTF-8"),
+    error = function(e) NA_character_
+  )
+  if (is.na(txt)) return(NA_character_)
+  
+  tags <- fromJSON(txt, simplifyDataFrame = TRUE)$toptags$tag
+  if (is.null(tags) || nrow(as_tibble(tags)) == 0) return(NA_character_)
+  
+  nm <- tolower(tags$name) %>%
+    str_replace_all("/", " ") %>%
+    .[1:min(5, length(.))]  # Limit to top 5
+  
+  allowed_match <- nm[nm %in% allowed_genres]
+  if (length(allowed_match) == 0) return(NA_character_)
+  
+  str_to_title(allowed_match[1])
+}
+
+# load & prep data 
+df <- read_csv("billboard_top100_cleaned_genre.csv", show_col_types = FALSE) %>%
+  mutate(
+    clean_title   = str_remove_all(Title, '"'),
+    search_artist = map_chr(artist_list, ~ {
+      a <- tryCatch(fromJSON(.x), error = function(e) primary_artist)
+      paste(a, collapse = " & ")
+    }),
+    new_lastfm_genre = NA_character_
+  )
+
+#  fill genre if one of top 5 tags is allowed 
+to_fill <- which(is.na(df$new_lastfm_genre))
+message("Checking top 5 tags for ", length(to_fill), " tracks...")
+
+pb <- progress_bar$new(
+  total = length(to_fill),
+  format = " Fetching [:bar] :current/:total (:percent) ETA: :eta"
+)
+
+for (i in to_fill) {
+  pb$tick()
+  Sys.sleep(0.5)
+  df$new_lastfm_genre[i] <- get_lastfm_genre_from_top5(df$search_artist[i], df$clean_title[i])
+}
+
+# save result to file
+write_csv(df, "billboard_top100_with_top_tag3.csv")
+```
+
+``` {r regression analysis}
+
+# REGRESSION + DIAGNOSTICS 
+df <- read_csv("billboard_top100_with_top_tag3.csv", show_col_types = FALSE) %>% 
+  mutate(
+    is_major_label   = factor(is_major_label, labels = c("Independent","Major")),
+    decade           = factor(decade),
+    genre            = factor(replace_na(lastfm_genre, "Unknown")),
+    reappearance     = ifelse("reappearance" %in% names(.), reappearance,
+                              replace_na(sqrt_reappearance, 0)^2),
+    log_reappearance = log(reappearance + 1)
+  )
+
+mod_A <- lm(log_reappearance ~ is_major_label + No. + decade + duration_sec +
+              relevel(genre, ref = "Unknown"), data = df)
+
+par(mfrow = c(2, 2))
+summary(mod_A)
+```
